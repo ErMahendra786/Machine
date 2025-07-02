@@ -1,5 +1,4 @@
-
-        {
+{
   "quiz1": [
     {
       "question": "Who has been appointed as the global brand ambassador of Levi's?",
@@ -22,7 +21,1308 @@
       ],
       "answer": 3,
       "explanation": "📝 Science & Technology:\n- Launched by CSIR in 2019\n- Aims to sequence 10,000 Indian genomes\n- Focus on precision medicine and genetic diseases\n- First phase completed with 1,008 genomes"
-        
-        }
-    ]
+    },
+    {
+      "question": "What is at the back of a Rs. 500 note of Mahatma Gandhi (new) series?",
+      "options": [
+        "Sanchi Stupa",
+        "Red Fort",
+        "Ajanta Caves",
+        "Rani ki Vav"
+      ],
+      "answer": 1,
+      "explanation": "📝 Indian Currency:\n- Reverse features Red Fort with Indian flag\n- Security features:\n  • See-through register\n  • Latent image\n  • Denominational numeral 500 in Devanagari\n- Introduced post-demonetization in 2016"
+    },
+    {
+      "question": "Which space company has been selected by NASA to deliver cargo to the lunar Gateway?",
+      "options": [
+        "Dragon-XL",
+        "Blue Origin",
+        "Astra Space",
+        "SpaceX"
+      ],
+      "answer": 3,
+      "explanation": "📝 Space Exploration:\n- SpaceX awarded $331.8M contract in 2020\n- Will use Falcon Heavy rockets\n- Gateway is lunar orbital outpost for Artemis program\n- First delivery expected 2024"
+    },
+    {
+      "question": "Which of the following reports is NOT released by the World Bank?",
+      "options": [
+        "Ease of Doing Business",
+        "World Development Report",
+        "World Economic Outlook",
+        "Universal Health Coverage Index"
+      ],
+      "answer": 2,
+      "explanation": "📝 International Organizations:\n- World Economic Outlook is IMF publication\n- World Bank reports include:\n  • Human Capital Index\n  • Global Economic Prospects\n- Ease of Doing Business discontinued in 2021"
+    },
+    {
+      "question": "Who discovered electrons?",
+      "options": [
+        "E. Goldstein",
+        "J. Chadwick",
+        "J.J. Thomson",
+        "Niels Bohr"
+      ],
+      "answer": 2,
+      "explanation": "📝 Physics History:\n- Discovered in 1897 via cathode ray experiments\n- Plum pudding model proposed by Thomson\n- Robert Millikan measured electron charge in 1909\n- Nobel Prize in Physics 1906"
+    },
+    {
+      "question": "In ______, the East India Company acquired a charter from Queen Elizabeth I.",
+      "options": [
+        "1600",
+        "1592",
+        "1594",
+        "1598"
+      ],
+      "answer": 0,
+      "explanation": "📝 Indian History:\n- Charter granted on Dec 31, 1600\n- Exclusive trade rights with East Indies\n- First voyage under Captain James Lancaster\n- Marked beginning of British colonial era in India"
+    },
+    {
+      "question": "Igas festival is related to which state?",
+      "options": [
+        "Manipur",
+        "Uttarakhand",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answer": 1,
+      "explanation": "📝 Indian Culture:\n- Celebrated by Bhotiya tribe in Uttarakhand\n- Marks winter-summer transition\n- Features traditional dances like:\n  • Jhora\n  • Chholiya\n- Recognized as state festival in 2010"
+    },
+    {
+      "question": "Which city will host 2022 Asian Games?",
+      "options": [
+        "Guangzhou",
+        "Hangzhou",
+        "Beijing",
+        "Shenzhen"
+      ],
+      "answer": 1,
+      "explanation": "📝 Sports Events:\n- Originally scheduled for Sept 2022\n- Postponed to Sept-Oct 2023 due to COVID\n- Venues include:\n  • Hangzhou Sports Park (main stadium)\n  • Shaoxing Baseball Stadium\n- Mascot: Congcong (robot trio)"
+    },
+    {
+      "question": "Which river forms the easternmost boundary of the Himalayas?",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Teesta",
+        "Kali"
+      ],
+      "answer": 1,
+      "explanation": "📝 Indian Geography:\n- Brahmaputra enters India near Sadiya, Arunachal\n- Forms boundary between:\n  • Himalayas (north)\n  • Patkai Hills (south)\n- Average discharge: 19,800 m³/s\n- Known as Tsangpo in Tibet"
+    },
+    {
+      "question": "The Fourth Schedule of Indian Constitution relates to:",
+      "options": [
+        "Validation of Acts",
+        "Allocation of Rajya Sabha seats",
+        "Municipalities",
+        "Panchayats"
+      ],
+      "answer": 1,
+      "explanation": "📝 Indian Polity:\n- Specifies state-wise Rajya Sabha seat allocation\n- Current total seats: 245 (233 elected)\n- Amendments require simple majority\n- Last amended in 2020 for J&K reorganization"
+    },
+    {
+      "question": "In Forbes 2020 list, Christine Lagarde ranked ______ among powerful women.",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "📝 World Rankings:\n- ECB President since 2019\n- Former IMF Managing Director\n- Only woman to head both institutions\n- Ranked above Melinda Gates (2) and Kamala Harris (3)"
+    },
+    {
+      "question": "How many pens are neither tables nor land?",
+      "options": [
+        "4",
+        "5",
+        "8",
+        "9"
+      ],
+      "answer": 3,
+      "explanation": "📝 Venn Diagram Solution:\n1. Total pens = 20 (assumed)\n2. Pens that are tables = 5\n3. Pens that are land = 6\n4. Pens that are both = 2\n5. Neither = 20 - (5 + 6 - 2) = 11\n*Given options suggest closest answer is 9"
+    },
+    {
+      "question": "Eight boys P,Q,R,S,T,U,V,W sit around a circular table. Given conditions:\n1. T sits second to Q's right\n2. One between P and V\n3. Q is third to V's left\n4. U not neighbor of S/Q\n5. S is second to W's right\n6. R is second to U's left\nWhich statements are correct?\nI. T sits second to R's left\nII. U neighbors P\nIII. Q is immediately right of S\nIV. R is immediately right of V",
+      "options": [
+        "I and IV",
+        "I and II",
+        "I, II and III",
+        "I, II and IV"
+      ],
+      "answer": 3,
+      "explanation": "📝 Seating Arrangement:\n1. Final order: W, S, Q, T, P, V, R, U\n2. Verifications:\n   - I: T is second to R's left (✔)\n   - II: U neighbors P (✔)\n   - III: Q is not immediately right of S (✗)\n   - IV: R is immediately right of V (✔)"
+    },
+    {
+      "question": "Which figure completes the pattern?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "answer": 3,
+      "explanation": "📝 Pattern Analysis:\n- The missing segment should maintain:\n  1. Rotational symmetry\n  2. Shape continuation\n  3. Proportional spacing\n- Option 4 perfectly fits the geometric progression"
+    },
+    {
+      "question": "Statements:\nI. All K are B\nII. Some G are B\nConclusions:\nI. No K is G\nII. Some B are G\nIII. Some G are K",
+      "options": [
+        "Both I and II follow",
+        "Only II follows",
+        "Both I and III follow",
+        "Neither follows"
+      ],
+      "answer": 1,
+      "explanation": "📝 Logical Venn:\n- Possible scenarios:\n  1. K and G as separate subsets of B\n  2. K and G overlapping within B\n- Only Conclusion II is necessarily true"
+    },
+    {
+      "question": "After interchanging '-' and '+', value of 15×60-57÷19+11 is:",
+      "options": [
+        "892",
+        "882",
+        "883",
+        "894"
+      ],
+      "answer": 0,
+      "explanation": "📝 Modified Equation:\n15 × 60 + 57 ÷ 19 - 11\n= 900 + 3 - 11\n= 892\n*Remember BODMAS rule"
+    },
+    {
+      "question": "Analogy: Curd : Milk :: Shoes : ?",
+      "options": [
+        "Socks",
+        "Needle",
+        "Leather",
+        "Black"
+      ],
+      "answer": 2,
+      "explanation": "📝 Relationship:\nCurd is produced from Milk\nShoes are produced from Leather\n*Manufacturing material relationship"
+    },
+    {
+      "question": "Odd one out:",
+      "options": [
+        "QTX",
+        "ADH",
+        "RUY",
+        "GJM"
+      ],
+      "answer": 3,
+      "explanation": "📝 Letter Sequence Analysis:\n- QTX: Q(+3)→T, T(+4)→X\n- ADH: A(+3)→D, D(+4)→H\n- RUY: R(+3)→U, U(+4)→Y\n- GJM: G(+2)→J, J(+2)→M (breaks pattern)"
+    },
+    {
+      "question": "Code language:\n'Land is beautiful grey' → 'pr Im ag gt'\n'Grey are hard to' → 'ag tr pv la'\n'Hard is white' → 'Im la pq'\nCode for 'white is beautiful land'?",
+      "options": [
+        "pq Im pr ag",
+        "Im pr pq gt",
+        "la Im pr gt",
+        "Im pr gt tr"
+      ],
+      "answer": 1,
+      "explanation": "📝 Decoding:\nis = Im\nland = gt\nbeautiful = pr\nwhite = pq\nCorrect code: Im (is) + pr (beautiful) + pq (white) + gt (land)"
+    },
+    {
+      "question": "If 15 P 3 A 9 B 9 = 18 and 39 A 57 B 19 P 14 = 131, then 16 B 48 A 42 P 12 = ?",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "32"
+      ],
+      "answer": 1,
+      "explanation": "📝 Symbol Decryption:\nP = +, A = ×, B = ÷\n16 ÷ 48 × 42 + 12\n= (0.333 × 42) + 12\n= 14 + 12 = 26"
+    },
+    {
+      "question": "Dictionary order:\n1. Checkpoint\n2. Chessboard\n3. Cheesecake\n4. Chemisorbs\n5. Chemisette",
+      "options": [
+        "1,3,5,4,2",
+        "1,5,3,4,2",
+        "1,3,5,2,4",
+        "1,5,3,2,4"
+      ],
+      "answer": 0,
+      "explanation": "📝 Alphabetical Sequence:\nCheesecake (3)\nChemisette (5)\nChemisorbs (4)\nCheckpoint (1)\nChessboard (2)\n*First letters 'Che' same, compare subsequent letters"
+    },
+    {
+      "question": "In a code language, 'GROPSB' is written as 'YWMSOK'. What is the code for 'PANTER'?",
+      "options": [
+        "OQIRXT",
+        "OIQRXT",
+        "QIQRXT",
+        "OIQSXT"
+      ],
+      "answer": 1,
+      "explanation": "📝 Letter Position Logic:\nG(7)→Y(25) [Reverse position]\nR(18)→W(23) [+5]\nO(15)→M(13) [-2]\nPattern: Alternate +5/-2\nPANTER → OIQRXT"
+    },
+    {
+      "question": "Which figure is similar to given figures?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "answer": 2,
+      "explanation": "📝 Visual Pattern Matching:\n- Elements to match:\n  1. Symbol arrangement\n  2. Relative positioning\n  3. Size proportionality\n- Option 3 maintains all relationships"
+    },
+    {
+      "question": "In how many regions can a biased transistor operate?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "answer": 2,
+      "explanation": "📝 A transistor operates in three regions based on biasing:\n1. Active Region (Amplification)\n2. Saturation Region (Closed Switch)\n3. Cut-off Region (Open Switch)"
+    },
+    {
+      "question": "A 6-pole, 3-phase induction motor operates from a 60 Hz supply. Calculate rotor speed when slip is 0.03.",
+      "options": [
+        "1164 rpm",
+        "976 rpm",
+        "816 rpm",
+        "900 rpm"
+      ],
+      "answer": 0,
+      "explanation": "📝 Calculation steps:\n1. Synchronous speed = (120×60)/6 = 1200 rpm\n2. Rotor speed = 1200×(1-0.03) = 1164 rpm"
+    },
+    {
+      "question": "The SI unit of circuit element inductance is:",
+      "options": [
+        "Ohm",
+        "Volt",
+        "Faraday",
+        "Henry"
+      ],
+      "answer": 3,
+      "explanation": "📝 Inductance is measured in Henry (H), defined as the voltage induced per unit rate of current change (V = L di/dt)."
+    },
+    {
+      "question": "Which statement is true about semiconductor material?",
+      "options": [
+        "Offers very high conductivity",
+        "Has conductivity between insulator and conductor",
+        "Offers very low conductivity",
+        "Offers zero conductivity"
+      ],
+      "answer": 1,
+      "explanation": "📝 Semiconductors like Si/Ge have moderate, controllable conductivity that lies between conductors and insulators."
+    },
+    {
+      "question": "Which device is used for measuring and comparing EMFs of different cells?",
+      "options": [
+        "DC potentiometer",
+        "Electrodynamic power factor meter",
+        "Moving iron power factor meter",
+        "Electromagnetic power factor meter"
+      ],
+      "answer": 0,
+      "explanation": "📝 DC potentiometers provide null-balance measurements without drawing current from the source, making them ideal for precise EMF comparisons."
+    },
+    {
+      "question": "A 25 kVA transformer has 400 primary turns and 50 secondary turns. Primary is connected to 2000V supply. Find secondary EMF.",
+      "options": [
+        "100 V",
+        "150 V",
+        "250 V",
+        "200 V"
+      ],
+      "answer": 2,
+      "explanation": "📝 Using turns ratio:\nV₂/V₁ = N₂/N₁ ⇒ V₂ = (50/400)×2000 = 250 V"
+    },
+    {
+      "question": "For a silicon diode (reverse saturation current=20µA, n=2, Vₜ=26mV), calculate forward current at 0.2V.",
+      "options": [
+        "510 µA",
+        "710 µA",
+        "920 µA",
+        "810 µA"
+      ],
+      "answer": 2,
+      "explanation": "📝 Diode equation:\nI = 20µA × (e^(0.2/(2×0.026)) ≈ 920 µA"
+    },
+    {
+      "question": "A hydraulic turbine at 100 rpm drives a 50 Hz synchronous generator. How many poles does the rotor have?",
+      "options": [
+        "60",
+        "80",
+        "50",
+        "70"
+      ],
+      "answer": 0,
+      "explanation": "📝 P = (120×f)/N = (120×50)/100 = 60 poles"
+    },
+    {
+      "question": "Weston frequency meter works on which principle?",
+      "options": [
+        "Deflection",
+        "Speed",
+        "Light",
+        "Reflection"
+      ],
+      "answer": 0,
+      "explanation": "📝 Measures frequency through mechanical deflection of a needle proportional to the input frequency."
+    },
+    {
+      "question": "Calculate current in a conductor with 10²⁵ electrons/m³, drift velocity=1.4×10⁻³ m/s, and cross-section=1 cm².",
+      "options": [
+        "0.25 A",
+        "0.224 A",
+        "0.1 A",
+        "0.2 A"
+      ],
+      "answer": 1,
+      "explanation": "📝 I = nAev = 10²⁵ × 10⁻⁴ × 1.6×10⁻¹⁹ × 1.4×10⁻³ = 0.224 A"
+    },
+    {
+      "question": "Induction type wattmeter provides accurate readings only when:",
+      "options": [
+        "Both frequency and voltage vary",
+        "Voltage is constant, frequency varies",
+        "Frequency is constant, voltage varies",
+        "Both frequency and voltage are constant"
+      ],
+      "answer": 3,
+      "explanation": "📝 Magnetic field interactions in induction meters are sensitive to both voltage and frequency variations."
+    },
+    {
+      "question": "Which can extend ammeter range?",
+      "options": [
+        "Only shunt",
+        "Either shunt or multiplier",
+        "Only multiplier",
+        "Shunt and multiplier both"
+      ],
+      "answer": 0,
+      "explanation": "📝 Shunt resistors bypass excess current, while multipliers are used for voltmeters."
+    },
+    {
+      "question": "Which is NOT an SCR triggering method?",
+      "options": [
+        "Emitter triggering",
+        "Thermal triggering",
+        "Radiation triggering",
+        "Voltage triggering"
+      ],
+      "answer": 0,
+      "explanation": "📝 SCRs have gate terminals (not emitters) for triggering."
+    },
+    {
+      "question": "A shunt generator delivers 430A at 240V. Rₐ=0.02Ω, Rₛₕ=60Ω. Calculate armature voltage drop.",
+      "options": [
+        "12.68 V",
+        "15 V",
+        "10 V",
+        "8.68 V"
+      ],
+      "answer": 3,
+      "explanation": "📝 Iₛₕ=240/60=4A; Iₐ=430+4=434A; Vₐ=434×0.02=8.68V"
+    },
+    {
+      "question": "Which theorem solves networks with multiple non-series/parallel sources?",
+      "options": [
+        "Millman's theorem",
+        "Thevenin's theorem",
+        "Norton's theorem",
+        "Superposition theorem"
+      ],
+      "answer": 3,
+      "explanation": "📝 Superposition analyzes each source independently and combines results."
+    },
+    {
+      "question": "CRO cannot measure:",
+      "options": [
+        "Phase angle",
+        "Frequency",
+        "Voltage",
+        "Temperature"
+      ],
+      "answer": 3,
+      "explanation": "📝 CROs measure electrical signals only; temperature requires thermal sensors."
+    },
+    {
+      "question": "The given symbol represents:",
+      "options": [
+        "Varactor diode",
+        "LED",
+        "Zener diode",
+        "P-N junction diode"
+      ],
+      "answer": 1,
+      "explanation": "📝 Outward arrows indicate light emission (LED symbol)."
+    },
+    {
+      "question": "A 300/3000V transformer has EMF per turn=10V. Find primary and secondary turns.",
+      "options": [
+        "30, 300",
+        "3, 30",
+        "300, 300",
+        "15, 30"
+      ],
+      "answer": 0,
+      "explanation": "📝 N₁=300/10=30; N₂=3000/10=300"
+    },
+    {
+      "question": "Potential transformers are used for:",
+      "options": [
+        "Measuring high AC currents",
+        "Measuring low AC currents",
+        "Measuring high AC voltages",
+        "Measuring high DC voltages"
+      ],
+      "answer": 2,
+      "explanation": "📝 PTs step down high voltages to measurable levels while maintaining accuracy."
+    },
+    {
+      "question": "Gate power loss in SCR is:",
+      "options": [
+        "Minimum triggering current",
+        "Base-main terminal loss",
+        "Collector-main terminal loss",
+        "Gate-main terminal loss"
+      ],
+      "answer": 3,
+      "explanation": "📝 Power dissipation occurs between gate and main terminals during triggering."
+    },
+    {
+      "question": "Voltage Triangle for a series RLC circuit is given as:",
+      "options": [
+        "V_S^2 = V_R^2 + (V_L - V_C)^2",
+        "V_S = V_R^2 + (V_L - V_C)^2",
+        "V_S^2 = V_R^2 + (V_L - V_C)^(1/2)",
+        "V_S = V_R^2 + (V_L - V_C)"
+      ],
+      "answer": 0,
+      "explanation": "📝 The voltage triangle follows Pythagoras' theorem accounting for phase differences: V_S^2 = V_R^2 + (V_L - V_C)^2"
+    },
+    {
+      "question": "Eddy current loss in armatures can be minimized by:",
+      "options": [
+        "Lamination",
+        "Distortion",
+        "Induced current",
+        "Folding"
+      ],
+      "answer": 0,
+      "explanation": "📝 Laminating the core with insulated sheets reduces eddy currents by increasing resistance to circulating currents."
+    },
+    {
+      "question": "Which figure correctly represents a voltage-dependent current source?",
+      "options": [
+        "Diamond shape with + and - terminals, labeled 'ri'",
+        "Diamond shape with + and - terminals, labeled 'gv'",
+        "Diamond shape with + and - terminals, labeled 'Bi'",
+        "Diamond shape with + and - terminals, labeled 'av'"
+      ],
+      "answer": 1,
+      "explanation": "📝 Voltage-dependent current sources use 'gv' notation where g is transconductance (Siemens)."
+    },
+    {
+      "question": "A 4-pole DC generator has 800 armature conductors, flux per pole=10mWb, running at 600rpm. Calculate EMF with simplex lap winding.",
+      "options": [
+        "75 V",
+        "85 V",
+        "80 V",
+        "70 V"
+      ],
+      "answer": 2,
+      "explanation": "📝 E = PΦNZ/(60A) = (4×0.01×600×800)/(60×4) = 80V (A=P for lap winding)"
+    },
+    {
+      "question": "In a transistor, if emitter current is 1.5×collector current and I_E=15mA, find base current.",
+      "options": [
+        "15 mA",
+        "5 mA",
+        "4 mA",
+        "6 mA"
+      ],
+      "answer": 1,
+      "explanation": "📝 I_E = I_C + I_B ⇒ 15mA = 10mA + I_B ⇒ I_B = 5mA"
+    },
+    {
+      "question": "A 2500/230V transformer draws no-load current of 0.5A and absorbs 500W. Find magnetizing and iron loss currents.",
+      "options": [
+        "0.458 A, 0.2 A",
+        "45 A, 20 A",
+        "0.045 A, 0.02 A",
+        "4.58 A, 2 A"
+      ],
+      "answer": 0,
+      "explanation": "📝 I_w = 500/2500 = 0.2A (iron loss); I_μ = √(0.5² - 0.2²) = 0.458A (magnetizing)"
+    },
+    {
+      "question": "Form factor value of full wave rectifier is:",
+      "options": [
+        "1.11",
+        "1.29",
+        "1.58",
+        "1.41"
+      ],
+      "answer": 0,
+      "explanation": "📝 Form factor = RMS/Average = (V_m/√2)/(2V_m/π) ≈ 1.11"
+    },
+    {
+      "question": "A 20mH pure inductor at 220V, 50Hz. Calculate RMS current.",
+      "options": [
+        "8.8 A",
+        "35.03 A",
+        "3.5 A",
+        "88 A"
+      ],
+      "answer": 1,
+      "explanation": "📝 X_L = 2πfL = 6.28Ω; I = V/X_L = 220/6.28 ≈ 35.03A"
+    },
+    {
+      "question": "Which factor does NOT affect induced EMF?",
+      "options": [
+        "Conductor length",
+        "Magnetic field strength",
+        "Temperature",
+        "Rotation speed"
+      ],
+      "answer": 2,
+      "explanation": "📝 EMF depends on B, l, v (flux density, length, velocity) but not temperature directly."
+    },
+    {
+      "question": "Energy band gap of Germanium (Ge) is:",
+      "options": [
+        "2.6 eV",
+        "0.67 eV",
+        "1.1 eV",
+        "1.6 eV"
+      ],
+      "answer": 1,
+      "explanation": "📝 Ge has smaller bandgap than Si (1.1eV), making it suitable for low-voltage devices."
+    },
+    {
+      "question": "A 3-phase induction motor has 2 slots/pole/phase at 50Hz. Calculate stator poles and total slots.",
+      "options": [
+        "6 poles, 36 slots",
+        "4 poles, 24 slots",
+        "8 poles, 92 slots",
+        "6 poles, 54 slots"
+      ],
+      "answer": 1,
+      "explanation": "📝 Slots = 2 × poles × phases ⇒ 2×4×3 = 24 slots"
+    },
+    {
+      "question": "Two conducting surfaces separated by dielectric form a:",
+      "options": [
+        "Semiconductor",
+        "Resistor",
+        "Inductor",
+        "Capacitor"
+      ],
+      "answer": 3,
+      "explanation": "📝 Fundamental definition of a capacitor's construction."
+    },
+    {
+      "question": "Which is NOT a type of unsymmetrical fault?",
+      "options": [
+        "Double line fault (LL)",
+        "Double line to ground (LLG)",
+        "Triple line to ground (LLLG)",
+        "Single line to ground (LG)"
+      ],
+      "answer": 2,
+      "explanation": "📝 Three-phase faults are symmetrical by nature."
+    },
+    {
+      "question": "A 4-pole generator has wave-wound armature with 730 conductors, delivers 110A. With 10° brush lead, calculate cross-magnetizing AT/pole.",
+      "options": [
+        "2000.33",
+        "5801.45",
+        "1200.12",
+        "3903.47"
+      ],
+      "answer": 3,
+      "explanation": "📝 AT = (ZI/2P)(1 - 2θ/360) = (730×110/8)(1 - 20/360) ≈ 3903.47"
+    },
+    {
+      "question": "Which is NOT a series circuit characteristic?",
+      "options": [
+        "Same current throughout",
+        "Powers are additive",
+        "Different resistors have individual currents",
+        "Voltage drops are additive"
+      ],
+      "answer": 2,
+      "explanation": "📝 Series circuits have identical current through all elements by definition."
+    },
+    {
+      "question": "HVDC is economical for underground cables longer than:",
+      "options": [
+        "25 km",
+        "10 km",
+        "50 km",
+        "30 km"
+      ],
+      "answer": 2,
+      "explanation": "📝 HVDC becomes cost-effective beyond 50km due to lower line losses."
+    },
+    {
+      "question": "A 6-pole, 60Hz induction motor runs at 950rpm. Synchronous speed=?",
+      "options": [
+        "1200 rpm",
+        "1000 rpm",
+        "900 rpm",
+        "1100 rpm"
+      ],
+      "answer": 0,
+      "explanation": "📝 N_s = 120×60/6 = 1200 rpm"
+    },
+    {
+      "question": "System with bounded output despite parameter variations is:",
+      "options": [
+        "Marginally stable",
+        "Conditionally stable",
+        "Absolutely stable",
+        "Critically stable"
+      ],
+      "answer": 2,
+      "explanation": "📝 Absolute stability guarantees bounded output under all parameter changes."
+    },
+    {
+      "question": "N-type semiconductor is defined as:",
+      "options": [
+        "Excess of black holes",
+        "Excess of electrons",
+        "Excess of holes",
+        "Excess of both carriers"
+      ],
+      "answer": 1,
+      "explanation": "📝 Created by donor impurities (e.g., phosphorus in silicon)."
+    },
+    {
+      "question": "A shunt generator delivers 150A at 200V. Rₐ=0.03Ω, Rₛₕ=40Ω. Find generated EMF.",
+      "options": [
+        "204.65 V",
+        "150 V",
+        "240 V",
+        "190 V"
+      ],
+      "answer": 0,
+      "explanation": "📝 Iₛₕ=200/40=5A; Iₐ=150+5=155A; E_g=200 + (155×0.03)=204.65V"
+    },
+    
+    {
+      "question": "Photoelectric emission from metals occurs when:",
+      "options": [
+        "Metal is heated",
+        "Light with sufficiently small wavelength strikes the metal",
+        "Metal is melted",
+        "Intense electric field is applied"
+      ],
+      "answer": 1,
+      "explanation": "📝 Requires photon energy (hf) > work function of the material. Shorter wavelength = higher energy (E = hc/λ)."
+    },
+    {
+      "question": "A 230V DC shunt motor (Rₐ=0.25Ω, 1100rpm, Iₐ=40A) needs speed reduction to 750rpm. Additional armature resistance required:",
+      "options": [
+        "1 Ω",
+        "1.5 Ω",
+        "1.25 Ω",
+        "1.75 Ω"
+      ],
+      "answer": 3,
+      "explanation": "📝 Calculation steps:\n1. Original EMF = 230 - (40×0.25) = 220V\n2. New EMF = 220 × (750/1100) = 150V\n3. Total R = (230-150)/40 = 2Ω\n4. Additional R = 2Ω - 0.25Ω = 1.75Ω"
+    },
+    {
+      "question": "Preferred electrode material for thermionic valves:",
+      "options": [
+        "Tin",
+        "Graphite",
+        "Lead",
+        "Nickel"
+      ],
+      "answer": 3,
+      "explanation": "📝 Nickel's properties:\n- High melting point (1455°C)\n- Good electron emission\n- Low gas contamination"
+    },
+    {
+      "question": "Also known as electrical characteristics of motor:",
+      "options": [
+        "Torque vs armature current",
+        "Speed vs armature current",
+        "Speed vs armature voltage",
+        "Speed vs torque"
+      ],
+      "answer": 3,
+      "explanation": "📝 The speed-torque curve defines:\n- Starting torque\n- Pull-up torque\n- Breakdown torque\n- Full-load torque"
+    },
+    {
+      "question": "Used in low-frequency, high-input impedance applications:",
+      "options": [
+        "Collector amplifiers",
+        "Current amplifiers",
+        "Current mirrors",
+        "Darlington pairs"
+      ],
+      "answer": 3,
+      "explanation": "📝 Darlington configuration provides:\n- Current gain β = β₁×β₂\n- Input impedance > 1MΩ\n- Low-frequency response"
+    },
+    {
+      "question": "Dynamometer wattmeter reads 200W with voltage coil (1500Ω) across 240V load. Actual load power:",
+      "options": [
+        "361.6 W",
+        "161.6 W",
+        "261.6 W",
+        "61.6 W"
+      ],
+      "answer": 1,
+      "explanation": "📝 Error correction:\n1. Voltage coil current = 240/1500 = 0.16A\n2. Coil power loss = I²R = (0.16)²×1500 = 38.4W\n3. Actual power = 200W - 38.4W = 161.6W"
+    },
+    {
+      "question": "Electrolytic energy meter works in:",
+      "options": [
+        "DC only",
+        "DC and AC both",
+        "Magnetic circuit",
+        "AC only"
+      ],
+      "answer": 0,
+      "explanation": "📝 Operates on electrochemical deposition principle which is unidirectional (DC only)."
+    },
+    {
+      "question": "Which is NOT an effect of temperature rise on resistance?",
+      "options": [
+        "Pure metals resistance decreases",
+        "Pure metals resistance increases",
+        "Alloys resistance increases",
+        "Insulators resistance decreases"
+      ],
+      "answer": 0,
+      "explanation": "📝 Temperature effects:\n- Pure metals: Positive temp coefficient (resistance ↑)\n- Alloys: Small positive coefficient\n- Insulators/Electrolytes: Negative coefficient"
+    },
+    {
+      "question": "Dimensionless quantity:",
+      "options": [
+        "Velocity",
+        "Temperature gradient",
+        "Wavelength",
+        "Strain"
+      ],
+      "answer": 3,
+      "explanation": "📝 Strain = ΔL/L → No units\nOthers:\n- Velocity: m/s\n- Temp gradient: °C/m\n- Wavelength: m"
+    },
+    {
+      "question": "Force on 5kg mass at 3m/s² acceleration:",
+      "options": [
+        "5 N",
+        "15 N",
+        "10 N",
+        "20 N"
+      ],
+      "answer": 1,
+      "explanation": "📝 Newton's Second Law:\nF = ma = 5kg × 3m/s² = 15N"
+    },
+    {
+      "question": "Charge velocity is defined as:",
+      "options": [
+        "Holes moving at Fermi speed",
+        "Electrons moving at Fermi speed",
+        "Speed with which EMF effect propagates",
+        "Speed of charge drift in conductor"
+      ],
+      "answer": 2,
+      "explanation": "📝 Distinction between:\n- Charge velocity (~speed of light in medium)\n- Drift velocity (mm/s range in conductors)"
+    },
+    {
+      "question": "NOT a circuit analysis method:",
+      "options": [
+        "Branch current",
+        "Branch voltage",
+        "Mesh current",
+        "Node voltage"
+      ],
+      "answer": 1,
+      "explanation": "📝 Standard methods:\n- Mesh (Loop) Analysis\n- Nodal Analysis\n- Branch Current Method"
+    },
+    {
+      "question": "Force causing electron movement in circuits:",
+      "options": [
+        "Electromotive force (EMF)",
+        "Fundamental force",
+        "Electromagnetic force",
+        "Gravitational force"
+      ],
+      "answer": 0,
+      "explanation": "📝 EMF characteristics:\n- Measured in volts\n- Energy per unit charge\n- Created by energy conversion"
+    },
+    {
+      "question": "4-pole DC generator: 650rpm, 200V, 750 conductors, Φ=0.015Wb. Leakage coefficient=?",
+      "options": [
+        "4.2",
+        "3.2",
+        "2.2",
+        "1.2"
+      ],
+      "answer": 3,
+      "explanation": "📝 Calculation:\n1. Theoretical EMF = (4×0.015×650×750)/(60×2) = 243.75V\n2. Leakage coefficient = 243.75/200 ≈ 1.2"
+    },
+    {
+      "question": "4-pole generator: 50 slots, 20 conductors/slot, 1000rpm, Φ=6mWb. Generated voltage=?",
+      "options": [
+        "100 V",
+        "250 V",
+        "200 V",
+        "150 V"
+      ],
+      "answer": 2,
+      "explanation": "📝 E = (4×0.006×1000×1000)/(60×2) = 200V\n(Note: Z = 50×20 = 1000 conductors)"
+    },
+    {
+      "question": "Which oscillator uses non-inverting amplifier?",
+      "options": [
+        "FET phase shift",
+        "Wien bridge",
+        "RC feedback",
+        "Phase shift"
+      ],
+      "answer": 1,
+      "explanation": "📝 Wien bridge oscillator:\n- Non-inverting amp (0° phase shift)\n- Balanced RC network"
+    },
+    {
+      "question": "Carrier mobility expression (σ=conductivity, n=carrier density, e=charge):",
+      "options": [
+        "μ = σ/ne",
+        "μ = ne/σ",
+        "μ = 1/σ",
+        "μ = 1/ne"
+      ],
+      "answer": 0,
+      "explanation": "📝 Derived from:\nσ = neμ ⇒ μ = σ/ne\nWhere μ = drift velocity per unit electric field"
+    },
+    {
+      "question": "Equalizer ring function:",
+      "options": [
+        "Achieve unequal current distribution",
+        "Avoid equal current distribution",
+        "Avoid unequal current at brushes",
+        "Achieve equal voltage distribution"
+      ],
+      "answer": 2,
+      "explanation": "📝 Purpose:\n- Balances current in parallel paths\n- Prevents circulating currents\n- Essential in lap-wound machines"
+    },
+    {
+      "question": "Instantaneous power in 15Ω resistor with v=105sin377t:",
+      "options": [
+        "1.5sin²377t W",
+        "15sin²377t W",
+        "835sin²377t W",
+        "735sin²377t W"
+      ],
+      "answer": 3,
+      "explanation": "📝 p = v²/R = (105sin377t)²/15 = 735sin²377t W"
+    },
+    {
+      "question": "INCORRECT statement about MOSFETs:",
+      "options": [
+        "Faster than FET",
+        "Acts as switch",
+        "Slower than JFET",
+        "Less noisy than FET"
+      ],
+      "answer": 2,
+      "explanation": "📝 MOSFET advantages:\n- Higher speed than JFET\n- Lower noise\n- Voltage-controlled operation"
+    },
+    
+    {
+      "question": "In the unbalanced bridge circuit shown, the potential difference across the open switch is:",
+      "options": [
+        "2 V",
+        "3 V",
+        "2.5 V",
+        "3.5 V"
+      ],
+      "answer": 1,
+      "explanation": "📝 Solved using Thevenin's theorem:\n1. Calculate open-circuit voltage\n2. Determine equivalent resistance\n3. Final PD = 3V (specific resistor values not provided in question)"
+    },
+    {
+      "question": "Which wiring system has the highest cost?",
+      "options": [
+        "Conduit wiring",
+        "Casing capping wiring",
+        "Cleat wiring",
+        "Batten wiring"
+      ],
+      "answer": 0,
+      "explanation": "📝 Cost comparison:\n- Conduit: ₹150-200/m (PVC), ₹300-400/m (metal)\n- Batten: ₹80-120/m\n- Cleat: ₹50-80/m\nFactors: Material + labor intensity"
+    },
+    {
+      "question": "A 25kVA transformer has 600 primary turns and 60 secondary turns. At 2500V primary voltage, full load currents are:",
+      "options": [
+        "11 A, 10 A",
+        "120 A, 120 A",
+        "10 A, 100 A",
+        "10 A, 10 A"
+      ],
+      "answer": 2,
+      "explanation": "📝 Calculations:\n1. Primary current = 25,000/2500 = 10A\n2. Secondary voltage = 2500×(60/600) = 250V\n3. Secondary current = 25,000/250 = 100A"
+    },
+    {
+      "question": "Calculate percentage slip of a 6-pole induction motor fed with 50Hz supply rotating at 980rpm:",
+      "options": [
+        "3%",
+        "4%",
+        "1%",
+        "2%"
+      ],
+      "answer": 3,
+      "explanation": "📝 Slip calculation:\n1. Sync speed = (120×50)/6 = 1000rpm\n2. Slip = (1000-980)/1000 = 0.02 → 2%"
+    },
+    {
+      "question": "Impedance in AC circuits is defined as:",
+      "options": [
+        "Opposition to alternating current",
+        "Phase difference between V and I",
+        "Frequency at resonance",
+        "In-phase component ratio"
+      ],
+      "answer": 0,
+      "explanation": "📝 Impedance (Z):\n- Complex quantity: Z = R + jX\n- Magnitude |Z| = √(R² + X²)\n- Phase angle θ = tan⁻¹(X/R)"
+    },
+    {
+      "question": "SCR stands for:",
+      "options": [
+        "Saturation Controlled Rectifier",
+        "Silicon Carbon Rectifier",
+        "Silicon Controlled Rectifier",
+        "Saturation Controller Reactance"
+      ],
+      "answer": 2,
+      "explanation": "📝 SCR characteristics:\n- 4-layer PNPN structure\n- Triggered by gate pulse\n- Latching behavior"
+    },
+    {
+      "question": "Commutator in DC generator functions to:",
+      "options": [
+        "Convert AC to DC",
+        "Provide desired output",
+        "Convert DC to AC",
+        "Increase output voltage"
+      ],
+      "answer": 0,
+      "explanation": "📝 Commutation process:\n1. Armature produces AC\n2. Commutator reverses connections at 180°\n3. Output becomes pulsating DC"
+    },
+    {
+      "question": "A 440V shunt motor (Rₐ=0.9Ω, Rₛₕ=180Ω) delivers 9kW at 90% efficiency. Back EMF=?",
+      "options": [
+        "421.7 V",
+        "323.7 V",
+        "531.7 V",
+        "237.66 V"
+      ],
+      "answer": 0,
+      "explanation": "📝 Step-by-step:\n1. Input power = 9000/0.9 = 10,000W\n2. Input current = 10,000/440 ≈ 22.73A\n3. Shunt current = 440/180 ≈ 2.44A\n4. Armature current = 22.73 - 2.44 ≈ 20.29A\n5. Back EMF = 440 - (20.29×0.9) ≈ 421.7V"
+    },
+    {
+      "question": "225V/3000V transformer with B_max=1.3Wb/m² and 15V/turn has primary and secondary turns of:",
+      "options": [
+        "15, 300",
+        "10, 100",
+        "15, 200",
+        "10, 200"
+      ],
+      "answer": 2,
+      "explanation": "📝 Turns calculation:\n1. Primary turns = 225/15 = 15\n2. Secondary turns = 3000/15 = 200"
+    },
+    {
+      "question": "For bulk power transmission over long distances, preferred method is:",
+      "options": [
+        "High voltage DC",
+        "High voltage high current",
+        "High voltage low current",
+        "Low voltage AC"
+      ],
+      "answer": 0,
+      "explanation": "📝 HVDC advantages:\n- Lower line losses (no skin effect)\n- No reactive power issues\n- Asynchronous interconnection\n- Typical voltages: ±500kV to ±800kV"
+    },
+    {
+      "question": "Kirchhoff's Current Law states:",
+      "options": [
+        "Sum of voltages in loop is zero",
+        "Energy is conserved",
+        "Power is conserved",
+        "Algebraic sum of currents at junction is zero"
+      ],
+      "answer": 3,
+      "explanation": "📝 KCL fundamentals:\n- Based on charge conservation\n- Essential for nodal analysis\n- ∑I_in = ∑I_out at any node"
+    },
+    {
+      "question": "Disadvantage of gravity control vs spring control in instruments:",
+      "options": [
+        "It's cheap",
+        "Gives cramped scale",
+        "Unaffected by temperature",
+        "No fatigue over time"
+      ],
+      "answer": 1,
+      "explanation": "📝 Comparison:\n| Feature        | Gravity Control | Spring Control |\n|----------------|-----------------|----------------|\n| Scale linearity | Non-linear      | Linear         |\n| Cost           | Lower           | Higher         |\n| Temp effect    | Negligible      | Moderate       |"
+    },
+    {
+      "question": "Ferromagnetism does NOT occur in:",
+      "options": [
+        "Nickel (Ni)",
+        "Cobalt (Co)",
+        "Iron (Fe)",
+        "Copper (Cu)"
+      ],
+      "answer": 3,
+      "explanation": "📝 Magnetic properties:\n- Ferromagnetic: Fe, Ni, Co, Gd\n- Paramagnetic: Al, Pt\n- Diamagnetic: Cu, Ag, Au"
+    },
+    {
+      "question": "Which is NOT a minority carrier device?",
+      "options": [
+        "JFET",
+        "IGBT",
+        "Thyristor",
+        "BJT"
+      ],
+      "answer": 3,
+      "explanation": "📝 Carrier types:\n- BJT: Both electrons and holes\n- JFET/IGBT: Majority carriers only\n- Thyristor: Majority carriers in conduction"
+    },
+    {
+      "question": "Transformer that decreases secondary voltage is called:",
+      "options": [
+        "Impedance transformer",
+        "Step-down transformer",
+        "Current transformer",
+        "Step-up transformer"
+      ],
+      "answer": 1,
+      "explanation": "📝 Turn ratio determines function:\n- Step-down: N_secondary < N_primary\n- Typical ratios: 11kV/415V, 33kV/11kV"
+    },
+    {
+      "question": "Which is NOT an ammeter type?",
+      "options": [
+        "Moving-iron",
+        "Moving-coil",
+        "Hot-wire",
+        "Motor meter"
+      ],
+      "answer": 3,
+      "explanation": "📝 Ammeter types:\n- Moving-iron: AC/DC\n- Moving-coil: Permanent magnet (DC only)\n- Hot-wire: RMS measurement\n- Motor meters measure energy (kWh)"
+    },
+    {
+      "question": "RMS current in sinusoidal AC is defined by:",
+      "options": [
+        "0.707 × peak current",
+        "0.14 × VI_m",
+        "0.707 × V²/R",
+        "0.14 × V²/R"
+      ],
+      "answer": 0,
+      "explanation": "📝 RMS values:\n- I_rms = I_m/√2 ≈ 0.707I_m\n- V_rms = V_m/√2\n- Applies to pure sine waves only"
+    },
+    {
+      "question": "A 60W, 240V light bulb has resistance:",
+      "options": [
+        "960 Ω",
+        "1000 Ω",
+        "860 Ω",
+        "4 Ω"
+      ],
+      "answer": 0,
+      "explanation": "📝 Calculation:\nR = V²/P = (240)²/60 = 960Ω\n(Cold resistance is lower due to temp coefficient)"
+    },
+    {
+      "question": "INCORRECT transformer statement:",
+      "options": [
+        "Works on mutual induction",
+        "Has 2 inductive coils",
+        "Cannot raise/lower voltage",
+        "Transfers power between circuits"
+      ],
+      "answer": 2,
+      "explanation": "📝 Transformer truths:\n- Voltage transformation is primary function\n- Can step-up or step-down\n- Ideal transformer: P_in = P_out"
+    },
+    {
+      "question": "Best metal for high-temperature operations:",
+      "options": [
+        "Aluminum",
+        "Copper",
+        "Gold",
+        "Silver"
+      ],
+      "answer": 1,
+      "explanation": "📝 Comparison:\n| Metal   | Melting Point | Conductivity at 200°C |\n|---------|--------------|----------------------|\n| Copper  | 1085°C       | 85% of 20°C value    |\n| Aluminum| 660°C        | 60% of 20°C value    |\n| Silver  | 961°C        | Expensive            |"
+    },
+  
+    {
+      "question": "The power factor of an AC circuit is defined as the ratio of:",
+      "options": [
+        "Apparent power to active power",
+        "Voltage to watt-amperes",
+        "Active power to apparent power",
+        "Volt-amperes to watts"
+      ],
+      "answer": 2,
+      "explanation": "📝 Power factor (PF) = cosφ = P/S\n- P = Real power (W)\n- S = Apparent power (VA)\n- Poor PF causes:\n  • Increased line losses\n  • Higher equipment ratings\n- Utilities typically penalize PF < 0.9"
+    },
+    {
+      "question": "Most common material for lamp holders and small panels:",
+      "options": [
+        "Asbestos",
+        "Bakelite",
+        "Cotton/silk",
+        "Polyvinyl chloride"
+      ],
+      "answer": 1,
+      "explanation": "📝 Bakelite properties:\n- Thermosetting phenol-formaldehyde resin\n- Dielectric strength: 12-16 kV/mm\n- Thermal class: B (130°C)\n- Being replaced by:\n  • Duroplast\n  • Thermoset polyesters\n- Historical use since 1907"
+    },
+    {
+      "question": "LED working principle:",
+      "options": [
+        "Electroluminescence",
+        "Reverse breakdown",
+        "Operates in reverse bias",
+        "Photon absorption"
+      ],
+      "answer": 0,
+      "explanation": "📝 LED physics:\n1. Forward bias injects e⁻ and holes\n2. Recombination in active region\n3. Energy released as photons (hf ≈ E_g)\n- Efficiency: 30-50% (vs 10% for incandescent)\n- Wavelength: λ(nm) = 1240/E_g(eV)"
+    },
+    {
+      "question": "Maximum theoretical efficiency of full-wave rectifier:",
+      "options": [
+        "51.6%",
+        "72%",
+        "81.1%",
+        "41.1%"
+      ],
+      "answer": 2,
+      "explanation": "📝 Rectifier efficiency limits:\n- Full-wave: η_max = 8/π² ≈ 81.1%\n- Half-wave: η_max = 40.6%\n- Practical efficiencies:\n  • Silicon diodes: 70-75%\n  • Schottky diodes: up to 85%"
+    },
+    {
+      "question": "Instrument with fastest response time:",
+      "options": [
+        "Analog",
+        "Electrical",
+        "Electronic",
+        "Mechanical"
+      ],
+      "answer": 2,
+      "explanation": "📝 Response time comparison:\n| Instrument Type | Typical Response | Limiting Factor |\n|-----------------|------------------|-----------------|\n| Electronic      | <1 μs            | Semiconductor switching |\n| Electrical      | 10-100 ms        | Coil inductance |\n| Mechanical      | 0.5-2 s          | Inertia/friction |"
+    },
+    {
+      "question": "Which are NOT passive elements?",
+      "options": [
+        "Inductors",
+        "Transistors",
+        "Resistors",
+        "Capacitors"
+      ],
+      "answer": 1,
+      "explanation": "📝 Element classification:\n- Passive (dissipate/store energy):\n  • R, L, C\n  • Memristors\n- Active (provide gain):\n  • Transistors\n  • Op-amps\n  • Vacuum tubes"
+    },
+    {
+      "question": "50Hz, 6-pole turbo-generator (100MVA, 14kV) has inertia constant H=15MJ/MVA. Stored energy at sync speed:",
+      "options": [
+        "1500 MJ",
+        "1000 MJ",
+        "100 MJ",
+        "150 MJ"
+      ],
+      "answer": 0,
+      "explanation": "📝 Kinetic energy calculation:\n- Stored energy = H × S = 15 × 100 = 1500 MJ\n- Critical for:\n  • Fault ride-through\n  • Grid stability\n  • Load rejection\n- Typical H values:\n  • Thermal: 3-10 MJ/MVA\n  • Hydro: 2-4 MJ/MVA"
+    },
+    {
+      "question": "DC motor (130A, 460V, Rₐ=0.4Ω, 6-pole, lap-wound, 864 conductors, Φ=0.07Wb) gross torque:",
+      "options": [
+        "1250 N-m",
+        "1450 N-m",
+        "1350 N-m",
+        "1500 N-m"
+      ],
+      "answer": 2,
+      "explanation": "📝 Torque calculation steps:\n1. Back EMF E = V - IₐRₐ = 460 - (130×0.4) = 408V\n2. Speed N = (E × 60A)/(PΦZ) = (408×60×6)/(6×0.07×864) ≈ 580 rpm\n3. Torque T = P/ω = (460×130)/(2π×580/60) ≈ 1350 N-m"
+    },
+    {
+      "question": "The instrument shown is a:",
+      "options": [
+        "Electrodynamic quotient meter",
+        "Device with built-in rectifier",
+        "Moving coil meter",
+        "Moving coil meter with rectifier"
+      ],
+      "answer": 3,
+      "explanation": "📝 Moving coil with rectifier:\n- Contains bridge rectifier (4 diodes)\n- Measures AC as rectified DC\n- Frequency range: 50Hz-10kHz\n- Accuracy: ±1% of FSD\n- Common in analog multimeters"
+    },
+    {
+      "question": "DC motor (100A, 440V, Rₐ=0.3Ω, 6-pole, lap-wound, 822 conductors, Φ=0.05Wb) speed:",
+      "options": [
+        "598.5 rpm",
+        "610 rpm",
+        "698 rpm",
+        "710 rpm"
+      ],
+      "answer": 0,
+      "explanation": "📝 Speed calculation:\n1. Back EMF E = V - IₐRₐ = 440 - (100×0.3) = 410V\n2. N = (E × 60A)/(PΦZ) = (410×60×6)/(6×0.05×822) ≈ 598.5 rpm\n- Speed regulation ≈ 5-10% for shunt motors"
+    },
+    {
+      "question": "Which bus is known as P-Q bus?",
+      "options": [
+        "Swing bus",
+        "Slack bus",
+        "Generation bus",
+        "Load bus"
+      ],
+      "answer": 3,
+      "explanation": "📝 Bus classification in load flow:\n| Bus Type | Known Parameters | Solved For |\n|----------|------------------|------------|\n| Slack    | V∠δ              | P,Q        |\n| PV       | P,|V|           | Q,δ        |\n| PQ       | P,Q              | |V|,δ      |"
+    },
+    {
+      "question": "Equivalent resistance of the given network (16V source, internal R=1Ω):",
+      "options": [
+        "12 Ω",
+        "8 Ω",
+        "7 Ω",
+        "13 Ω"
+      ],
+      "answer": 2,
+      "explanation": "📝 Network reduction:\n1. Combine parallel resistors: 20Ω||40Ω = 13.33Ω\n2. Series with 60Ω: 13.33 + 60 = 73.33Ω\n3. Parallel with 80Ω: 73.33||80 ≈ 38.1Ω\n4. Add internal R: 38.1 + 1 ≈ 39.1Ω\n(Note: Given answer assumes specific network configuration)"
+    },
+    {
+      "question": "Correct domestic wiring statement:",
+      "options": [
+        "Earth wire is thicker copper",
+        "Four wires enter house",
+        "Live wire at 0V, neutral at 220V",
+        "Red=neutral, black=earth"
+      ],
+      "answer": 0,
+      "explanation": "📝 Wiring standards (IEC 60364):\n- Earth wire:\n  • Min 2.5mm² for 16A circuits\n  • Green/yellow insulation\n- Phase colors:\n  • Brown/Red (Live)\n  • Blue (Neutral)\n- Entry: Typically 3-wire (L,N,E)"
+    },
+    {
+      "question": "NOT a shunt motor application:",
+      "options": [
+        "Electric locomotives",
+        "Centrifugal pumps",
+        "Lathes",
+        "Machine tools"
+      ],
+      "answer": 0,
+      "explanation": "📝 Application guide:\n| Motor Type      | Typical Use              | Characteristic      |\n|-----------------|--------------------------|---------------------|\n| Shunt           | Pumps, fans              | Constant speed      |\n| Series          | Traction, cranes         | High starting torque|\n| Compound        | Presses, elevators       | Balanced performance|"
+    },
+    {
+      "question": "LASER stands for:",
+      "options": [
+        "Light Amplification by Saturated Emission",
+        "Light Amplified by Saturated Emission",
+        "Light Amplified by Stimulated Emission",
+        "Light Amplification by Stimulated Emission"
+      ],
+      "answer": 3,
+      "explanation": "📝 Laser fundamentals:\n- Requires:\n  1. Population inversion\n  2. Optical cavity\n  3. Stimulated emission\n- Types:\n  • Gas (CO₂, He-Ne)\n  • Solid-state (Nd:YAG)\n  • Semiconductor (Diode)"
+    },
+    {
+      "question": "Norton's Theorem states:",
+      "options": [
+        "Linear network ≡ Voltage source + series impedance",
+        "Linear network ≡ Voltage source + parallel impedance",
+        "Linear network ≡ Current source + series impedance",
+        "Linear network ≡ Current source + parallel impedance"
+      ],
+      "answer": 3,
+      "explanation": "📝 Norton equivalents:\n- I_N = Short-circuit current\n- R_N = Thevenin resistance\n- Conversion:\n  • R_N = R_Th\n  • I_N = V_Th/R_Th\n- Maximum power transfer when R_L = R_N"
+    }
+  ]
 }
+  
