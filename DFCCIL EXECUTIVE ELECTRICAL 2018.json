@@ -1,158 +1,18 @@
 {
     "quiz1": [
-        {
-            "question": "In which state does the greatest number of Uranium mines exist as of September 2015?",
-            "options": [
-                "Jharkhand",
-                "Odisha",
-                "Madhya Pradesh",
-                "Chhattisgarh"
-            ],
-            "correct_answer": "Jharkhand",
-            "explanation": "Jharkhand has the highest number of Uranium mines in India as of September 2015, primarily due to the presence of significant uranium deposits in the Singhbhum region."
-        },
-        {
-            "question": "National Soil and Transport Initiative, India’s first release university, has been opened in which of the following states?",
-            "options": [
-                "Telangana",
-                "Bihar",
-                "Gujarat",
-                "Uttar Pradesh"
-            ],
-            "correct_answer": "Gujarat",
-            "explanation": "The National Soil and Transport Initiative, India's first release university, was inaugurated in Gujarat, aimed at promoting research and education in soil science and transportation."
-        },
-        {
-            "question": "______ of the Constitution of India deals with ______.",
-            "options": [
-                "Article 40, fundamental duties",
-                "Article 45, uniform civil code",
-                "Article 40, organisation of village panchayats",
-                "Article 48A, uniform civil code"
-            ],
-            "correct_answer": "Article 40, organisation of village panchayats",
-            "explanation": "Article 40 of the Indian Constitution deals with the organization of village panchayats, emphasizing the importance of local self-government."
-        },
-        {
-            "question": "Which state is the largest producer of wind energy in India?",
-            "options": [
-                "Tamil Nadu",
-                "Maharashtra",
-                "Gujarat",
-                "Rajasthan"
-            ],
-            "correct_answer": "Tamil Nadu",
-            "explanation": "Tamil Nadu leads in wind energy production in India due to its favorable wind conditions and extensive wind farm installations."
-        },
-        {
-            "question": "In which state has the Government of India launched the first Tribal Circuit Project under the Swadesh Darshan Scheme?",
-            "options": [
-                "Jharkhand",
-                "Madhya Pradesh",
-                "Chhattisgarh",
-                "Bihar"
-            ],
-            "correct_answer": "Chhattisgarh",
-            "explanation": "The first Tribal Circuit Project under the Swadesh Darshan Scheme was launched in Chhattisgarh to promote tribal culture and tourism."
-        },
-        {
-            "question": "The ray that comes back from a surface after the reflection is known as ______.",
-            "options": [
-                "a reflected ray",
-                "an x-ray",
-                "an incident ray",
-                "an alpha ray"
-            ],
-            "correct_answer": "a reflected ray",
-            "explanation": "The ray that returns from a surface after reflection is called the reflected ray, following the law of reflection."
-        },
-        {
-            "question": "Which Indian boxer won a Gold Medal in Asian Games 2018?",
-            "options": [
-                "Manoj Kumar",
-                "Amit Panghal",
-                "Gaurav Solanki",
-                "Shiva Thapa"
-            ],
-            "correct_answer": "Amit Panghal",
-            "explanation": "Amit Panghal won the gold medal in the men's light flyweight category at the 2018 Asian Games, marking a significant achievement for Indian boxing."
-        },
-        {
-            "question": "Which of the following is correct?",
-            "options": [
-                "Sucheta Kriplani was the first woman Chief Minister of Uttar Pradesh.",
-                "Nandini Satpathy was the first woman Chief Minister of Uttar Pradesh.",
-                "Shashikala Kakodkar was the first woman Chief Minister of Uttar Pradesh.",
-                "Janaki Ramachandran was the first woman Chief Minister of Uttar Pradesh."
-            ],
-            "correct_answer": "Sucheta Kriplani was the first woman Chief Minister of Uttar Pradesh.",
-            "explanation": "Sucheta Kriplani made history as the first woman Chief Minister of Uttar Pradesh, serving from 1963 to 1967."
-        },
-        {
-            "question": "In a code language, 'WORK' is written as 'XOSE' and 'TIME' is written as 'LINE'. How will SALARY be written?",
-            "options": [
-                "TAMASY",
-                "TAMASZ",
-                "TAMBSZ",
-                "TBMBSZ"
-            ],
-            "correct_answer": "TAMASZ",
-            "explanation": "The coding pattern involves shifting each letter forward by one position in the alphabet. Applying this, SALARY becomes TAMASZ."
-        },
-        {
-            "question": "Eight strands Q, R, S, T, U, V and W are sitting around a circular table. U is on the immediate right of Q. V is the neighbour of T. R is between T and U. W is on the immediate left of P but is not the neighbour of T or S. What is the position of S?",
-            "options": [
-                "Between Q and U",
-                "On the immediate left of Q",
-                "On the immediate left of P",
-                "Second to the right of U"
-            ],
-            "correct_answer": "On the immediate left of Q",
-            "explanation": "Based on the given seating arrangement clues, S is positioned immediately to the left of Q."
-        },
-        {
-            "question": "In a class test of 45 students, one student is ranked 25th. What is his rank from the bottom?",
-            "options": [
-                "21st",
-                "25th",
-                "20th",
-                "22nd"
-            ],
-            "correct_answer": "21st",
-            "explanation": "To find the rank from the bottom, subtract the student's rank from the total number of students and add 1: 45 - 25 + 1 = 21."
-        },
-        {
-            "question": "Select the option that is related to the third term in the same way as the second term is related to the first term.",
-            "options": [
-                "343",
-                "196",
-                "729",
-                "512"
-            ],
-            "correct_answer": "512",
-            "explanation": "The relationship involves cubing the number of letters in the word. For example, 'WORK' has 4 letters, and 4³ = 64. Similarly, 'SALARY' has 6 letters, and 6³ = 216, but the closest option following the pattern is 512 (8³)."
-        },
-        {
-            "question": "From the given alternatives select the word which CANNOT be formed using the letters of the given word. APPRECIATE",
-            "options": [
-                "RECEIPT",
-                "PRECEPT",
-                "CREATOR",
-                "APPEAR"
-            ],
-            "correct_answer": "CREATOR",
-            "explanation": "The word 'CREATOR' cannot be formed from 'APPRECIATE' because the letter 'O' is not present in 'APPRECIATE'."
-        },
-        {
-            "question": "Select the number pair which is different from the other three responses.",
-            "options": [
-                "19, 132",
-                "39, 272",
-                "31, 216",
-                "23, 161"
-            ],
-            "correct_answer": "23, 161",
-            "explanation": "In the other pairs, the second number is approximately 7 times the first number (e.g., 19 × 7 = 133 ≈ 132). However, 23 × 7 = 161, which is exact, making it different."
+       {
+  "quiz1": [
+    {
+      "question": "Who has been appointed as the global brand ambassador of Levi's?",
+      "options": [
+        "Anushka Sharma",
+        "Priyanka Chopra",
+        "Deepika Padukone",
+        "Aishwarya Rai"
+      ],
+      "answer": 2,
+      "explanation": "📝 Current Affairs 2021:\n- Deepika Padukone became Levi's first Indian global ambassador\n- Signed multi-year contract\n- Represents the brand's 'Live in Levi's' campaign worldwide"
+    
         }
     ]
 }
