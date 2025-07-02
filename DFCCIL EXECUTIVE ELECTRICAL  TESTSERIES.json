@@ -1,6 +1,6 @@
 {
   "quiz1": [
-    // General Knowledge (12 MCQs)
+ 
     {
       "question": "Which state is the largest producer of solar energy in India as of 2025?",
       "options": [
@@ -133,7 +133,7 @@
       "answer": 1,
       "explanation": "📝 The official currency of Japan is the Yen."
     },
-    // Logical Reasoning (12 MCQs)
+
     {
       "question": "In a certain code, 'APPLE' is written as 'CQQMF'. How is 'MANGO' written in that code?",
       "options": [
@@ -266,8 +266,7 @@
       "answer": 2,
       "explanation": "📝 The series should follow triangular numbers: n(n+1)/2. For n=1,2,3,4,5: 1, 3, 6, 10, 15 is correct, but assuming a typo, 6 should be checked. The series seems correct; assuming 6 is incorrect in context, it may be 5."
     },
-    // Electrical Domain Knowledge (96 MCQs)
-    // Electrical Circuits (24 MCQs)
+
     {
       "question": "The voltage across a 2 Ω resistor in a circuit with 5 A current is:",
       "options": [
@@ -532,7 +531,7 @@
       "answer": 1,
       "explanation": "📝 Time constant τ = L / R = 0.2 / 50 = 0.004 s. Voltage across inductor V_L = V e^(-t/τ) = 10 e^(-4/4) ≈ 3.68 V."
     },
-    // Electrical Machines (24 MCQs)
+ 
     {
       "question": "The iron loss in a transformer at half load is:",
       "options": [
@@ -797,7 +796,7 @@
       "answer": 1,
       "explanation": "📝 At no load, a DC series motor can reach very high speeds due to minimal load torque."
     },
-    // Electronics (24 MCQs)
+
     {
       "question": "The number of diodes in a bridge rectifier is:",
       "options": [
@@ -1062,7 +1061,7 @@
       "answer": 1,
       "explanation": "📝 The bandwidth of a resonant circuit is inversely proportional to the quality factor (Q), BW = f_r / Q."
     },
-    // Measurements (12 MCQs)
+
     {
       "question": "A megger is used to measure:",
       "options": [
@@ -1195,7 +1194,6 @@
       "answer": 1,
       "explanation": "📝 The Kelvin bridge is used to measure low resistance accurately, accounting for contact resistance."
     },
-    // Control Systems (6 MCQs)
     {
       "question": "For an over-damped system, the damping ratio is:",
       "options": [
@@ -1262,7 +1260,7 @@
       "answer": 1,
       "explanation": "📝 For a first-order system with transfer function 1/(s + α), the time constant is 1/α."
     },
-    // Material Science (6 MCQs)
+ 
     {
       "question": "The coordination number of a face-centered cubic (FCC) structure is:",
       "options": [
