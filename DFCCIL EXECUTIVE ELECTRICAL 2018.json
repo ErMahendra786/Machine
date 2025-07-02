@@ -1,28 +1,2 @@
 
-       {
-  "quiz1": [
-    {
-      "question": "Who has been appointed as the global brand ambassador of Levi's?",
-      "options": [
-        "Anushka Sharma",
-        "Priyanka Chopra",
-        "Deepika Padukone",
-        "Aishwarya Rai"
-      ],
-      "answer": 2,
-      "explanation": "📝 Current Affairs 2021:\n- Deepika Padukone became Levi's first Indian global ambassador\n- Signed multi-year contract\n- Represents the brand's 'Live in Levi's' campaign worldwide"
     
-        },
-          {
-            "question": "In which state does the greatest number of Uranium mines exist as of September 2015?",
-            "options": [
-                "Jharkhand",
-                "Odisha",
-                "Madhya Pradesh",
-                "Chhattisgarh"
-            ],
-            "correct_answer": "Jharkhand",
-            "explanation": "📝Jharkhand has the highest number of Uranium mines in India as of September 2015, primarily due to the presence of significant uranium deposits in the Singhbhum region."
-        }
-    ]
-}
