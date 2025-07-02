@@ -1,9 +1,7 @@
 {
-  "quiz": [
+  "quiz1": [
     {
-      "section": "Mathematics / Numerical Ability",
-      "questions": [
-        {
+     
           "question": "If the sum of the roots of the quadratic equation 2x² - 8x + k = 0 is 4, what is the product of the roots?",
           "options": ["4", "6", "8", "10"],
           "answer": 1,
@@ -182,12 +180,8 @@
           "options": ["10", "15", "20", "25"],
           "answer": 2,
           "explanation": "📝 Number of ways = C(5,3) = 5!/(3!2!) = 10."
-        }
-      ]
-    },
-    {
-      "section": "General Awareness",
-      "questions": [
+        },
+    
         {
           "question": "Which Indian state is known for the Kumbh Mela festival?",
           "options": ["Uttar Pradesh", "Rajasthan", "Madhya Pradesh", "Bihar"],
@@ -277,12 +271,7 @@
           "options": ["Indira Gandhi", "Pratibha Patil", "Sonia Gandhi", "Sushma Swaraj"],
           "answer": 1,
           "explanation": "📝 Pratibha Patil was the first woman President of India, serving from 2007 to 2012."
-        }
-      ]
-    },
-    {
-      "section": "General Science",
-      "questions": [
+        },
         {
           "question": "Which gas, discovered in the sun’s corona, is used in MRI scanners?",
           "options": ["Hydrogen", "Helium", "Nitrogen", "Oxygen"],
@@ -372,12 +361,7 @@
           "options": ["Radio waves", "Microwaves", "Infrared", "Visible light"],
           "answer": 0,
           "explanation": "📝 Radio waves have the longest wavelength among electromagnetic waves."
-        }
-      ]
-    },
-    {
-      "section": "Logical Reasoning / General Intelligence",
-      "questions": [
+        },
         {
           "question": "In a code, MANGO is written as OTKAF. How is APPLE written in that code?",
           "options": ["CSJHL", "DSJIM", "CSKIM", "DSKHL"],
@@ -557,12 +541,7 @@
           "options": ["2", "3", "4", "5"],
           "answer": 1,
           "explanation": "📝 234 = cold rainy day, 456 = rainy hot night. 'rainy' is common, so it’s 3."
-        }
-      ]
-    },
-    {
-      "section": "Knowledge about Railways/DFCCIL",
-      "questions": [
+        },
         {
           "question": "Which railway tunnel in India is named after a former Prime Minister?",
           "options": ["Pir Panjal Tunnel", "Atal Tunnel", "Karbude Tunnel", "Sangaldan Tunnel"],
@@ -625,5 +604,4 @@
         }
       ]
     }
-  ]
-}
+  
