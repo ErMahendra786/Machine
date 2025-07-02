@@ -1,27 +1,27 @@
-{
-    "quiz1": [
+
         {
-            "question": "In which state does the greatest number of Uranium mines exist as of September 2015?",
-            "options": [
-                "Jharkhand",
-                "Odisha",
-                "Madhya Pradesh",
-                "Chhattisgarh"
-            ],
-            "correct_answer": "Jharkhand",
-            "explanation": "📝Jharkhand has the highest number of Uranium mines in India as of September 2015, primarily due to the presence of significant uranium deposits in the Singhbhum region."
-        },
-        {
-            "question": "National Soil and Transport Initiative, India’s first release university, has been opened in which of the following states?",
-            "options": [
-                "Telangana",
-                "Bihar",
-                "Gujarat",
-                "Uttar Pradesh"
-            ],
-            "correct_answer": "Gujarat",
-            "explanation": "📝The National Soil and Transport Initiative, India's first release university, was inaugurated in Gujarat, aimed at promoting research and education in soil science and transportation."
-       
+  "quiz1": [
+    {
+      "question": "Who has been appointed as the global brand ambassador of Levi's?",
+      "options": [
+        "Anushka Sharma",
+        "Priyanka Chopra",
+        "Deepika Padukone",
+        "Aishwarya Rai"
+      ],
+      "answer": 2,
+      "explanation": "📝 Current Affairs 2021:\n- Deepika Padukone became Levi's first Indian global ambassador\n- Signed multi-year contract\n- Represents the brand's 'Live in Levi's' campaign worldwide"
+    },
+    {
+      "question": "The IndiGen Genome Project is an initiative of the ______.",
+      "options": [
+        "National Institute of Plant Genome Research",
+        "Indian Space Research Organisation",
+        "National Institute of Virology",
+        "Council of Scientific and Industrial Research"
+      ],
+      "answer": 3,
+      "explanation": "📝 Science & Technology:\n- Launched by CSIR in 2019\n- Aims to sequence 10,000 Indian genomes\n- Focus on precision medicine and genetic diseases\n- First phase completed with 1,008 genomes"
         
         }
     ]
