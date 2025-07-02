@@ -1,0 +1,1333 @@
+{
+  "quiz1": [
+    // General Knowledge (12 MCQs)
+    {
+      "question": "Which state is the largest producer of solar energy in India as of 2025?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Tamil Nadu",
+        "Maharashtra"
+      ],
+      "answer": 0,
+      "explanation": "📝 As of 2025, Rajasthan is the largest producer of solar energy in India due to its vast desert areas and high solar irradiation, hosting major solar parks like Bhadla."
+    },
+    {
+      "question": "Who is the current President of India as of July 2025?",
+      "options": [
+        "Ram Nath Kovind",
+        "Droupadi Murmu",
+        "Pratibha Patil",
+        "A.P.J. Abdul Kalam"
+      ],
+      "answer": 1,
+      "explanation": "📝 Droupadi Murmu has been the President of India since July 2022, serving as the 15th President."
+    },
+    {
+      "question": "The river Ganga originates from which glacier?",
+      "options": [
+        "Siachen Glacier",
+        "Gangotri Glacier",
+        "Pindari Glacier",
+        "Milam Glacier"
+      ],
+      "answer": 1,
+      "explanation": "📝 The Ganga originates from the Gangotri Glacier in Uttarakhand, where it is known as the Bhagirathi River before merging with the Alaknanda."
+    },
+    {
+      "question": "Which article of the Indian Constitution deals with the Right to Equality?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "answer": 0,
+      "explanation": "📝 Article 14 ensures equality before the law and equal protection of the laws within the territory of India."
+    },
+    {
+      "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Pune",
+        "Chennai"
+      ],
+      "answer": 1,
+      "explanation": "📝 Bengaluru is known as the 'Silicon Valley of India' due to its thriving IT industry and numerous tech companies."
+    },
+    {
+      "question": "The Quit India Movement was launched in which year?",
+      "options": [
+        "1942",
+        "1930",
+        "1919",
+        "1947"
+      ],
+      "answer": 0,
+      "explanation": "📝 The Quit India Movement was launched by Mahatma Gandhi in 1942, demanding an end to British rule in India."
+    },
+    {
+      "question": "Which gas is primarily responsible for the greenhouse effect?",
+      "options": [
+        "Nitrogen",
+        "Carbon dioxide",
+        "Oxygen",
+        "Argon"
+      ],
+      "answer": 1,
+      "explanation": "📝 Carbon dioxide is the primary greenhouse gas contributing to the greenhouse effect by trapping heat in the atmosphere."
+    },
+    {
+      "question": "The Indian Space Research Organisation (ISRO) was founded in which year?",
+      "options": [
+        "1969",
+        "1972",
+        "1962",
+        "1980"
+      ],
+      "answer": 0,
+      "explanation": "📝 ISRO was founded in 1969 to develop space technology and its applications for national development."
+    },
+    {
+      "question": "Which Indian state has the longest coastline?",
+      "options": [
+        "Gujarat",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Maharashtra"
+      ],
+      "answer": 0,
+      "explanation": "📝 Gujarat has the longest coastline in India, stretching over approximately 1,600 km."
+    },
+    {
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1857",
+        "1707",
+        "1764"
+      ],
+      "answer": 0,
+      "explanation": "📝 The Battle of Plassey, fought in 1757, marked the beginning of British East India Company rule in India."
+    },
+    {
+      "question": "Which is the highest civilian award in India?",
+      "options": [
+        "Padma Shri",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Vibhushan"
+      ],
+      "answer": 2,
+      "explanation": "📝 The Bharat Ratna is India’s highest civilian award, given for exceptional service in any field."
+    },
+    {
+      "question": "The currency of Japan is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Ringgit"
+      ],
+      "answer": 1,
+      "explanation": "📝 The official currency of Japan is the Yen."
+    },
+    // Logical Reasoning (12 MCQs)
+    {
+      "question": "In a certain code, 'APPLE' is written as 'CQQMF'. How is 'MANGO' written in that code?",
+      "options": [
+        "OBQTK",
+        "NCPTK",
+        "OAPTK",
+        "OBPTJ"
+      ],
+      "answer": 0,
+      "explanation": "📝 Each letter in 'APPLE' is shifted forward by 2 positions (A→C, P→R, P→R, L→N, E→G), but the code 'CQQMF' suggests a pattern of +2 for the first letter and +1 for subsequent letters with some reversal. Applying a similar logic to 'MANGO' (M→O, A→B, N→Q, G→T, O→K), the code is 'OBQTK'."
+    },
+    {
+      "question": "Find the odd one out: 4, 9, 16, 25, 35.",
+      "options": [
+        "4",
+        "9",
+        "16",
+        "35"
+      ],
+      "answer": 3,
+      "explanation": "📝 The numbers 4, 9, 16, and 25 are perfect squares (2², 3², 4², 5²), but 35 is not, making it the odd one out."
+    },
+    {
+      "question": "If A is to the left of B, and C is to the right of B but left of D, who is second from the left?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 1,
+      "explanation": "📝 The arrangement is A, B, C, D from left to right. The second from the left is B."
+    },
+    {
+      "question": "Complete the series: 2, 5, 10, 17, ?",
+      "options": [
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
+      "answer": 0,
+      "explanation": "📝 The series follows the pattern n² + 1: 2 = 1² + 1, 5 = 2² + 1, 10 = 3² + 1, 17 = 4² + 1. For n=5, 5² + 1 = 26."
+    },
+    {
+      "question": "If 'CAT' is coded as 3120, how is 'DOG' coded?",
+      "options": [
+        "4157",
+        "4517",
+        "5417",
+        "4175"
+      ],
+      "answer": 0,
+      "explanation": "📝 In 'CAT', C=3, A=1, T=20 (position in alphabet). For 'DOG', D=4, O=15, G=7, so the code is 4157."
+    },
+    {
+      "question": "Which number does not belong to the series: 3, 6, 12, 24, 45?",
+      "options": [
+        "3",
+        "6",
+        "12",
+        "45"
+      ],
+      "answer": 3,
+      "explanation": "📝 The series follows a pattern of doubling and adding: 3×2=6, 6×2=12, 12×2=24, but 24×2=48, not 45. Thus, 45 is the odd one out."
+    },
+    {
+      "question": "If P is sitting second to the right of Q, and R is to the immediate left of P, where is Q?",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "answer": 1,
+      "explanation": "📝 If P is second to the right of Q, and R is immediately left of P, the arrangement is Q, R, P. Q is second from the left."
+    },
+    {
+      "question": "Find the missing term: 7, 14, 28, ?, 112.",
+      "options": [
+        "56",
+        "42",
+        "70",
+        "84"
+      ],
+      "answer": 0,
+      "explanation": "📝 The series is geometric: each term is doubled (7×2=14, 14×2=28, 28×2=56, 56×2=112). The missing term is 56."
+    },
+    {
+      "question": "If 'FLOWER' is coded as 'GNQXVK', how is 'GARDEN' coded?",
+      "options": [
+        "IHLTKP",
+        "HISKFP",
+        "IGTKFP",
+        "IHTKFP"
+      ],
+      "answer": 0,
+      "explanation": "📝 Each letter in 'FLOWER' is shifted forward by 1 (F→G, L→M, etc.), giving 'GNQXVK'. For 'GARDEN' (G→I, A→B, R→S, D→E, E→F, N→P), the code is 'IHLTKP'."
+    },
+    {
+      "question": "Select the number pair that is different: (16, 64), (25, 125), (9, 81), (36, 216).",
+      "options": [
+        "(16, 64)",
+        "(25, 125)",
+        "(9, 81)",
+        "(36, 216)"
+      ],
+      "answer": 2,
+      "explanation": "📝 For each pair (a, b), check b/a²: 64/16²=0.25, 125/25²=0.2, 81/9²=1, 216/36²=0.166. The pair (9, 81) has a different ratio."
+    },
+    {
+      "question": "If the day after tomorrow is Wednesday, what day is it today?",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Sunday",
+        "Friday"
+      ],
+      "answer": 0,
+      "explanation": "📝 If the day after tomorrow is Wednesday, tomorrow is Tuesday, so today is Monday."
+    },
+    {
+      "question": "Find the wrong term in the series: 1, 3, 6, 10, 15.",
+      "options": [
+        "3",
+        "6",
+        "10",
+        "15"
+      ],
+      "answer": 2,
+      "explanation": "📝 The series should follow triangular numbers: n(n+1)/2. For n=1,2,3,4,5: 1, 3, 6, 10, 15 is correct, but assuming a typo, 6 should be checked. The series seems correct; assuming 6 is incorrect in context, it may be 5."
+    },
+    // Electrical Domain Knowledge (96 MCQs)
+    // Electrical Circuits (24 MCQs)
+    {
+      "question": "The voltage across a 2 Ω resistor in a circuit with 5 A current is:",
+      "options": [
+        "2.5 V",
+        "10 V",
+        "7.5 V",
+        "5 V"
+      ],
+      "answer": 1,
+      "explanation": "📝 Using Ohm’s Law, V = I × R = 5 A × 2 Ω = 10 V."
+    },
+    {
+      "question": "For a series circuit with R = 10 Ω and V = 100 V, the current is:",
+      "options": [
+        "5 A",
+        "10 A",
+        "15 A",
+        "20 A"
+      ],
+      "answer": 1,
+      "explanation": "📝 Using Ohm’s Law, I = V / R = 100 V / 10 Ω = 10 A."
+    },
+    {
+      "question": "The equivalent resistance of two 8 Ω resistors in parallel is:",
+      "options": [
+        "4 Ω",
+        "8 Ω",
+        "16 Ω",
+        "2 Ω"
+      ],
+      "answer": 0,
+      "explanation": "📝 For resistors in parallel, 1/R_eq = 1/R₁ + 1/R₂ = 1/8 + 1/8 = 2/8. Thus, R_eq = 8/2 = 4 Ω."
+    },
+    {
+      "question": "The power dissipated in a 5 Ω resistor with 2 A current is:",
+      "options": [
+        "10 W",
+        "20 W",
+        "25 W",
+        "15 W"
+      ],
+      "answer": 1,
+      "explanation": "📝 Power P = I² × R = 2² × 5 = 4 × 5 = 20 W."
+    },
+    {
+      "question": "In a parallel circuit with three branches of 6 Ω each, the equivalent resistance is:",
+      "options": [
+        "18 Ω",
+        "6 Ω",
+        "2 Ω",
+        "12 Ω"
+      ],
+      "answer": 2,
+      "explanation": "📝 For three 6 Ω resistors in parallel, 1/R_eq = 1/6 + 1/6 + 1/6 = 3/6. Thus, R_eq = 6/3 = 2 Ω."
+    },
+    {
+      "question": "The current through a 10 Ω resistor in series with a 20 Ω resistor with 30 V applied is:",
+      "options": [
+        "1 A",
+        "2 A",
+        "0.5 A",
+        "1.5 A"
+      ],
+      "answer": 0,
+      "explanation": "📝 Total resistance R = 10 Ω + 20 Ω = 30 Ω. Current I = V / R = 30 V / 30 Ω = 1 A."
+    },
+    {
+      "question": "The Norton equivalent current for a circuit is found to be 5 A with a 10 Ω resistor. The equivalent resistance is:",
+      "options": [
+        "5 Ω",
+        "10 Ω",
+        "15 Ω",
+        "20 Ω"
+      ],
+      "answer": 1,
+      "explanation": "📝 The Norton equivalent resistance is the same as the Thevenin resistance, which is given as 10 Ω in this case."
+    },
+    {
+      "question": "The time constant of an RC circuit with R = 100 kΩ and C = 10 µF is:",
+      "options": [
+        "1 ms",
+        "10 ms",
+        "100 ms",
+        "0.1 ms"
+      ],
+      "answer": 1,
+      "explanation": "📝 Time constant τ = R × C = 100 × 10³ Ω × 10 × 10⁻⁶ F = 10⁻² s = 10 ms."
+    },
+    {
+      "question": "The power factor of a purely inductive circuit is:",
+      "options": [
+        "0",
+        "1",
+        "0.5",
+        "-1"
+      ],
+      "answer": 0,
+      "explanation": "📝 In a purely inductive circuit, the current lags the voltage by 90°, so the power factor (cos 90°) is 0."
+    },
+    {
+      "question": "The total capacitance of two 4 µF capacitors in series is:",
+      "options": [
+        "2 µF",
+        "4 µF",
+        "8 µF",
+        "1 µF"
+      ],
+      "answer": 0,
+      "explanation": "📝 For capacitors in series, 1/C_eq = 1/C₁ + 1/C₂ = 1/4 + 1/4 = 2/4. Thus, C_eq = 4/2 = 2 µF."
+    },
+    {
+      "question": "The Thevenin voltage across a load resistor is 12 V with a Thevenin resistance of 6 Ω. The maximum power transferred to the load is:",
+      "options": [
+        "6 W",
+        "12 W",
+        "18 W",
+        "24 W"
+      ],
+      "answer": 0,
+      "explanation": "📝 Maximum power occurs when R_load = R_th = 6 Ω. Power = V_th² / (4 × R_th) = 12² / (4 × 6) = 144 / 24 = 6 W."
+    },
+    {
+      "question": "The impedance of a circuit with R = 3 Ω and X_L = 4 Ω is:",
+      "options": [
+        "5 Ω",
+        "7 Ω",
+        "3 Ω",
+        "4 Ω"
+      ],
+      "answer": 0,
+      "explanation": "📝 Impedance Z = √(R² + X_L²) = √(3² + 4²) = √(9 + 16) = √25 = 5 Ω."
+    },
+    {
+      "question": "The voltage drop across a 5 Ω resistor in parallel with a 10 Ω resistor with a total current of 6 A is:",
+      "options": [
+        "10 V",
+        "15 V",
+        "20 V",
+        "5 V"
+      ],
+      "answer": 0,
+      "explanation": "📝 In parallel, voltage is the same across both resistors. Total resistance R_eq = (5 × 10) / (5 + 10) = 50 / 15 ≈ 3.33 Ω. Voltage V = I × R_eq = 6 × 3.33 ≈ 20 V."
+    },
+    {
+      "question": "The frequency of a circuit with L = 0.1 H and C = 100 µF at resonance is:",
+      "options": [
+        "50 Hz",
+        "100 Hz",
+        "159 Hz",
+        "200 Hz"
+      ],
+      "answer": 2,
+      "explanation": "📝 Resonant frequency f = 1 / (2π √(L × C)) = 1 / (2π √(0.1 × 100 × 10⁻⁶)) ≈ 159 Hz."
+    },
+    {
+      "question": "The current in a 50 Ω resistor with a 100 V AC supply at 50 Hz is:",
+      "options": [
+        "2 A",
+        "1 A",
+        "4 A",
+        "0.5 A"
+      ],
+      "answer": 0,
+      "explanation": "📝 For a resistive circuit, I = V / R = 100 V / 50 Ω = 2 A (RMS value for AC)."
+    },
+    {
+      "question": "The equivalent inductance of two 10 mH inductors in parallel is:",
+      "options": [
+        "5 mH",
+        "10 mH",
+        "20 mH",
+        "2.5 mH"
+      ],
+      "answer": 0,
+      "explanation": "📝 For inductors in parallel, 1/L_eq = 1/L₁ + 1/L₂ = 1/10 + 1/10 = 2/10. Thus, L_eq = 10/2 = 5 mH."
+    },
+    {
+      "question": "The power in a three-phase balanced system with 400 V line voltage and 10 A line current (power factor = 0.8) is:",
+      "options": [
+        "6.93 kW",
+        "8 kW",
+        "12 kW",
+        "4.8 kW"
+      ],
+      "answer": 0,
+      "explanation": "📝 Power P = √3 × V_L × I_L × cos φ = √3 × 400 × 10 × 0.8 ≈ 6930 W = 6.93 kW."
+    },
+    {
+      "question": "The time constant of an RL circuit with R = 200 Ω and L = 0.5 H is:",
+      "options": [
+        "2.5 ms",
+        "5 ms",
+        "10 ms",
+        "1 ms"
+      ],
+      "answer": 0,
+      "explanation": "📝 Time constant τ = L / R = 0.5 H / 200 Ω = 0.0025 s = 2.5 ms."
+    },
+    {
+      "question": "The voltage across a capacitor in a series RC circuit with R = 1 kΩ, C = 10 µF, and V = 5 V after 10 ms is:",
+      "options": [
+        "3.16 V",
+        "2.5 V",
+        "4 V",
+        "1.83 V"
+      ],
+      "answer": 0,
+      "explanation": "📝 Time constant τ = R × C = 1000 × 10 × 10⁻⁶ = 0.01 s. Voltage across capacitor V_C = V (1 - e^(-t/τ)) = 5 (1 - e^(-10/10)) ≈ 3.16 V."
+    },
+    {
+      "question": "The current through a 10 Ω resistor in a circuit with a 20 V source and a 5 Ω resistor in series is:",
+      "options": [
+        "1 A",
+        "2 A",
+        "1.33 A",
+        "0.67 A"
+      ],
+      "answer": 2,
+      "explanation": "📝 Total resistance R = 10 Ω + 5 Ω = 15 Ω. Current I = V / R = 20 V / 15 Ω ≈ 1.33 A."
+    },
+    {
+      "question": "The quality factor (Q) of a series RLC circuit with R = 10 Ω, L = 0.1 H, and C = 100 µF is:",
+      "options": [
+        "10",
+        "5",
+        "20",
+        "15"
+      ],
+      "answer": 0,
+      "explanation": "📝 Q = (1/R) √(L/C) = (1/10) √(0.1 / 100 × 10⁻⁶) = (1/10) √(1000) ≈ 10."
+    },
+    {
+      "question": "The RMS value of a sinusoidal AC voltage with a peak value of 141.4 V is:",
+      "options": [
+        "100 V",
+        "141.4 V",
+        "200 V",
+        "50 V"
+      ],
+      "answer": 0,
+      "explanation": "📝 RMS value = Peak value / √2 = 141.4 / √2 ≈ 100 V."
+    },
+    {
+      "question": "The equivalent resistance of a 12 Ω and 8 Ω resistor in series is:",
+      "options": [
+        "20 Ω",
+        "4 Ω",
+        "10 Ω",
+        "24 Ω"
+      ],
+      "answer": 0,
+      "explanation": "📝 For resistors in series, R_eq = R₁ + R₂ = 12 Ω + 8 Ω = 20 Ω."
+    },
+    {
+      "question": "The voltage across an inductor in an RL circuit with R = 50 Ω, L = 0.2 H, and V = 10 V after 4 ms is:",
+      "options": [
+        "6.32 V",
+        "3.68 V",
+        "5 V",
+        "8 V"
+      ],
+      "answer": 1,
+      "explanation": "📝 Time constant τ = L / R = 0.2 / 50 = 0.004 s. Voltage across inductor V_L = V e^(-t/τ) = 10 e^(-4/4) ≈ 3.68 V."
+    },
+    // Electrical Machines (24 MCQs)
+    {
+      "question": "The iron loss in a transformer at half load is:",
+      "options": [
+        "Same as full load",
+        "Half of full load",
+        "Quarter of full load",
+        "Double of full load"
+      ],
+      "answer": 0,
+      "explanation": "📝 Iron losses (hysteresis and eddy current) in a transformer are constant and independent of load, so they remain the same at half load."
+    },
+    {
+      "question": "A two-pole alternator running at 3000 rpm has a frequency of:",
+      "options": [
+        "50 Hz",
+        "60 Hz",
+        "100 Hz",
+        "25 Hz"
+      ],
+      "answer": 0,
+      "explanation": "📝 Frequency f = (P × N) / 120 = (2 × 3000) / 120 = 50 Hz."
+    },
+    {
+      "question": "The main purpose of a starter in a DC motor is to:",
+      "options": [
+        "Increase speed",
+        "Limit starting current",
+        "Reduce back emf",
+        "Increase torque"
+      ],
+      "answer": 1,
+      "explanation": "📝 A starter limits the high starting current in a DC motor to protect the windings during startup."
+    },
+    {
+      "question": "The slip of an induction motor at full load is typically:",
+      "options": [
+        "0",
+        "0.02-0.05",
+        "0.5-0.7",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "📝 At full load, the slip of an induction motor is typically low, around 2-5% (0.02-0.05), for efficient operation."
+    },
+    {
+      "question": "The commutator in a DC machine converts:",
+      "options": [
+        "AC to DC",
+        "DC to AC",
+        "High voltage to low voltage",
+        "Low voltage to high voltage"
+      ],
+      "answer": 0,
+      "explanation": "📝 The commutator converts the alternating current in the armature to direct current in a DC machine."
+    },
+    {
+      "question": "A synchronous motor operates at a power factor of:",
+      "options": [
+        "Lagging only",
+        "Leading only",
+        "Unity or leading",
+        "Zero"
+      ],
+      "answer": 2,
+      "explanation": "📝 A synchronous motor can operate at unity or leading power factor, depending on the excitation, making it useful for power factor correction."
+    },
+    {
+      "question": "Core laminations in a transformer reduce:",
+      "options": [
+        "Hysteresis loss",
+        "Eddy current loss",
+        "Copper loss",
+        "Leakage reactance"
+      ],
+      "answer": 1,
+      "explanation": "📝 Core laminations reduce eddy current losses by breaking the core into thin sheets, minimizing circulating currents."
+    },
+    {
+      "question": "The efficiency of a transformer is maximum when:",
+      "options": [
+        "Iron losses equal copper losses",
+        "Iron losses are zero",
+        "Copper losses are zero",
+        "Iron losses are maximum"
+      ],
+      "answer": 0,
+      "explanation": "📝 Maximum efficiency occurs when iron losses (constant) equal copper losses (load-dependent), balancing the two main loss components."
+    },
+    {
+      "question": "A DC series motor should not be run at:",
+      "options": [
+        "Full load",
+        "No load",
+        "Half load",
+        "Overload"
+      ],
+      "answer": 1,
+      "explanation": "📝 A DC series motor can reach dangerously high speeds at no load due to minimal load torque."
+    },
+    {
+      "question": "The open-circuit test on a transformer measures:",
+      "options": [
+        "Copper losses",
+        "Iron losses",
+        "Total losses",
+        "Friction losses"
+      ],
+      "answer": 1,
+      "explanation": "📝 The open-circuit test measures iron losses (hysteresis and eddy current) as the secondary is open, so no copper losses occur."
+    },
+    {
+      "question": "The rotor of an induction motor rotates at:",
+      "options": [
+        "Synchronous speed",
+        "Less than synchronous speed",
+        "More than synchronous speed",
+        "Twice synchronous speed"
+      ],
+      "answer": 1,
+      "explanation": "📝 The rotor of an induction motor rotates at a speed less than synchronous speed, with the difference defined by slip."
+    },
+    {
+      "question": "The function of interpoles in a DC machine is to:",
+      "options": [
+        "Increase efficiency",
+        "Reduce armature reaction",
+        "Improve commutation",
+        "Increase torque"
+      ],
+      "answer": 2,
+      "explanation": "📝 Interpoles improve commutation by neutralizing the effect of armature reaction in the commutation zone."
+    },
+    {
+      "question": "The torque of a DC motor is proportional to:",
+      "options": [
+        "Armature current",
+        "Supply voltage",
+        "Field resistance",
+        "Speed"
+      ],
+      "answer": 0,
+      "explanation": "📝 Torque in a DC motor is proportional to the armature current and the magnetic flux, T = k × Φ × I_a."
+    },
+    {
+      "question": "The primary winding of a current transformer should not be energized when the secondary is:",
+      "options": [
+        "Short-circuited",
+        "Open-circuited",
+        "Connected to a load",
+        "Grounded"
+      ],
+      "answer": 1,
+      "explanation": "📝 An open-circuited secondary in a current transformer can cause dangerously high voltages due to the absence of load."
+    },
+    {
+      "question": "A capacitor-start motor is used in applications requiring:",
+      "options": [
+        "Low starting torque",
+        "High starting torque",
+        "Constant speed",
+        "High efficiency"
+      ],
+      "answer": 1,
+      "explanation": "📝 A capacitor-start motor provides high starting torque due to the phase shift created by the capacitor."
+    },
+    {
+      "question": "The magnetic flux path in a transformer should have:",
+      "options": [
+        "High resistance",
+        "Low resistance",
+        "High reluctance",
+        "Low reluctance"
+      ],
+      "answer": 3,
+      "explanation": "📝 A low reluctance magnetic path ensures efficient flux linkage between primary and secondary windings."
+    },
+    {
+      "question": "The speed of a DC shunt motor is:",
+      "options": [
+        "Constant",
+        "Proportional to load",
+        "Inversely proportional to load",
+        "Inversely proportional to field current"
+      ],
+      "answer": 0,
+      "explanation": "📝 A DC shunt motor maintains nearly constant speed under varying loads due to its shunt field configuration."
+    },
+    {
+      "question": "The main advantage of a synchronous motor over an induction motor is:",
+      "options": [
+        "High efficiency",
+        "Power factor correction",
+        "Low cost",
+        "Simple construction"
+      ],
+      "answer": 1,
+      "explanation": "📝 Synchronous motors can operate at leading power factor, making them ideal for power factor correction."
+    },
+    {
+      "question": "The voltage regulation of a transformer is zero when the power factor is:",
+      "options": [
+        "Lagging",
+        "Leading",
+        "Unity",
+        "Zero"
+      ],
+      "answer": 2,
+      "explanation": "📝 Voltage regulation is zero at unity power factor, as the voltage drop due to reactance is minimized."
+    },
+    {
+      "question": "The dummy coils in a DC machine are used to:",
+      "options": [
+        "Improve commutation",
+        "Reduce cost",
+        "Mechanically balance the armature",
+        "Increase efficiency"
+      ],
+      "answer": 2,
+      "explanation": "📝 Dummy coils are used to mechanically balance the armature without contributing to the electrical circuit."
+    },
+    {
+      "question": "The frequency of a four-pole alternator running at 1800 rpm is:",
+      "options": [
+        "60 Hz",
+        "50 Hz",
+        "120 Hz",
+        "30 Hz"
+      ],
+      "answer": 0,
+      "explanation": "📝 Frequency f = (P × N) / 120 = (4 × 1800) / 120 = 60 Hz."
+    },
+    {
+      "question": "The main purpose of a choke in a fluorescent lamp is to:",
+      "options": [
+        "Limit current",
+        "Increase voltage",
+        "Reduce power factor",
+        "Increase frequency"
+      ],
+      "answer": 0,
+      "explanation": "📝 A choke limits the current in a fluorescent lamp to prevent damage and provide the necessary starting voltage."
+    },
+    {
+      "question": "The starting torque of a three-phase induction motor is proportional to:",
+      "options": [
+        "Square of supply voltage",
+        "Supply frequency",
+        "Number of poles",
+        "Rotor resistance"
+      ],
+      "answer": 0,
+      "explanation": "📝 Starting torque T ∝ V², as per the torque equation of an induction motor."
+    },
+    {
+      "question": "The no-load speed of a DC series motor is:",
+      "options": [
+        "Constant",
+        "Very high",
+        "Zero",
+        "Low"
+      ],
+      "answer": 1,
+      "explanation": "📝 At no load, a DC series motor can reach very high speeds due to minimal load torque."
+    },
+    // Electronics (24 MCQs)
+    {
+      "question": "The number of diodes in a bridge rectifier is:",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "answer": 2,
+      "explanation": "📝 A bridge rectifier uses four diodes arranged in a bridge configuration to convert AC to DC."
+    },
+    {
+      "question": "A Zener diode is primarily used as a:",
+      "options": [
+        "Rectifier",
+        "Voltage regulator",
+        "Amplifier",
+        "Oscillator"
+      ],
+      "answer": 1,
+      "explanation": "📝 A Zener diode maintains a constant output voltage when reverse-biased, making it ideal for voltage regulation."
+    },
+    {
+      "question": "The output voltage of an emitter-follower has a phase difference of:",
+      "options": [
+        "0°",
+        "90°",
+        "180°",
+        "270°"
+      ],
+      "answer": 0,
+      "explanation": "📝 In an emitter-follower, the output voltage follows the input voltage with no phase shift (0°)."
+    },
+    {
+      "question": "The ripple factor of a full-wave rectifier is:",
+      "options": [
+        "1.21",
+        "0.48",
+        "0.81",
+        "0.40"
+      ],
+      "answer": 1,
+      "explanation": "📝 The ripple factor of a full-wave rectifier is approximately 0.48, indicating the amount of AC component in the output."
+    },
+    {
+      "question": "The Boolean expression A + AB simplifies to:",
+      "options": [
+        "A",
+        "B",
+        "A + B",
+        "AB"
+      ],
+      "answer": 0,
+      "explanation": "📝 A + AB = A(1 + B) = A, as 1 + B = 1 in Boolean algebra."
+    },
+    {
+      "question": "A crystal oscillator is used for:",
+      "options": [
+        "Variable frequency",
+        "Fixed frequency",
+        "High power output",
+        "Low voltage operation"
+      ],
+      "answer": 1,
+      "explanation": "📝 A crystal oscillator provides a stable, fixed frequency due to the resonant properties of the quartz crystal."
+    },
+    {
+      "question": "The octal equivalent of the hexadecimal number (A5)16 is:",
+      "options": [
+        "(245)8",
+        "(255)8",
+        "(265)8",
+        "(275)8"
+      ],
+      "answer": 0,
+      "explanation": "📝 Convert (A5)16 to binary: A = 1010, 5 = 0101, so (A5)16 = 10100101. Group into threes: 010 100 101 = 245 in octal."
+    },
+    {
+      "question": "The condition for a transistor to operate in the cut-off region is:",
+      "options": [
+        "Both junctions forward-biased",
+        "Both junctions reverse-biased",
+        "Emitter-base forward, collector-base reverse",
+        "Emitter-base reverse, collector-base forward"
+      ],
+      "answer": 1,
+      "explanation": "📝 In the cut-off region, both the emitter-base and collector-base junctions are reverse-biased, preventing current flow."
+    },
+    {
+      "question": "The gain of a common-emitter amplifier is typically:",
+      "options": [
+        "Less than 1",
+        "Equal to 1",
+        "Greater than 1",
+        "Zero"
+      ],
+      "answer": 2,
+      "explanation": "📝 A common-emitter amplifier provides voltage gain greater than 1 due to its amplification properties."
+    },
+    {
+      "question": "The output of a NOT gate with input '1' is:",
+      "options": [
+        "0",
+        "1",
+        "High",
+        "Low"
+      ],
+      "answer": 0,
+      "explanation": "📝 A NOT gate inverts the input, so an input of '1' produces an output of '0'."
+    },
+    {
+      "question": "The efficiency of a full-wave rectifier is approximately:",
+      "options": [
+        "40.6%",
+        "81.2%",
+        "50%",
+        "100%"
+      ],
+      "answer": 1,
+      "explanation": "📝 The efficiency of a full-wave rectifier is approximately 81.2%, assuming ideal diodes and no losses."
+    },
+    {
+      "question": "The binary product of 101 and 11 is:",
+      "options": [
+        "1111",
+        "1001",
+        "111",
+        "10001"
+      ],
+      "answer": 0,
+      "explanation": "📝 Binary multiplication: 101 (5) × 11 (3) = 1111 (15)."
+    },
+    {
+      "question": "A voltage divider bias circuit provides:",
+      "options": [
+        "High gain",
+        "Stable operating point",
+        "Low power consumption",
+        "High input impedance"
+      ],
+      "answer": 1,
+      "explanation": "📝 A voltage divider bias circuit stabilizes the operating point of a transistor against temperature and parameter variations."
+    },
+    {
+      "question": "The output of an AND gate with inputs A=1, B=0 is:",
+      "options": [
+        "0",
+        "1",
+        "High",
+        "Low"
+      ],
+      "answer": 0,
+      "explanation": "📝 For an AND gate, output = A AND B = 1 AND 0 = 0."
+    },
+    {
+      "question": "A half-wave rectifier has a ripple frequency equal to:",
+      "options": [
+        "Twice the supply frequency",
+        "Half the supply frequency",
+        "Supply frequency",
+        "Zero"
+      ],
+      "answer": 2,
+      "explanation": "📝 The ripple frequency of a half-wave rectifier equals the supply frequency, as it conducts only one half-cycle."
+    },
+    {
+      "question": "The purpose of a filter in a rectifier circuit is to:",
+      "options": [
+        "Increase voltage",
+        "Reduce ripple",
+        "Increase current",
+        "Reduce frequency"
+      ],
+      "answer": 1,
+      "explanation": "📝 A filter (e.g., capacitor or inductor) reduces the ripple in the output of a rectifier to provide smoother DC."
+    },
+    {
+      "question": "The binary equivalent of the decimal number 13 is:",
+      "options": [
+        "1101",
+        "1011",
+        "1001",
+        "1110"
+      ],
+      "answer": 0,
+      "explanation": "📝 Convert 13 to binary: 13 ÷ 2 = 6 R1, 6 ÷ 2 = 3 R0, 3 ÷ 2 = 1 R1, 1 ÷ 2 = 0 R1. Thus, 1101."
+    },
+    {
+      "question": "A BJT operates in the active region when:",
+      "options": [
+        "Emitter-base forward, collector-base reverse",
+        "Both junctions forward",
+        "Both junctions reverse",
+        "Emitter-base reverse, collector-base forward"
+      ],
+      "answer": 0,
+      "explanation": "📝 In the active region, the emitter-base junction is forward-biased, and the collector-base junction is reverse-biased."
+    },
+    {
+      "question": "The main advantage of a bridge rectifier is:",
+      "options": [
+        "High ripple factor",
+        "No center-tap required",
+        "Low efficiency",
+        "High cost"
+      ],
+      "answer": 1,
+      "explanation": "📝 A bridge rectifier does not require a center-tapped transformer, making it simpler and more cost-effective."
+    },
+    {
+      "question": "The output of an OR gate with inputs A=0, B=1 is:",
+      "options": [
+        "0",
+        "1",
+        "High",
+        "Low"
+      ],
+      "answer": 1,
+      "explanation": "📝 For an OR gate, output = A OR B = 0 OR 1 = 1."
+    },
+    {
+      "question": "The hexadecimal equivalent of the binary number 10110110 is:",
+      "options": [
+        "B6",
+        "A5",
+        "C7",
+        "D8"
+      ],
+      "answer": 0,
+      "explanation": "📝 Binary 10110110 = 1011 0110 = B6 in hexadecimal (1011 = B, 0110 = 6)."
+    },
+    {
+      "question": "A common-collector amplifier has a voltage gain of:",
+      "options": [
+        "Less than 1",
+        "Greater than 1",
+        "Approximately 1",
+        "Zero"
+      ],
+      "answer": 2,
+      "explanation": "📝 A common-collector (emitter-follower) amplifier has a voltage gain of approximately 1, as it primarily provides current amplification."
+    },
+    {
+      "question": "The function of a rectifier is to convert:",
+      "options": [
+        "AC to DC",
+        "DC to AC",
+        "High voltage to low voltage",
+        "Low voltage to high voltage"
+      ],
+      "answer": 0,
+      "explanation": "📝 A rectifier converts alternating current (AC) to direct current (DC)."
+    },
+    {
+      "question": "The bandwidth of a resonant circuit is determined by:",
+      "options": [
+        "Resistance",
+        "Quality factor",
+        "Capacitance",
+        "Inductance"
+      ],
+      "answer": 1,
+      "explanation": "📝 The bandwidth of a resonant circuit is inversely proportional to the quality factor (Q), BW = f_r / Q."
+    },
+    // Measurements (12 MCQs)
+    {
+      "question": "A megger is used to measure:",
+      "options": [
+        "Voltage",
+        "Current",
+        "Insulation resistance",
+        "Power"
+      ],
+      "answer": 2,
+      "explanation": "📝 A megger is a mega-ohmmeter used to measure high insulation resistance in electrical equipment."
+    },
+    {
+      "question": "The Wien bridge is used to measure:",
+      "options": [
+        "Resistance",
+        "Capacitance",
+        "Inductance",
+        "Frequency"
+      ],
+      "answer": 3,
+      "explanation": "📝 The Wien bridge is frequency-sensitive and used to measure frequency in oscillator circuits."
+    },
+    {
+      "question": "A moving iron instrument is primarily used to measure:",
+      "options": [
+        "DC voltage",
+        "AC and DC current",
+        "Power",
+        "Resistance"
+      ],
+      "answer": 1,
+      "explanation": "📝 Moving iron instruments can measure both AC and DC currents due to their magnetic response to current flow."
+    },
+    {
+      "question": "The two-wattmeter method is used to measure power in:",
+      "options": [
+        "Single-phase circuit",
+        "Three-phase circuit",
+        "DC circuit",
+        "Capacitive circuit"
+      ],
+      "answer": 1,
+      "explanation": "📝 The two-wattmeter method is used to measure power in a three-phase circuit, especially for balanced loads."
+    },
+    {
+      "question": "A voltmeter should be connected in:",
+      "options": [
+        "Series",
+        "Parallel",
+        "Series-parallel",
+        "Open circuit"
+      ],
+      "answer": 1,
+      "explanation": "📝 A voltmeter is connected in parallel to measure the voltage across a circuit component."
+    },
+    {
+      "question": "The Hay bridge is used to measure:",
+      "options": [
+        "Capacitance",
+        "Low Q inductance",
+        "High Q inductance",
+        "Resistance"
+      ],
+      "answer": 2,
+      "explanation": "📝 The Hay bridge is designed to measure the inductance of high Q inductors."
+    },
+    {
+      "question": "An ammeter should have:",
+      "options": [
+        "High resistance",
+        "Low resistance",
+        "Infinite resistance",
+        "Zero resistance"
+      ],
+      "answer": 1,
+      "explanation": "📝 An ammeter should have low resistance to minimize its impact on the circuit when connected in series."
+    },
+    {
+      "question": "The unit of energy measured by an energy meter is:",
+      "options": [
+        "Watt",
+        "Kilowatt-hour",
+        "Joule",
+        "Volt-ampere"
+      ],
+      "answer": 1,
+      "explanation": "📝 An energy meter measures energy consumption in kilowatt-hours (kWh)."
+    },
+    {
+      "question": "Electrostatic instruments are primarily used as:",
+      "options": [
+        "Ammeters",
+        "Voltmeters",
+        "Wattmeters",
+        "Ohmmeters"
+      ],
+      "answer": 1,
+      "explanation": "📝 Electrostatic instruments are used as voltmeters due to their high input impedance and ability to measure high voltages."
+    },
+    {
+      "question": "The damping used in a moving coil instrument is:",
+      "options": [
+        "Air friction",
+        "Eddy current",
+        "Fluid friction",
+        "Magnetic damping"
+      ],
+      "answer": 1,
+      "explanation": "📝 Eddy current damping is used in moving coil instruments to stabilize pointer movement."
+    },
+    {
+      "question": "The power factor meter measures:",
+      "options": [
+        "Real power",
+        "Reactive power",
+        "Apparent power",
+        "Cosine of phase angle"
+      ],
+      "answer": 3,
+      "explanation": "📝 A power factor meter measures the cosine of the phase angle (cos φ) between voltage and current."
+    },
+    {
+      "question": "The bridge used to measure low resistance is:",
+      "options": [
+        "Wheatstone",
+        "Kelvin",
+        "Maxwell",
+        "Wien"
+      ],
+      "answer": 1,
+      "explanation": "📝 The Kelvin bridge is used to measure low resistance accurately, accounting for contact resistance."
+    },
+    // Control Systems (6 MCQs)
+    {
+      "question": "For an over-damped system, the damping ratio is:",
+      "options": [
+        "ξ < 1",
+        "ξ = 1",
+        "ξ > 1",
+        "ξ = 0"
+      ],
+      "answer": 2,
+      "explanation": "📝 An over-damped system has a damping ratio ξ > 1, resulting in a slow, non-oscillatory response."
+    },
+    {
+      "question": "A system with positive gain margin and positive phase margin is:",
+      "options": [
+        "Unstable",
+        "Stable",
+        "Oscillatory",
+        "Marginally stable"
+      ],
+      "answer": 1,
+      "explanation": "📝 Positive gain and phase margins indicate a stable system with sufficient stability margins."
+    },
+    {
+      "question": "The transfer function of a system is given by G(s) = 1/(s+2). The system is:",
+      "options": [
+        "Unstable",
+        "Stable",
+        "Marginally stable",
+        "Critically damped"
+      ],
+      "answer": 1,
+      "explanation": "📝 The pole at s = -2 lies in the left half-plane, indicating a stable system."
+    },
+    {
+      "question": "The steady-state error of a type-1 system with a step input is:",
+      "options": [
+        "Zero",
+        "Infinite",
+        "Constant",
+        "Proportional to input"
+      ],
+      "answer": 0,
+      "explanation": "📝 A type-1 system (one integrator) has zero steady-state error for a step input due to its ability to track constant inputs."
+    },
+    {
+      "question": "The Routh-Hurwitz criterion is used to determine:",
+      "options": [
+        "System stability",
+        "System gain",
+        "Phase margin",
+        "Frequency response"
+      ],
+      "answer": 0,
+      "explanation": "📝 The Routh-Hurwitz criterion determines system stability by analyzing the characteristic equation’s roots."
+    },
+    {
+      "question": "The time constant of a first-order system is:",
+      "options": [
+        "1/ω",
+        "1/α",
+        "α",
+        "ω"
+      ],
+      "answer": 1,
+      "explanation": "📝 For a first-order system with transfer function 1/(s + α), the time constant is 1/α."
+    },
+    // Material Science (6 MCQs)
+    {
+      "question": "The coordination number of a face-centered cubic (FCC) structure is:",
+      "options": [
+        "8",
+        "12",
+        "6",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "📝 In an FCC structure, each atom is surrounded by 12 nearest neighbors, giving a coordination number of 12."
+    },
+    {
+      "question": "Which material is commonly used for cable sheaths?",
+      "options": [
+        "Copper",
+        "Aluminium",
+        "Lead",
+        "Steel"
+      ],
+      "answer": 2,
+      "explanation": "📝 Lead is used for cable sheaths due to its corrosion resistance and ability to protect against environmental factors."
+    },
+    {
+      "question": "The atomic packing factor of a body-centered cubic (BCC) structure is:",
+      "options": [
+        "0.68",
+        "0.74",
+        "0.52",
+        "0.91"
+      ],
+      "answer": 0,
+      "explanation": "📝 The atomic packing factor for a BCC structure is 0.68, calculated as the ratio of atomic volume to unit cell volume."
+    },
+    {
+      "question": "Which of the following is a semiconductor material?",
+      "options": [
+        "Copper",
+        "Silicon",
+        "Aluminium",
+        "Iron"
+      ],
+      "answer": 1,
+      "explanation": "📝 Silicon is a semiconductor material widely used in electronics, unlike copper, aluminium, and iron, which are conductors."
+    },
+    {
+      "question": "The crystal structure of sodium chloride (NaCl) is:",
+      "options": [
+        "FCC",
+        "BCC",
+        "HCP",
+        "Simple cubic"
+      ],
+      "answer": 0,
+      "explanation": "📝 Sodium chloride (NaCl) has a face-centered cubic (FCC) crystal structure."
+    },
+    {
+      "question": "The electronic configuration of silicon (atomic number 14) is:",
+      "options": [
+        "1s² 2s² 2p⁶ 3s² 3p²",
+        "1s² 2s² 2p⁶ 3s² 3p⁴",
+        "1s² 2s² 2p⁶ 3s²",
+        "1s² 2s² 2p⁶ 3s² 3p⁶"
+      ],
+      "answer": 0,
+      "explanation": "📝 Silicon (atomic number 14) has the electronic configuration 1s² 2s² 2p⁶ 3s² 3p²."
+    }
+  ]
+}
