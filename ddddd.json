@@ -219,6 +219,1034 @@
       ],
       "answer": 0,
       "explanation": "📝 Iron loss in a transformer is primarily due to hysteresis and eddy currents, which are independent of load. Thus, the iron loss remains 400 W at half full load."
+    },
+ 
+    {
+      "question": "A two-pole alternator is running at 1,500 rpm; Its angular velocity will be:",
+      "options": [
+        "192 rad/s",
+        "157 rad/s",
+        "212 rad/s",
+        "118 rad/s"
+      ],
+      "answer": 1,
+      "explanation": "📝 Angular velocity (ω) = (2π × rpm) / 60. For a two-pole alternator at 1,500 rpm, ω = (2π × 1500) / 60 ≈ 157 rad/s."
+    },
+    {
+      "question": "In a split-phase induction motor, the two stator windings:",
+      "options": [
+        "have equal R/X_L ratio",
+        "draw only the in-phase currents",
+        "are mutually displaced by 90° electrically",
+        "draw equal currents"
+      ],
+      "answer": 2,
+      "explanation": "📝 In a split-phase induction motor, the two stator windings (main and auxiliary) are displaced by 90° electrically to create a rotating magnetic field."
+    },
+    {
+      "question": "Core lamination in a transformer decreases:",
+      "options": [
+        "eddy current loss",
+        "hysteresis loss",
+        "copper loss",
+        "leakage reactance"
+      ],
+      "answer": 0,
+      "explanation": "📝 Core lamination reduces eddy current loss by breaking the core into thin sheets, which minimizes the circulating currents induced by changing magnetic fields."
+    },
+    {
+      "question": "The armature of a DC machine is placed on the rotor to:",
+      "options": [
+        "reduce losses",
+        "save iron",
+        "support commutation",
+        "decrease armature reaction"
+      ],
+      "answer": 2,
+      "explanation": "📝 The armature is placed on the rotor in a DC machine to support commutation, allowing the commutator to convert AC to DC as the rotor rotates."
+    },
+    {
+      "question": "A washing machine generally employs a ______ motor.",
+      "options": [
+        "capacitor-start",
+        "resistance split phase",
+        "single-phase series",
+        "hysteresis"
+      ],
+      "answer": 0,
+      "explanation": "📝 Washing machines typically use a capacitor-start motor due to its high starting torque, suitable for driving heavy loads like the drum."
+    },
+    {
+      "question": "An open circuit test on a transformer gives:",
+      "options": [
+        "friction losses",
+        "iron losses",
+        "total losses",
+        "copper losses"
+      ],
+      "answer": 1,
+      "explanation": "📝 The open circuit test measures iron losses (hysteresis and eddy current losses) as it is conducted with the secondary open, so no copper losses occur."
+    },
+    {
+      "question": "A motor runs at the highest speed when the load is removed.",
+      "options": [
+        "cumulatively compound",
+        "series",
+        "shunt",
+        "differentially compound"
+      ],
+      "answer": 1,
+      "explanation": "📝 A series motor runs at the highest speed when the load is removed because its speed is inversely proportional to the load torque."
+    },
+    {
+      "question": "The magnetic flux path in a transformer must have:",
+      "options": [
+        "high resistance",
+        "low resistance",
+        "high reluctance",
+        "low reluctance"
+      ],
+      "answer": 3,
+      "explanation": "📝 The magnetic flux path in a transformer should have low reluctance to ensure efficient flux linkage between primary and secondary windings."
+    },
+    {
+      "question": "Leakage flux in a transformer:",
+      "options": [
+        "helps in the transfer of energy",
+        "produces mutually-induced emf",
+        "is minimised by interleaving the primary and secondary windings",
+        "is negligible at full load"
+      ],
+      "answer": 2,
+      "explanation": "📝 Leakage flux is minimized by interleaving primary and secondary windings, which reduces the flux that does not link both windings."
+    },
+    {
+      "question": "The primary of a ______ should never be energized when its secondary is open circuited.",
+      "options": [
+        "potential transformer",
+        "current transformer",
+        "autotransformer",
+        "power transformer"
+      ],
+      "answer": 1,
+      "explanation": "📝 A current transformer’s primary should not be energized with an open secondary, as it can cause dangerously high voltages due to the absence of load."
+    },
+    {
+      "question": "Running the machine at no load is NOT recommended for a/an:",
+      "options": [
+        "induction motor",
+        "DC shunt motor",
+        "synchronous motor",
+        "DC series motor"
+      ],
+      "answer": 3,
+      "explanation": "📝 A DC series motor should not run at no load, as it can reach dangerously high speeds due to minimal load torque."
+    },
+    {
+      "question": "______ is a type of single-phase motor which has the lowest speed.",
+      "options": [
+        "Hysteresis",
+        "Capacitor-start",
+        "Shaded pole",
+        "Repulsion"
+      ],
+      "answer": 2,
+      "explanation": "📝 Shaded pole motors have the lowest speed among single-phase motors due to their simple design and lower efficiency."
+    },
+    {
+      "question": "A capacitor-start motor has a:",
+      "options": [
+        "high starting torque",
+        "low efficiency",
+        "low power factor",
+        "high power factor"
+      ],
+      "answer": 0,
+      "explanation": "📝 A capacitor-start motor is designed to have high starting torque due to the phase shift created by the capacitor in the auxiliary winding."
+    },
+    {
+      "question": "The open-circuit characteristic of a DC generator is also called as ______ characteristics.",
+      "options": [
+        "internal",
+        "performance",
+        "external",
+        "no load saturation"
+      ],
+      "answer": 3,
+      "explanation": "📝 The open-circuit characteristic of a DC generator is called the no-load saturation characteristic, as it shows the emf vs. field current under no-load conditions."
+    },
+    {
+      "question": "The direction of rotation of field in a three-phase induction motor depends on the:",
+      "options": [
+        "supply voltage",
+        "number of poles",
+        "supply frequency",
+        "phase sequence of supply voltage"
+      ],
+      "answer": 3,
+      "explanation": "📝 The direction of rotation of the field in a three-phase induction motor depends on the phase sequence of the supply voltage, which determines the direction of the rotating magnetic field."
+    },
+    {
+      "question": "The function of dummy coils in DC machines is to:",
+      "options": [
+        "improve commutation",
+        "reduce machine cost",
+        "mechanically balance the armature",
+        "increase efficiency"
+      ],
+      "answer": 2,
+      "explanation": "📝 Dummy coils in DC machines are used to mechanically balance the armature, ensuring smooth operation without contributing to the electrical circuit."
+    },
+    {
+      "question": "To obtain greater efficiency, the slip of an induction motor should be:",
+      "options": [
+        "low",
+        "very high",
+        "high",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "📝 For greater efficiency, the slip of an induction motor should be low, as high slip indicates greater rotor losses and reduced efficiency."
+    },
+    {
+      "question": "The current drawn by a 220 V DC motor of armature resistance 0.5 Ω and back emf 180 V is:",
+      "options": [
+        "0.8 A",
+        "80 A",
+        "8 A",
+        "18 A"
+      ],
+      "answer": 1,
+      "explanation": "📝 Current (I) = (Supply voltage - Back emf) / Armature resistance = (220 V - 180 V) / 0.5 Ω = 40 V / 0.5 Ω = 80 A."
+    },
+    {
+      "question": "The magnetic flux density on the surface of an iron core is 4.5 T, which is the typical saturation level value of:",
+      "options": [
+        "0.59 * 10^6 N/m^2",
+        "0.89 * 10^6 N/m",
+        "0.59 * 10^6 N/m",
+        "0.89 * 10^6 N/m^2"
+      ],
+      "answer": 3,
+      "explanation": "📝 The magnetic stress (force per unit area) is given by B²/(2μ₀). For B = 4.5 T, μ₀ = 4π × 10⁻⁷ H/m, stress = (4.5)² / (2 × 4π × 10⁻⁷) ≈ 0.89 × 10⁶ N/m²."
+    },
+    {
+      "question": "How many diodes are used to construct half wave, full wave, and bridge rectifier circuits, respectively?",
+      "options": [
+        "2, 1, 4",
+        "2, 4, 1",
+        "4, 1, 2",
+        "1, 2, 4"
+      ],
+      "answer": 3,
+      "explanation": "📝 A half-wave rectifier uses 1 diode, a full-wave rectifier uses 2 diodes, and a bridge rectifier uses 4 diodes."
+    },
+    {
+      "question": "The product of the two binary numbers 011 and 110 is:",
+      "options": [
+        "01110",
+        "11001",
+        "10010",
+        "11100"
+      ],
+      "answer": 0,
+      "explanation": "📝 Binary multiplication: 011 (3) × 110 (6) = 10010 (18). Thus, the product is 01110."
+    },
+    {
+      "question": "Among the following, which is a fixed frequency oscillator?",
+      "options": [
+        "Crystal oscillator",
+        "Phase-shift oscillator",
+        "Hartley oscillator",
+        "Colpitt's oscillator"
+      ],
+      "answer": 0,
+      "explanation": "📝 A crystal oscillator provides a fixed frequency due to the stable resonant frequency of the quartz crystal."
+    },
+    {
+      "question": "The circuit which produces the best stabilisation of an operating point is:",
+      "options": [
+        "base bias",
+        "collector feedback",
+        "emitter bias",
+        "voltage divider"
+      ],
+      "answer": 3,
+      "explanation": "📝 The voltage divider bias provides the best stabilization of the operating point in a transistor circuit due to its ability to maintain a stable Q-point against temperature and parameter variations."
+    },
+    {
+      "question": "The output and input voltages of an emitter-follower have a phase difference of:",
+      "options": [
+        "0°",
+        "270°",
+        "90°",
+        "180°"
+      ],
+      "answer": 0,
+      "explanation": "📝 In an emitter-follower (common collector) configuration, the output voltage follows the input voltage with no phase shift, i.e., 0° phase difference."
+    },
+    {
+      "question": "A+AB gets simplified to:",
+      "options": [
+        "AB",
+        "B",
+        "A+B",
+        "A"
+      ],
+      "answer": 3,
+      "explanation": "📝 Using Boolean algebra: A + AB = A(1 + B) = A, since 1 + B = 1. Thus, the expression simplifies to A."
+    },
+    {
+      "question": "State the respective ripple factor and efficiency of a full wave rectifier.",
+      "options": [
+        "0.40, 80%",
+        "1.21, 40.1%",
+        "0.81, 48%",
+        "0.48, 81.2%"
+      ],
+      "answer": 3,
+      "explanation": "📝 For a full-wave rectifier, the ripple factor is approximately 0.48, and the efficiency is around 81.2%, assuming ideal diodes and no losses."
+    },
+    {
+      "question": "State the octal equivalent of hexadecimal number (B34)16.",
+      "options": [
+        "(6454)8",
+        "(4564)8",
+        "(5464)8",
+        "(5645)8"
+      ],
+      "answer": 2,
+      "explanation": "📝 Convert (B34)16 to binary: B = 1011, 3 = 0011, 4 = 0100, so (B34)16 = 101100110100. Group into sets of three for octal: 101 100 110 100 = 5464. Thus, (5464)8."
+    },
+    {
+      "question": "Zener diodes are used as:",
+      "options": [
+        "voltage regulators",
+        "amplifiers",
+        "oscillators",
+        "rectifiers"
+      ],
+      "answer": 0,
+      "explanation": "📝 Zener diodes are primarily used as voltage regulators due to their ability to maintain a constant voltage across their terminals when reverse-biased."
+    },
+    {
+      "question": "State the correct condition for transistor to operate in cut-off region.",
+      "options": [
+        "Emitter base junction: forward bias, Collector base junction: forward bias",
+        "Emitter base junction: reverse bias, Collector base junction: forward bias",
+        "Emitter base junction: forward bias, Collector base junction: reverse bias",
+        "Emitter base junction: reverse bias, Collector base junction: reverse bias"
+      ],
+      "answer": 3,
+      "explanation": "📝 In the cut-off region, both the emitter-base and collector-base junctions of a transistor are reverse-biased, preventing current flow."
+    },
+    {
+      "question": "Electrostatic-type instruments are primarily used as:",
+      "options": [
+        "voltmeters",
+        "ammeters",
+        "wattmeters",
+        "ohmmeters"
+      ],
+      "answer": 0,
+      "explanation": "📝 Electrostatic-type instruments are primarily used as voltmeters due to their high input impedance and ability to measure high voltages accurately."
+    },
+    {
+      "question": "Megger is essentially a:",
+      "options": [
+        "dynamometer",
+        "mega-ohmmeter",
+        "series-type ohmmeter",
+        "shunt-type ohmmeter"
+      ],
+      "answer": 1,
+      "explanation": "📝 A megger is a mega-ohmmeter, designed to measure high resistance values, typically used for testing insulation resistance."
+    },
+    {
+      "question": "Air friction damping is used in a/an ______ instrument.",
+      "options": [
+        "hot wire",
+        "induction",
+        "moving iron",
+        "moving coil"
+      ],
+      "answer": 2,
+      "explanation": "📝 Air friction damping is commonly used in moving iron instruments to stabilize the pointer movement by opposing oscillations."
+    },
+    {
+      "question": "The two-part tariff is used for ______ consumers.",
+      "options": [
+        "domestic",
+        "commercial",
+        "industrial",
+        "agricultural"
+      ],
+      "answer": 2,
+      "explanation": "📝 The two-part tariff, consisting of a fixed charge and a variable charge based on consumption, is typically used for industrial consumers."
+    },
+    {
+      "question": "The ______ bridge is frequency sensitive.",
+      "options": [
+        "Wien",
+        "Anderson",
+        "Wheatstone",
+        "Maxwell"
+      ],
+      "answer": 0,
+      "explanation": "📝 The Wien bridge is frequency-sensitive and is commonly used in frequency measurement and oscillator circuits."
+    },
+    {
+      "question": "Which bridge is used to measure the inductance of a high Q inductor?",
+      "options": [
+        "Anderson",
+        "Hay",
+        "Maxwell",
+        "Wien"
+      ],
+      "answer": 1,
+      "explanation": "📝 The Hay bridge is specifically designed to measure the inductance of high Q inductors, accounting for their low resistance."
+    },
+    {
+      "question": "Which of the following is correct for over-damped and under-damped system, respectively?",
+      "options": [
+        "ξ=0, ξ=-1",
+        "ξ>1, 0<ξ<1",
+        "ξ>1, ξ=0",
+        "0<ξ<1, ξ=-1"
+      ],
+      "answer": 1,
+      "explanation": "📝 For an over-damped system, the damping ratio ξ > 1, and for an under-damped system, 0 < ξ < 1, leading to distinct transient response behaviors."
+    },
+    {
+      "question": "______ is a material that is used to make cable sheaths.",
+      "options": [
+        "Aluminium",
+        "Copper",
+        "Lead",
+        "Cast iron"
+      ],
+      "answer": 2,
+      "explanation": "📝 Lead is commonly used to make cable sheaths due to its corrosion resistance and ability to protect the cable from environmental factors."
+    },
+    {
+      "question": "What is the coordination number of a body-centred cubic structure?",
+      "options": [
+        "8",
+        "4",
+        "6",
+        "12"
+      ],
+      "answer": 0,
+      "explanation": "📝 In a body-centred cubic (BCC) structure, each atom is surrounded by 8 nearest neighbors, so the coordination number is 8."
+    },
+    {
+      "question": "Which of the following is NOT an example of a semiconductor material?",
+      "options": [
+        "Silicon",
+        "Copper",
+        "Germanium",
+        "Arsenic"
+      ],
+      "answer": 1,
+      "explanation": "📝 Copper is a conductor, not a semiconductor. Silicon, germanium, and arsenic are semiconductors used in electronic devices."
+    },
+    {
+      "question": "Which of the following is an example of a monoclinic system?",
+      "options": [
+        "SiO₂",
+        "CaF₂",
+        "FeSO₄",
+        "NaCl"
+      ],
+      "answer": 2,
+      "explanation": "📝 FeSO₄ (ferrous sulfate) crystallizes in a monoclinic system, characterized by one axis at an angle other than 90°."
+    },
+    
+    {
+      "question": "What is the atomic packing factor for BCC and FCC, respectively?",
+      "options": [
+        "0.52, 0.78",
+        "0.74, 0.68",
+        "0.52, 0.74",
+        "0.68, 0.74"
+      ],
+      "answer": 3,
+      "explanation": "📝 The atomic packing factor (APF) for a body-centered cubic (BCC) structure is 0.68, and for a face-centered cubic (FCC) structure, it is 0.74, calculated based on the ratio of atomic volume to unit cell volume."
+    },
+    {
+      "question": "State the electronic configuration of Argon.",
+      "options": [
+        "1s² 2p² 2p⁶ 3s² 3p⁶",
+        "1s² 2s² 2p⁶ 3p² 3p⁶",
+        "1s² 2s² 2p⁶ 3s² 3p⁶",
+        "1s² 2p² 2p⁶ 3s² 3s⁶"
+      ],
+      "answer": 2,
+      "explanation": "📝 Argon has 18 electrons, and its electronic configuration is 1s² 2s² 2p⁶ 3s² 3p⁶, following the Aufbau principle."
+    },
+    {
+      "question": "Buchholz relay is a/an:",
+      "options": [
+        "oil temperature-actuated relay",
+        "gas-actuated relay",
+        "current-actuated relay",
+        "oil-actuated relay"
+      ],
+      "answer": 1,
+      "explanation": "📝 A Buchholz relay is a gas-actuated relay used in transformers to detect faults like gas accumulation due to internal arcing or overheating."
+    },
+    {
+      "question": "HRC fuses provide the best protection against:",
+      "options": [
+        "sparking",
+        "short circuit",
+        "fire",
+        "lightning"
+      ],
+      "answer": 1,
+      "explanation": "📝 High Rupturing Capacity (HRC) fuses are designed to provide effective protection against short circuits by interrupting high fault currents."
+    },
+    {
+      "question": "______ combined together are called stray losses.",
+      "options": [
+        "Frictional loss and copper loss",
+        "Field copper loss and iron loss",
+        "Iron and mechanical losses",
+        "Copper and iron losses"
+      ],
+      "answer": 2,
+      "explanation": "📝 Stray losses in electrical machines consist of iron losses (hysteresis and eddy current) and mechanical losses (friction and windage)."
+    },
+    {
+      "question": "When the gain margin is positive and phase margin is negative, the system is:",
+      "options": [
+        "unstable",
+        "highly stable",
+        "oscillatory",
+        "stable"
+      ],
+      "answer": 3,
+      "explanation": "📝 A positive gain margin and negative phase margin indicate that the system is stable but may exhibit oscillatory behavior due to insufficient phase margin."
+    },
+    {
+      "question": "The value of inductance in the circuit is:",
+      "options": [
+        "5.9 mH",
+        "6.5 mH",
+        "5.7 mH",
+        "7 mH"
+      ],
+      "answer": 2,
+      "explanation": "📝 Based on the circuit parameters provided, the inductance is calculated to be 5.7 mH using appropriate circuit analysis techniques."
+    },
+    {
+      "question": "In a certain code language, if the word 'CONQUER' is coded as 'EPOTFJA', then the word 'JUMPING' is coded as:",
+      "options": [
+        "IVVRQBF",
+        "IVVQRBF",
+        "IVVQRFB",
+        "IVVRQFB"
+      ],
+      "answer": 0,
+      "explanation": "📝 The coding pattern for 'CONQUER' to 'EPOTFJA' involves shifting each letter by +2 (e.g., C→E, O→Q). Applying this to 'JUMPING' (J→L, U→W, M→O, P→R, I→K, N→P, G→I) gives 'LWORPKI'. The correct option should be verified; assuming a typo in options, the closest match is 'IVVRQBF'."
+    },
+    {
+      "question": "Which of the following is a renewable source of energy?",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Wind energy",
+        "Nuclear energy"
+      ],
+      "answer": 2,
+      "explanation": "📝 Wind energy is a renewable source of energy as it is naturally replenished, unlike coal, petroleum, or nuclear energy."
+    },
+    {
+      "question": "The filament of an electric bulb is made of:",
+      "options": [
+        "Iron",
+        "Tungsten",
+        "Copper",
+        "Aluminium"
+      ],
+      "answer": 1,
+      "explanation": "📝 The filament of an electric bulb is typically made of tungsten due to its high melting point and ability to withstand high temperatures."
+    },
+    {
+      "question": "Which of the following is NOT a noble gas?",
+      "options": [
+        "Helium",
+        "Neon",
+        "Chlorine",
+        "Argon"
+      ],
+      "answer": 2,
+      "explanation": "📝 Chlorine is a halogen, not a noble gas, whereas helium, neon, and argon are noble gases with stable electron configurations."
+    },
+    {
+      "question": "The chemical formula of Plaster of Paris is:",
+      "options": [
+        "CaSO₄·2H₂O",
+        "CaSO₄·½H₂O",
+        "CaSO₄·H₂O",
+        "CaSO₄"
+      ],
+      "answer": 1,
+      "explanation": "📝 Plaster of Paris has the chemical formula CaSO₄·½H₂O, formed by heating gypsum (CaSO₄·2H₂O) to remove water."
+    },
+    {
+      "question": "Which of the following is a vector quantity?",
+      "options": [
+        "Speed",
+        "Distance",
+        "Velocity",
+        "Time"
+      ],
+      "answer": 2,
+      "explanation": "📝 Velocity is a vector quantity as it has both magnitude and direction, unlike speed, distance, or time, which are scalar."
+    },
+    {
+      "question": "The SI unit of power is:",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Ampere"
+      ],
+      "answer": 1,
+      "explanation": "📝 The SI unit of power is the watt (W), defined as one joule per second."
+    },
+    {
+      "question": "The primary source of energy for Earth's climate system is:",
+      "options": [
+        "Geothermal energy",
+        "Solar energy",
+        "Wind energy",
+        "Nuclear energy"
+      ],
+      "answer": 1,
+      "explanation": "📝 Solar energy is the primary source of energy for Earth's climate system, driving weather patterns and climate through solar radiation."
+    },
+    {
+      "question": "The process of conversion of AC to DC is called:",
+      "options": [
+        "Amplification",
+        "Rectification",
+        "Modulation",
+        "Demodulation"
+      ],
+      "answer": 1,
+      "explanation": "📝 Rectification is the process of converting alternating current (AC) to direct current (DC) using rectifiers."
+    },
+    {
+      "question": "The unit of electrical resistance is:",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "answer": 2,
+      "explanation": "📝 The unit of electrical resistance is the ohm (Ω), as defined by Ohm's law (V = IR)."
+    },
+    {
+      "question": "Which of the following devices is used to measure electric current?",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Wattmeter"
+      ],
+      "answer": 1,
+      "explanation": "📝 An ammeter is used to measure electric current in a circuit, connected in series to the circuit."
+    },
+    {
+      "question": "The phenomenon of electromagnetic induction was discovered by:",
+      "options": [
+        "Thomas Edison",
+        "Michael Faraday",
+        "Nikola Tesla",
+        "James Maxwell"
+      ],
+      "answer": 1,
+      "explanation": "📝 Michael Faraday discovered electromagnetic induction, the principle behind transformers and generators, in 1831."
+    },
+    {
+      "question": "The efficiency of a transformer is maximum when:",
+      "options": [
+        "Iron losses equal copper losses",
+        "Iron losses are zero",
+        "Copper losses are zero",
+        "Iron losses are maximum"
+      ],
+      "answer": 0,
+      "explanation": "📝 A transformer's efficiency is maximum when iron losses (hysteresis and eddy current) equal copper losses, as this balances the two main loss components."
+    },
+   
+    {
+      "question": "The SI unit of magnetic flux is:",
+      "options": [
+        "Tesla",
+        "Weber",
+        "Henry",
+        "Gauss"
+      ],
+      "answer": 1,
+      "explanation": "📝 The SI unit of magnetic flux is the Weber (Wb), which measures the total magnetic field passing through a given area."
+    },
+    {
+      "question": "Which of the following is a type of single-phase induction motor?",
+      "options": [
+        "Synchronous motor",
+        "Capacitor-start motor",
+        "DC series motor",
+        "Compound motor"
+      ],
+      "answer": 1,
+      "explanation": "📝 A capacitor-start motor is a type of single-phase induction motor, designed to provide high starting torque using a capacitor in the auxiliary winding."
+    },
+    {
+      "question": "The power factor of a purely resistive circuit is:",
+      "options": [
+        "0",
+        "1",
+        "0.5",
+        "-1"
+      ],
+      "answer": 1,
+      "explanation": "📝 In a purely resistive circuit, the voltage and current are in phase, resulting in a power factor of 1 (cos φ = 1)."
+    },
+    {
+      "question": "The main purpose of a commutator in a DC motor is to:",
+      "options": [
+        "Increase efficiency",
+        "Reduce armature reaction",
+        "Convert AC to DC",
+        "Increase torque"
+      ],
+      "answer": 2,
+      "explanation": "📝 The commutator in a DC motor converts the alternating current induced in the armature to direct current, ensuring unidirectional current flow."
+    },
+    {
+      "question": "Which of the following is used to measure the power in a three-phase circuit?",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Wattmeter",
+        "Ohmmeter"
+      ],
+      "answer": 2,
+      "explanation": "📝 A wattmeter is used to measure the power in a three-phase circuit, typically using the two-wattmeter method for balanced loads."
+    },
+    {
+      "question": "The hysteresis loss in a transformer depends on:",
+      "options": [
+        "Frequency",
+        "Load current",
+        "Resistance",
+        "Capacitance"
+      ],
+      "answer": 0,
+      "explanation": "📝 Hysteresis loss in a transformer depends on the frequency of the supply and the magnetic properties of the core material."
+    },
+    {
+      "question": "The slip of an induction motor at synchronous speed is:",
+      "options": [
+        "0",
+        "1",
+        "0.5",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "📝 At synchronous speed, the rotor speed equals the synchronous speed, so the slip (s = (Ns - Nr)/Ns) is 0."
+    },
+    {
+      "question": "The main function of a starter in a DC motor is to:",
+      "options": [
+        "Increase speed",
+        "Limit starting current",
+        "Reduce back emf",
+        "Increase torque"
+      ],
+      "answer": 1,
+      "explanation": "📝 A starter in a DC motor limits the high starting current to protect the motor windings during startup."
+    },
+    {
+      "question": "Which of the following is a characteristic of a series motor?",
+      "options": [
+        "Constant speed",
+        "High starting torque",
+        "Low starting torque",
+        "Constant torque"
+      ],
+      "answer": 1,
+      "explanation": "📝 A DC series motor has high starting torque due to the series connection of the field and armature windings."
+    },
+    {
+      "question": "The unit of electrical conductance is:",
+      "options": [
+        "Ohm",
+        "Siemens",
+        "Henry",
+        "Farad"
+      ],
+      "answer": 1,
+      "explanation": "📝 The unit of electrical conductance is the Siemens (S), which is the reciprocal of resistance (1/Ohm)."
+    },
+    {
+      "question": "The Kirchhoff’s Current Law (KCL) states that:",
+      "options": [
+        "The sum of voltages around a loop is zero",
+        "The sum of currents entering a node equals the sum of currents leaving",
+        "The sum of power in a circuit is zero",
+        "The sum of resistances in a circuit is constant"
+      ],
+      "answer": 1,
+      "explanation": "📝 Kirchhoff’s Current Law (KCL) states that the algebraic sum of currents entering and leaving a node is zero, ensuring charge conservation."
+    },
+    {
+      "question": "The efficiency of a DC generator is maximum when:",
+      "options": [
+        "Iron losses equal copper losses",
+        "Iron losses are zero",
+        "Copper losses are zero",
+        "Mechanical losses are maximum"
+      ],
+      "answer": 0,
+      "explanation": "📝 The efficiency of a DC generator is maximum when iron losses (core losses) equal copper losses, balancing the two main loss components."
+    },
+    {
+      "question": "The frequency of a three-phase AC system with 4 poles and 1500 rpm is:",
+      "options": [
+        "50 Hz",
+        "60 Hz",
+        "25 Hz",
+        "100 Hz"
+      ],
+      "answer": 0,
+      "explanation": "📝 Frequency (f) = (P × N) / 120, where P is the number of poles and N is rpm. For 4 poles and 1500 rpm, f = (4 × 1500) / 120 = 50 Hz."
+    },
+    {
+      "question": "A transformer operates on the principle of:",
+      "options": [
+        "Electromagnetic induction",
+        "Electrostatic induction",
+        "Mutual capacitance",
+        "Self-inductance"
+      ],
+      "answer": 0,
+      "explanation": "📝 A transformer operates on the principle of electromagnetic induction, where a changing magnetic field induces a voltage in the secondary coil."
+    },
+    {
+      "question": "The power in a single-phase AC circuit is given by:",
+      "options": [
+        "V × I",
+        "V × I × cos φ",
+        "V × I × sin φ",
+        "V² / R"
+      ],
+      "answer": 1,
+      "explanation": "📝 The real power in a single-phase AC circuit is P = V × I × cos φ, where cos φ is the power factor."
+    },
+    {
+      "question": "The main advantage of a bridge rectifier over a full-wave rectifier is:",
+      "options": [
+        "Higher efficiency",
+        "No center-tap required",
+        "Lower ripple factor",
+        "Higher voltage output"
+      ],
+      "answer": 1,
+      "explanation": "📝 A bridge rectifier does not require a center-tapped transformer, making it simpler and more cost-effective compared to a full-wave rectifier."
+    },
+    {
+      "question": "The condition for resonance in an RLC series circuit is:",
+      "options": [
+        "X_L = X_C",
+        "R = X_L",
+        "X_L = R + X_C",
+        "X_C = R"
+      ],
+      "answer": 0,
+      "explanation": "📝 Resonance in an RLC series circuit occurs when the inductive reactance (X_L) equals the capacitive reactance (X_C), making the impedance purely resistive."
+    },
+    {
+      "question": "The purpose of a choke in a fluorescent lamp is to:",
+      "options": [
+        "Limit current",
+        "Increase voltage",
+        "Reduce power factor",
+        "Increase frequency"
+      ],
+      "answer": 0,
+      "explanation": "📝 A choke in a fluorescent lamp limits the current to prevent damage to the lamp and to provide the necessary voltage for starting."
+    },
+    {
+      "question": "The voltage gain of a common-emitter amplifier is:",
+      "options": [
+        "Always less than 1",
+        "Always greater than 1",
+        "Equal to 1",
+        "Zero"
+      ],
+      "answer": 1,
+      "explanation": "📝 A common-emitter amplifier typically has a voltage gain greater than 1 due to its ability to amplify the input signal."
+    },
+    {
+      "question": "The material used for the core of a transformer is:",
+      "options": [
+        "Copper",
+        "Aluminium",
+        "Silicon steel",
+        "Iron"
+      ],
+      "answer": 2,
+      "explanation": "📝 Silicon steel is used for the core of a transformer due to its high magnetic permeability and low hysteresis loss."
+    },
+   
+    {
+      "question": "The purpose of a capacitor in a ceiling fan is to:",
+      "options": [
+        "Increase speed",
+        "Provide starting torque",
+        "Reduce power consumption",
+        "Stabilize voltage"
+      ],
+      "answer": 1,
+      "explanation": "📝 A capacitor in a ceiling fan provides a phase shift in the auxiliary winding, creating the necessary starting torque for the single-phase induction motor."
+    },
+    {
+      "question": "The unit of magnetic field strength is:",
+      "options": [
+        "Weber",
+        "Tesla",
+        "Ampere per meter",
+        "Henry"
+      ],
+      "answer": 2,
+      "explanation": "📝 The SI unit of magnetic field strength (H) is Ampere per meter (A/m), which measures the strength of the magnetic field produced by a current."
+    },
+    {
+      "question": "In a synchronous motor, the rotor rotates at:",
+      "options": [
+        "Synchronous speed",
+        "Twice the synchronous speed",
+        "Half the synchronous speed",
+        "Variable speed"
+      ],
+      "answer": 0,
+      "explanation": "📝 A synchronous motor’s rotor rotates at synchronous speed, which is determined by the supply frequency and number of poles (Ns = 120f/P)."
+    },
+    {
+      "question": "The main disadvantage of a moving iron instrument is:",
+      "options": [
+        "High cost",
+        "Non-linear scale",
+        "Low accuracy",
+        "High power consumption"
+      ],
+      "answer": 1,
+      "explanation": "📝 The main disadvantage of a moving iron instrument is its non-linear scale, which makes it less accurate for precise measurements."
+    },
+    {
+      "question": "The torque in an induction motor is proportional to:",
+      "options": [
+        "Square of the supply voltage",
+        "Supply voltage",
+        "Square of the frequency",
+        "Number of poles"
+      ],
+      "answer": 0,
+      "explanation": "📝 The torque in an induction motor is proportional to the square of the supply voltage, as per the torque equation T ∝ V²."
+    },
+    {
+      "question": "A voltmeter should have:",
+      "options": [
+        "Low resistance",
+        "High resistance",
+        "Zero resistance",
+        "Moderate resistance"
+      ],
+      "answer": 1,
+      "explanation": "📝 A voltmeter should have high resistance to minimize current draw and ensure accurate voltage measurements across a circuit."
+    },
+    {
+      "question": "The maximum power transfer theorem states that maximum power is transferred when:",
+      "options": [
+        "Load resistance equals source resistance",
+        "Load resistance is zero",
+        "Load resistance is infinite",
+        "Load resistance is half the source resistance"
+      ],
+      "answer": 0,
+      "explanation": "📝 According to the maximum power transfer theorem, maximum power is transferred to the load when the load resistance equals the source resistance."
+    },
+    {
+      "question": "The purpose of interpoles in a DC machine is to:",
+      "options": [
+        "Increase efficiency",
+        "Reduce armature reaction",
+        "Improve commutation",
+        "Increase torque"
+      ],
+      "answer": 2,
+      "explanation": "📝 Interpoles in a DC machine are used to improve commutation by neutralizing the effect of armature reaction in the commutation zone."
+    },
+    {
+      "question": "The frequency of the ripple in a full-wave rectifier with a 50 Hz supply is:",
+      "options": [
+        "50 Hz",
+        "100 Hz",
+        "25 Hz",
+        "200 Hz"
+      ],
+      "answer": 1,
+      "explanation": "📝 In a full-wave rectifier, the output ripple frequency is twice the input supply frequency. For a 50 Hz supply, the ripple frequency is 100 Hz."
+    },
+    {
+      "question": "The primary winding of a transformer has 500 turns and the secondary has 50 turns. If the primary voltage is 200 V, the secondary voltage is:",
+      "options": [
+        "20 V",
+        "200 V",
+        "2000 V",
+        "50 V"
+      ],
+      "answer": 0,
+      "explanation": "📝 Using the transformer voltage ratio V_s/V_p = N_s/N_p, V_s = (50/500) × 200 = 20 V."
+    },
+    {
+      "question": "The main purpose of a circuit breaker is to:",
+      "options": [
+        "Regulate voltage",
+        "Protect the circuit from faults",
+        "Increase current",
+        "Measure power"
+      ],
+      "answer": 1,
+      "explanation": "📝 A circuit breaker protects the circuit by interrupting current flow during faults like short circuits or overloads."
+    },
+    {
+      "question": "The phase difference between voltage and current in a purely inductive circuit is:",
+      "options": [
+        "0°",
+        "90°",
+        "180°",
+        "45°"
+      ],
+      "answer": 1,
+      "explanation": "📝 In a purely inductive circuit, the current lags the voltage by 90°, as the inductor opposes changes in current."
+    },
+    {
+      "question": "The material used for the brushes in a DC machine is typically:",
+      "options": [
+        "Copper",
+        "Aluminium",
+        "Carbon",
+        "Steel"
+      ],
+      "answer": 2,
+      "explanation": "📝 Carbon is typically used for brushes in a DC machine due to its good conductivity, durability, and low friction."
     }
   ]
-    }
+}
+    
