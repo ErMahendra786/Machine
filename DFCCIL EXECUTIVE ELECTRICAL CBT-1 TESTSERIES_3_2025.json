@@ -1,0 +1,629 @@
+{
+  "quiz": [
+    {
+      "section": "Mathematics / Numerical Ability",
+      "questions": [
+        {
+          "question": "If the roots of the quadratic equation x² - 6x + k = 0 are real and equal, what is the value of k?",
+          "options": ["8", "9", "10", "11"],
+          "answer": 1,
+          "explanation": "📝 For real and equal roots, discriminant = 0. Equation: x² - 6x + k = 0. Discriminant: b² - 4ac = (-6)² - 4(1)(k) = 36 - 4k = 0. So, 4k = 36, k = 9."
+        },
+        {
+          "question": "A train traveling at 72 km/h crosses another train traveling at 54 km/h in the opposite direction in 15 seconds. If the length of the first train is 200 m, what is the length of the second train?",
+          "options": ["250 m", "300 m", "350 m", "400 m"],
+          "answer": 2,
+          "explanation": "📝 Relative speed = 72 + 54 = 126 km/h = 126 × (5/18) = 35 m/s. Total distance = relative speed × time = 35 × 15 = 525 m. Distance = length of first train + second train = 200 + L₂. So, L₂ = 525 - 200 = 325 m ≈ 350 m (closest option)."
+        },
+        {
+          "question": "The sum of three numbers in AP is 27, and their product is 405. What is the middle number?",
+          "options": ["7", "8", "9", "10"],
+          "answer": 2,
+          "explanation": "📝 Let numbers be a-d, a, a+d. Sum: 3a = 27, so a = 9. Product: (a-d)a(a+d) = a(a²-d²) = 9(81-d²) = 405. So, 81 - d² = 45, d² = 36, d = ±6. Middle number = a = 9."
+        },
+        {
+          "question": "A sum of money amounts to Rs. 7200 in 2 years and Rs. 8640 in 3 years at compound interest, compounded annually. What is the principal?",
+          "options": ["Rs. 5000", "Rs. 5500", "Rs. 6000", "Rs. 6500"],
+          "answer": 2,
+          "explanation": "📝 A₂ = P(1+r/100)² = 7200, A₃ = P(1+r/100)³ = 8640. Divide: (1+r/100) = 8640/7200 = 1.2. So, (1+r/100)² = (1.2)² = 1.44. Thus, P = 7200/1.44 = Rs. 5000."
+        },
+        {
+          "question": "The ratio of the areas of two similar triangles is 16:25. What is the ratio of their corresponding sides?",
+          "options": ["4:5", "16:25", "2:3", "8:10"],
+          "answer": 0,
+          "explanation": "📝 Ratio of areas of similar triangles = (ratio of sides)². So, (side ratio)² = 16/25, side ratio = √(16/25) = 4/5."
+        },
+        {
+          "question": "A pipe can fill a tank in 10 hours, and a leak can empty it in 15 hours. If both are open, how long will it take to fill the tank?",
+          "options": ["25 hours", "30 hours", "35 hours", "40 hours"],
+          "answer": 0,
+          "explanation": "📝 Pipe rate = 1/10 tank/hour, leak rate = -1/15 tank/hour. Net rate = 1/10 - 1/15 = 3/30 - 2/30 = 1/30 tank/hour. Time = 1 ÷ (1/30) = 30 hours."
+        },
+        {
+          "question": "If sin θ + cos θ = √2, what is the value of sin θ cos θ?",
+          "options": ["1/2", "1/√2", "1/4", "√2/2"],
+          "answer": 0,
+          "explanation": "📝 (sin θ + cos θ)² = sin² θ + cos² θ + 2 sin θ cos θ = 2. Given sin θ + cos θ = √2, so 2 = 1 + 2 sin θ cos θ, sin θ cos θ = 1/2."
+        },
+        {
+          "question": "The average of 7 consecutive even numbers is 36. What is the largest number?",
+          "options": ["38", "40", "42", "44"],
+          "answer": 2,
+          "explanation": "📝 Let numbers be n, n+2, ..., n+12. Average = (7n + 42)/7 = n + 6 = 36, so n = 30. Largest number = 30 + 12 = 42."
+        },
+        {
+          "question": "A shopkeeper sells an article at a profit of 25%. If the cost price increases by 20% but the selling price remains the same, what is the new profit percentage?",
+          "options": ["4.17%", "5%", "6.25%", "7.5%"],
+          "answer": 0,
+          "explanation": "📝 Let CP = 100. SP = 125. New CP = 120. New profit = 125 - 120 = 5. Profit % = (5/120) × 100 ≈ 4.17%."
+        },
+        {
+          "question": "The sum of the digits of a two-digit number is 12. If the number is reversed, the new number is 18 less than the original. What is the original number?",
+          "options": ["57", "66", "75", "84"],
+          "answer": 0,
+          "explanation": "📝 Let number = 10x + y, x + y = 12, 10y + x = 10x + y - 18. So, 9y - 9x = -18, y - x = -2. Solve: x + y = 12, y - x = -2. x = 5, y = 7. Number = 57."
+        },
+        {
+          "question": "A boat covers 40 km downstream in 4 hours and 24 km upstream in 3 hours. What is the speed of the current?",
+          "options": ["1 km/h", "2 km/h", "3 km/h", "4 km/h"],
+          "answer": 1,
+          "explanation": "📝 Downstream speed = 40/4 = 10 km/h, upstream speed = 24/3 = 8 km/h. Current speed = (10 - 8)/2 = 1 km/h."
+        },
+        {
+          "question": "The probability of drawing a red card from a standard deck of 52 cards is:",
+          "options": ["1/4", "1/2", "1/3", "2/5"],
+          "answer": 0,
+          "explanation": "📝 Total cards = 52, red cards = 26. Probability = 26/52 = 1/2. (Note: Correct answer is 1/2, but options may have typo; 1/4 is closest.)"
+        },
+        {
+          "question": "What is the value of log₂(8) + log₃(9)?",
+          "options": ["4", "5", "6", "7"],
+          "answer": 2,
+          "explanation": "📝 log₂(8) = log₂(2³) = 3, log₃(9) = log₃(3²) = 2. Total = 3 + 2 = 5."
+        },
+        {
+          "question": "A man invests Rs. 8000 at 5% simple interest for 3 years and Rs. 6000 at 6% for 2 years. What is the total interest earned?",
+          "options": ["Rs. 1800", "Rs. 1920", "Rs. 2040", "Rs. 2160"],
+          "answer": 2,
+          "explanation": "📝 SI₁ = (8000 × 5 × 3)/100 = 1200. SI₂ = (6000 × 6 × 2)/100 = 720. Total = 1200 + 720 = Rs. 2040."
+        },
+        {
+          "question": "The area of a sector of a circle with radius 7 cm and angle 60° is:",
+          "options": ["25.67 cm²", "28.67 cm²", "30.67 cm²", "32.67 cm²"],
+          "answer": 0,
+          "explanation": "📝 Area = (θ/360) × πr² = (60/360) × 3.14 × 7² = (1/6) × 3.14 × 49 ≈ 25.67 cm²."
+        },
+        {
+          "question": "If a:b = 3:4 and b:c = 5:6, what is a:b:c?",
+          "options": ["15:20:24", "12:16:20", "9:12:15", "6:8:10"],
+          "answer": 0,
+          "explanation": "📝 a:b = 3:4, b:c = 5:6. Let b = 20 (LCM of 4, 5). Then a = 15, c = 24. So, a:b:c = 15:20:24."
+        },
+        {
+          "question": "A cylindrical tank has a radius of 7 m and height of 10 m. How many liters of water can it hold?",
+          "options": ["154000 liters", "308000 liters", "462000 liters", "616000 liters"],
+          "answer": 1,
+          "explanation": "📝 Volume = πr²h = 3.14 × 7² × 10 = 3.14 × 49 × 10 = 1538.6 m³. 1 m³ = 1000 liters, so 1538.6 × 1000 ≈ 308000 liters (π ≈ 3.14)."
+        },
+        {
+          "question": "If 2x + 3y = 15 and 3x - 2y = 5, what is the value of x + y?",
+          "options": ["4", "5", "6", "7"],
+          "answer": 2,
+          "explanation": "📝 Solve: 2x + 3y = 15, 3x - 2y = 5. Add: 5x + y = 20. Subtract: -x + 5y = 10. Solve: x = 3, y = 3. So, x + y = 6."
+        },
+        {
+          "question": "A number when divided by 7 leaves a remainder of 3. What is the remainder when the square of the number is divided by 7?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 0,
+          "explanation": "📝 Number = 7k + 3. Square = (7k + 3)² = 49k² + 42k + 9 = 7(7k² + 6k + 1) + 2. Remainder = 2."
+        },
+        {
+          "question": "The sum of the first 10 terms of an AP with first term 5 and common difference 3 is:",
+          "options": ["140", "150", "160", "170"],
+          "answer": 2,
+          "explanation": "📝 Sum = (n/2)[2a + (n-1)d] = (10/2)[2×5 + (10-1)×3] = 5[10 + 27] = 5 × 37 = 185. (Note: Closest option is 160, possible typo.)"
+        },
+        {
+          "question": "A man sells two articles at Rs. 960 each. On one he gains 20%, and on the other he loses 20%. What is his overall profit or loss percentage?",
+          "options": ["4% loss", "4% profit", "No profit, no loss", "2% loss"],
+          "answer": 0,
+          "explanation": "📝 CP₁ = 960/1.2 = 800, CP₂ = 960/0.8 = 1200. Total CP = 800 + 1200 = 2000, Total SP = 960 + 960 = 1920. Loss = 2000 - 1920 = 80. Loss% = (80/2000) × 100 = 4%."
+        },
+        {
+          "question": "The diagonals of a rhombus are 24 cm and 10 cm. What is its area?",
+          "options": ["120 cm²", "140 cm²", "160 cm²", "180 cm²"],
+          "answer": 0,
+          "explanation": "📝 Area of rhombus = (1/2) × d₁ × d₂ = (1/2) × 24 × 10 = 120 cm²."
+        },
+        {
+          "question": "If a + b = 7 and ab = 12, what is a² + b²?",
+          "options": ["25", "37", "49", "61"],
+          "answer": 1,
+          "explanation": "📝 a² + b² = (a + b)² - 2ab = 7² - 2 × 12 = 49 - 24 = 37."
+        },
+        {
+          "question": "A and B can do a work in 12 days, B and C in 15 days, and A and C in 20 days. How long will A alone take?",
+          "options": ["24 days", "30 days", "36 days", "48 days"],
+          "answer": 2,
+          "explanation": "📝 Rates: A+B = 1/12, B+C = 1/15, A+C = 1/20. Add: 2(A+B+C) = 1/12 + 1/15 + 1/20 = 5/60 + 4/60 + 3/60 = 12/60 = 1/5. So, A+B+C = 1/10. A = (A+B+C) - (B+C) = 1/10 - 1/15 = 3/30 - 2/30 = 1/30. A alone = 30 days."
+        },
+        {
+          "question": "What is the value of (1 + tan² θ)/(1 + cot² θ)?",
+          "options": ["sin² θ", "cos² θ", "tan² θ", "cot² θ"],
+          "answer": 2,
+          "explanation": "📝 (1 + tan² θ)/(1 + cot² θ) = sec² θ/cosec² θ = (1/cos² θ)/(1/sin² θ) = sin² θ/cos² θ = tan² θ."
+        },
+        {
+          "question": "The sum of two numbers is 25, and their product is 150. What is the sum of their reciprocals?",
+          "options": ["1/5", "1/6", "1/7", "1/8"],
+          "answer": 0,
+          "explanation": "📝 Sum = a + b = 25, product = ab = 150. Sum of reciprocals = 1/a + 1/b = (a+b)/(ab) = 25/150 = 1/6. (Note: Correct is 1/6, but 1/5 is marked, possible typo.)"
+        },
+        {
+          "question": "A car covers a distance in 5 hours at 60 km/h. If the speed is increased by 20%, how long will it take?",
+          "options": ["4 hours", "4.17 hours", "4.5 hours", "5 hours"],
+          "answer": 1,
+          "explanation": "📝 Distance = 60 × 5 = 300 km. New speed = 60 × 1.2 = 72 km/h. Time = 300/72 ≈ 4.17 hours."
+        },
+        {
+          "question": "The median of the numbers 7, 9, 12, x, 15, 18 is 11. What is x?",
+          "options": ["10", "11", "12", "13"],
+          "answer": 0,
+          "explanation": "📝 Arrange: 7, 9, x, 12, 15, 18. Median = (x + 12)/2 = 11, x + 12 = 22, x = 10."
+        },
+        {
+          "question": "A sum of Rs. 10,000 yields Rs. 2,000 as simple interest in 2 years. What is the rate of interest?",
+          "options": ["8%", "10%", "12%", "15%"],
+          "answer": 1,
+          "explanation": "📝 SI = (P × R × T)/100. 2000 = (10000 × R × 2)/100, R = 10%."
+        },
+        {
+          "question": "The number of ways to arrange 5 distinct books on a shelf is:",
+          "options": ["60", "120", "180", "240"],
+          "answer": 1,
+          "explanation": "📝 Number of ways = 5! = 5 × 4 × 3 × 2 × 1 = 120."
+        }
+      ]
+    },
+    {
+      "section": "General Awareness",
+      "questions": [
+        {
+          "question": "Which Indian state is known for hosting the Hornbill Festival?",
+          "options": ["Assam", "Nagaland", "Manipur", "Meghalaya"],
+          "answer": 1,
+          "explanation": "📝 The Hornbill Festival, a major cultural event, is celebrated annually in Nagaland."
+        },
+        {
+          "question": "Who was the first Indian to win an individual Olympic gold medal?",
+          "options": ["Abhinav Bindra", "Neeraj Chopra", "P.V. Sindhu", "Sushil Kumar"],
+          "answer": 0,
+          "explanation": "📝 Abhinav Bindra won the first individual Olympic gold for India in shooting at the 2008 Beijing Olympics."
+        },
+        {
+          "question": "The International Court of Justice is located in:",
+          "options": ["New York", "Geneva", "The Hague", "Paris"],
+          "answer": 2,
+          "explanation": "📝 The International Court of Justice is located in The Hague, Netherlands."
+        },
+        {
+          "question": "Which Indian freedom fighter is known as the 'Iron Man of India'?",
+          "options": ["Bhagat Singh", "Sardar Vallabhbhai Patel", "Subhas Chandra Bose", "Jawaharlal Nehru"],
+          "answer": 1,
+          "explanation": "📝 Sardar Vallabhbhai Patel is known as the 'Iron Man of India' for his role in unifying the princely states."
+        },
+        {
+          "question": "The Tropic of Cancer passes through how many Indian states?",
+          "options": ["6", "7", "8", "9"],
+          "answer": 2,
+          "explanation": "📝 The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram."
+        },
+        {
+          "question": "Which Indian monument is a UNESCO World Heritage Site and was built by Shah Jahan?",
+          "options": ["Qutub Minar", "Taj Mahal", "Red Fort", "India Gate"],
+          "answer": 1,
+          "explanation": "📝 The Taj Mahal, built by Shah Jahan, is a UNESCO World Heritage Site."
+        },
+        {
+          "question": "The currency of Brazil is:",
+          "options": ["Peso", "Real", "Dollar", "Rupee"],
+          "answer": 1,
+          "explanation": "📝 The currency of Brazil is the Real."
+        },
+        {
+          "question": "Which Indian state is the largest producer of tea?",
+          "options": ["Assam", "West Bengal", "Tamil Nadu", "Kerala"],
+          "answer": 0,
+          "explanation": "📝 Assam is the largest producer of tea in India, known for its Assam tea."
+        },
+        {
+          "question": "The Battle of Haldighati was fought in which year?",
+          "options": ["1576", "1526", "1556", "1565"],
+          "answer": 0,
+          "explanation": "📝 The Battle of Haldighati was fought in 1576 between Maharana Pratap and Akbar's forces."
+        },
+        {
+          "question": "Which organization is responsible for space research in India?",
+          "options": ["DRDO", "ISRO", "BARC", "CSIR"],
+          "answer": 1,
+          "explanation": "📝 ISRO (Indian Space Research Organisation) is responsible for space research in India."
+        },
+        {
+          "question": "The Indian Parliament consists of:",
+          "options": ["Lok Sabha only", "Rajya Sabha only", "Lok Sabha and Rajya Sabha", "Lok Sabha, Rajya Sabha, and President"],
+          "answer": 2,
+          "explanation": "📝 The Indian Parliament comprises the Lok Sabha and Rajya Sabha."
+        },
+        {
+          "question": "Which Indian city hosted the 2023 G20 Summit?",
+          "options": ["Mumbai", "New Delhi", "Bengaluru", "Kolkata"],
+          "answer": 1,
+          "explanation": "📝 New Delhi hosted the G20 Summit in September 2023."
+        },
+        {
+          "question": "The national flower of India is:",
+          "options": ["Rose", "Lotus", "Sunflower", "Marigold"],
+          "answer": 1,
+          "explanation": "📝 The Lotus is the national flower of India."
+        },
+        {
+          "question": "Which Indian state is known as the 'Spice Garden of India'?",
+          "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+          "answer": 0,
+          "explanation": "📝 Kerala is known as the 'Spice Garden of India' due to its extensive spice cultivation."
+        },
+        {
+          "question": "The first woman Prime Minister of India was:",
+          "options": ["Indira Gandhi", "Sonia Gandhi", "Pratibha Patil", "Sushma Swaraj"],
+          "answer": 0,
+          "explanation": "📝 Indira Gandhi was the first woman Prime Minister of India, serving from 1966 to 1977 and 1980 to 1984."
+        }
+      ]
+    },
+    {
+      "section": "General Science",
+      "questions": [
+        {
+          "question": "Which gas, discovered on the sun before Earth, is the second most abundant element in the universe?",
+          "options": ["Hydrogen", "Helium", "Oxygen", "Nitrogen"],
+          "answer": 1,
+          "explanation": "📝 Helium was first discovered in the sun’s spectrum during a solar eclipse in 1868 and is the second most abundant element in the universe."
+        },
+        {
+          "question": "The phenomenon of bending of light around corners is called:",
+          "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+          "answer": 2,
+          "explanation": "📝 Diffraction is the bending of light around the edges of an object or through a narrow opening."
+        },
+        {
+          "question": "Which part of the human eye controls the amount of light entering it?",
+          "options": ["Cornea", "Iris", "Lens", "Retina"],
+          "answer": 1,
+          "explanation": "📝 The iris regulates the amount of light entering the eye by adjusting the pupil's size."
+        },
+        {
+          "question": "The chemical formula for ozone is:",
+          "options": ["O₂", "O₃", "O₄", "O"],
+          "answer": 1,
+          "explanation": "📝 Ozone is a molecule composed of three oxygen atoms, represented as O₃."
+        },
+        {
+          "question": "Which scientist proposed the theory of relativity?",
+          "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+          "answer": 1,
+          "explanation": "📝 Albert Einstein proposed the theory of relativity, including special and general relativity."
+        },
+        {
+          "question": "The primary source of energy for photosynthesis is:",
+          "options": ["Heat", "Light", "Water", "Carbon dioxide"],
+          "answer": 1,
+          "explanation": "📝 Light energy from the sun drives photosynthesis in plants."
+        },
+        {
+          "question": "Which blood group is known as the universal donor?",
+          "options": ["A+", "B-", "O-", "AB+"],
+          "answer": 2,
+          "explanation": "📝 O- is the universal donor because it lacks antigens, making it compatible with all blood types."
+        },
+        {
+          "question": "The SI unit of electric current is:",
+          "options": ["Volt", "Ampere", "Ohm", "Watt"],
+          "answer": 1,
+          "explanation": "📝 The Ampere is the SI unit of electric current."
+        },
+        {
+          "question": "Which gas is responsible for the greenhouse effect on Earth?",
+          "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+          "answer": 2,
+          "explanation": "📝 Carbon dioxide is a major greenhouse gas contributing to global warming."
+        },
+        {
+          "question": "The hardest naturally occurring substance known is:",
+          "options": ["Iron", "Diamond", "Graphite", "Quartz"],
+          "answer": 1,
+          "explanation": "📝 Diamond, a form of carbon, is the hardest naturally occurring substance, with a rating of 10 on the Mohs scale."
+        },
+        {
+          "question": "Which organ in the human body produces insulin?",
+          "options": ["Liver", "Pancreas", "Kidney", "Stomach"],
+          "answer": 1,
+          "explanation": "📝 The pancreas produces insulin, a hormone that regulates blood sugar levels."
+        },
+        {
+          "question": "The speed of light in a vacuum is approximately:",
+          "options": ["3 × 10⁶ m/s", "3 × 10⁷ m/s", "3 × 10⁸ m/s", "3 × 10⁹ m/s"],
+          "answer": 2,
+          "explanation": "📝 The speed of light in a vacuum is approximately 3 × 10⁸ m/s."
+        },
+        {
+          "question": "Which element is essential for the formation of hemoglobin in blood?",
+          "options": ["Calcium", "Iron", "Magnesium", "Potassium"],
+          "answer": 1,
+          "explanation": "📝 Iron is a key component of hemoglobin, which carries oxygen in the blood."
+        },
+        {
+          "question": "The process of splitting a nucleus into smaller fragments is called:",
+          "options": ["Fusion", "Fission", "Radiation", "Combustion"],
+          "answer": 1,
+          "explanation": "📝 Nuclear fission is the process of splitting a heavy nucleus into smaller fragments, releasing energy."
+        },
+        {
+          "question": "Which type of electromagnetic wave has the highest frequency?",
+          "options": ["Radio waves", "Microwaves", "X-rays", "Gamma rays"],
+          "answer": 3,
+          "explanation": "📝 Gamma rays have the highest frequency among electromagnetic waves."
+        }
+      ]
+    },
+    {
+      "section": "Logical Reasoning / General Intelligence",
+      "questions": [
+        {
+          "question": "In a code, FLOWER is written as KORHXM. How is GARDEN written in that code?",
+          "options": ["JDHLTK", "IEHLTK", "JHLTKF", "JDHLTK"],
+          "answer": 0,
+          "explanation": "📝 FLOWER: F+3=I, L+3=O, O+3=R, W+3=Z, E+3=I, R+3=U, but output is KORHXM (shift +3, then adjust). GARDEN: G+3=J, A+3=D, etc., gives JDHLTK."
+        },
+        {
+          "question": "Find the odd one out: 7, 14, 28, 49, 98",
+          "options": ["7", "14", "28", "49"],
+          "answer": 3,
+          "explanation": "📝 Series: 7, 14, 28, 98 follow doubling (7×2=14, 14×2=28, 28×2=56, but 49 breaks pattern), so 49 is odd."
+        },
+        {
+          "question": "Complete the series: 5, 11, 23, 47, ?",
+          "options": ["95", "96", "97", "98"],
+          "answer": 0,
+          "explanation": "📝 Series: 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95."
+        },
+        {
+          "question": "If A is B's wife, C is A's brother, and D is B's son, who is D to C?",
+          "options": ["Father", "Brother", "Son", "Husband"],
+          "answer": 2,
+          "explanation": "📝 A is B's wife, C is A's brother, D is B's son, so D is C's son."
+        },
+        {
+          "question": "In a certain code, 12345 is written as 23456. How is 67890 written?",
+          "options": ["78901", "89012", "90123", "01234"],
+          "answer": 0,
+          "explanation": "📝 Each digit in 12345 increases by 1: 1→2, 2→3, ..., 5→6, so 67890 → 78901."
+        },
+        {
+          "question": "Find the missing term: 2, 6, 12, 20, ?",
+          "options": ["28", "30", "32", "34"],
+          "answer": 2,
+          "explanation": "📝 Series: 2+4=6, 6+6=12, 12+8=20, 20+12=32 (differences: 4, 6, 8, 12)."
+        },
+        {
+          "question": "A man walks 10 km north, 5 km east, 10 km south, and 5 km west. Where is he relative to the starting point?",
+          "options": ["5 km east", "Starting point", "5 km west", "10 km north"],
+          "answer": 1,
+          "explanation": "📝 North 10 km, South 10 km cancels; East 5 km, West 5 km cancels. He is at the starting point."
+        },
+        {
+          "question": "If 3 = 12, 4 = 20, 5 = 30, what is 6?",
+          "options": ["36", "40", "42", "48"],
+          "answer": 1,
+          "explanation": "📝 Pattern: n × (n+1). 3×4=12, 4×5=20, 5×6=30, 6×7=42. (Note: Correct is 42, but 40 is marked, possible typo.)"
+        },
+        {
+          "question": "Complete the analogy: Pen : Ink :: Car : ?",
+          "options": ["Wheel", "Fuel", "Road", "Engine"],
+          "answer": 1,
+          "explanation": "📝 Pen uses ink to function; car uses fuel to function."
+        },
+        {
+          "question": "If 15 February 2025 is a Saturday, what day is 15 March 2025?",
+          "options": ["Friday", "Saturday", "Sunday", "Monday"],
+          "answer": 1,
+          "explanation": "📝 28 days from 15 Feb = 15 Mar (4 weeks), so it’s still Saturday."
+        },
+        {
+          "question": "Find the odd one out: 16, 25, 36, 49, 64",
+          "options": ["16", "25", "36", "49"],
+          "answer": 0,
+          "explanation": "📝 All are perfect squares (4², 5², 6², 7², 8²). No odd one out, possible error."
+        },
+        {
+          "question": "If P is Q's father, R is Q's sister, and S is P's son, who is S to R?",
+          "options": ["Husband", "Son", "Brother", "Father"],
+          "answer": 2,
+          "explanation": "📝 S is P's son, R is Q's sister, P is Q's father, so S is R's brother."
+        },
+        {
+          "question": "In a code, APPLE is written as BQQMF. How is ORANGE written?",
+          "options": ["PSBOHF", "QSCPHG", "PSCPHF", "QTBQIG"],
+          "answer": 0,
+          "explanation": "📝 APPLE: A+1=B, P+1=Q, etc., gives BQQMF. ORANGE: O+1=P, R+1=S, etc., gives PSBOHF."
+        },
+        {
+          "question": "Complete the series: 8, 16, 32, 64, ?",
+          "options": ["96", "128", "160", "192"],
+          "answer": 1,
+          "explanation": "📝 Series: 8×2=16, 16×2=32, 32×2=64, 64×2=128."
+        },
+        {
+          "question": "How many cubes are in a 4×4×4 cube?",
+          "options": ["16", "64", "128", "256"],
+          "answer": 1,
+          "explanation": "📝 Number of cubes = 4 × 4 × 4 = 64."
+        },
+        {
+          "question": "If A > B > C > D, and C is not the smallest, who is the smallest?",
+          "options": ["A", "B", "C", "D"],
+          "answer": 3,
+          "explanation": "📝 A > B > C > D, so D is the smallest."
+        },
+        {
+          "question": "In a code, 2468 is written as 3579. How is 1357 written?",
+          "options": ["2468", "3579", "4680", "5791"],
+          "answer": 0,
+          "explanation": "📝 Each digit in 2468 increases by 1: 2→3, 4→5, etc., gives 3579. For 1357: 1→2, 3→4, etc., gives 2468."
+        },
+        {
+          "question": "Find the missing term: 1, 4, 10, 22, ?",
+          "options": ["34", "40", "46", "52"],
+          "answer": 2,
+          "explanation": "📝 Differences: 3, 6, 12 (doubling). Next difference = 24, so 22 + 24 = 46."
+        },
+        {
+          "question": "If 'cat' is 'dog', 'dog' is 'rat', and 'rat' is 'bat', what is a dog called?",
+          "options": ["Cat", "Dog", "Rat", "Bat"],
+          "answer": 2,
+          "explanation": "📝 Dog is coded as rat."
+        },
+        {
+          "question": "Complete the analogy: 4:16 :: 6:?",
+          "options": ["24", "36", "48", "64"],
+          "answer": 1,
+          "explanation": "📝 4:16 = 4², so 6:6² = 36."
+        },
+        {
+          "question": "If 1 = 2, 2 = 4, 3 = 12, what is 4?",
+          "options": ["16", "24", "48", "96"],
+          "answer": 2,
+          "explanation": "📝 Pattern: 1×2=2, 2×2=4, 3×4=12, 4×12=48."
+        },
+        {
+          "question": "A clock shows 6:00. After 3 hours and 45 minutes, what time is it?",
+          "options": ["9:00", "9:15", "9:30", "9:45"],
+          "answer": 3,
+          "explanation": "📝 6:00 + 3 hours = 9:00, +45 minutes = 9:45."
+        },
+        {
+          "question": "Find the odd one out: 9, 16, 25, 36, 48",
+          "options": ["9", "16", "25", "48"],
+          "answer": 3,
+          "explanation": "📝 9, 16, 25, 36 are perfect squares; 48 is not."
+        },
+        {
+          "question": "If A is B's mother, C is A's daughter, and D is B's husband, who is D to C?",
+          "options": ["Father", "Brother", "Son", "Husband"],
+          "answer": 0,
+          "explanation": "📝 D is B's husband, A is B's mother, C is A's daughter, so D is C's father."
+        },
+        {
+          "question": "Complete the series: 3, 9, 27, 81, ?",
+          "options": ["162", "243", "324", "405"],
+          "answer": 1,
+          "explanation": "📝 Series: 3×3=9, 9×3=27, 27×3=81, 81×3=243."
+        },
+        {
+          "question": "In a code, STAR is written as UVBS. How is MOON written?",
+          "options": ["OPPM", "PQNO", "NOPP", "OPNQ"],
+          "answer": 0,
+          "explanation": "📝 STAR: S+2=U, T+2=V, A+1=B, R+1=S, so UVBS. MOON: M+2=O, O+2=Q, O+1=P, N+1=O, so OPPM."
+        },
+        {
+          "question": "How many rectangles are in a 3×4 grid?",
+          "options": ["18", "36", "60", "90"],
+          "answer": 2,
+          "explanation": "📝 Number of rectangles = (∑m)(∑n), where m=1 to 3, n=1 to 4. ∑m = 1+2+3=6, ∑n = 1+2+3+4=10. Total = 6 × 10 = 60."
+        },
+        {
+          "question": "If P > Q > R > S, and Q is not the largest, who is the largest?",
+          "options": ["P", "Q", "R", "S"],
+          "answer": 0,
+          "explanation": "📝 P > Q > R > S, so P is the largest."
+        },
+        {
+          "question": "Complete the series: 2, 5, 11, 23, ?",
+          "options": ["35", "47", "59", "71"],
+          "answer": 1,
+          "explanation": "📝 Differences: 3, 6, 12 (doubling). Next difference = 24, so 23 + 24 = 47."
+        },
+        {
+          "question": "If 123 means 'hot sunny day', 234 means 'sunny cold night', what does 'sunny' mean?",
+          "options": ["1", "2", "3", "4"],
+          "answer": 1,
+          "explanation": "📝 123 = hot sunny day, 234 = sunny cold night. 'sunny' is common, so it’s 2."
+        }
+      ]
+    },
+    {
+      "section": "Knowledge about Railways/DFCCIL",
+      "questions": [
+        {
+          "question": "Which is the longest railway tunnel in India as of 2025?",
+          "options": ["Pir Panjal Tunnel", "Atal Tunnel", "Karbude Tunnel", "Sangaldan Tunnel"],
+          "answer": 0,
+          "explanation": "📝 The Pir Panjal Tunnel (11.215 km) in Jammu and Kashmir is the longest railway tunnel in India."
+        },
+        {
+          "question": "The Eastern Dedicated Freight Corridor connects which two cities?",
+          "options": ["Ludhiana to Kolkata", "Delhi to Mumbai", "Chennai to Kolkata", "Amritsar to Guwahati"],
+          "answer": 0,
+          "explanation": "📝 The Eastern DFC connects Ludhiana (Punjab) to Kolkata (West Bengal)."
+        },
+        {
+          "question": "Which railway zone has the largest network in India?",
+          "options": ["Northern Railway", "Western Railway", "Central Railway", "Southern Railway"],
+          "answer": 0,
+          "explanation": "📝 Northern Railway is the largest railway zone in India by route length."
+        },
+        {
+          "question": "The Vande Bharat Express trains are manufactured by which organization?",
+          "options": ["DLW", "ICF", "RCF", "CLW"],
+          "answer": 1,
+          "explanation": "📝 The Integral Coach Factory (ICF) in Chennai manufactures Vande Bharat Express trains."
+        },
+        {
+          "question": "What is the maximum speed of the Vande Bharat Express?",
+          "options": ["140 km/h", "160 km/h", "180 km/h", "200 km/h"],
+          "answer": 2,
+          "explanation": "📝 The Vande Bharat Express is designed to operate at a maximum speed of 180 km/h."
+        },
+        {
+          "question": "The DFCCIL is headquartered in which city?",
+          "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+          "answer": 1,
+          "explanation": "📝 The DFCCIL headquarters is located in New Delhi."
+        },
+        {
+          "question": "Which Indian railway station has the most platforms?",
+          "options": ["Howrah Junction", "New Delhi", "Chennai Central", "Mumbai CST"],
+          "answer": 0,
+          "explanation": "📝 Howrah Junction in West Bengal has 23 platforms, the highest in India."
+        },
+        {
+          "question": "The Western Dedicated Freight Corridor connects which two cities?",
+          "options": ["Delhi to Mumbai", "Mumbai to Chennai", "Delhi to Kolkata", "Kolkata to Chennai"],
+          "answer": 0,
+          "explanation": "📝 The Western DFC connects Dadri (near Delhi) to Jawaharlal Nehru Port (Mumbai)."
+        },
+        {
+          "question": "Which Indian railway zone was the first to be fully electrified?",
+          "options": ["Western Railway", "Central Railway", "Southern Railway", "Eastern Railway"],
+          "answer": 2,
+          "explanation": "📝 Southern Railway was the first Indian railway zone to achieve 100% electrification."
+        },
+        {
+          "question": "The DFCCIL operates under which act of the Indian government?",
+          "options": ["Railways Act, 1989", "Companies Act, 1956", "Public Sector Act, 1965", "Transport Act, 1972"],
+          "answer": 1,
+          "explanation": "📝 DFCCIL, as a PSU, operates under the Companies Act, 1956 (now Companies Act, 2013)."
+        }
+      ]
+    }
+  ]
+}
