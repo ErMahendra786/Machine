@@ -1,8 +1,6 @@
 {
-  "quiz": [
-    {
-      "section": "Mathematics / Numerical Ability",
-      "questions": [
+  "quiz1": [
+    
         {
           "question": "If the roots of the quadratic equation x² - 6x + k = 0 are real and equal, what is the value of k?",
           "options": ["8", "9", "10", "11"],
@@ -182,12 +180,7 @@
           "options": ["60", "120", "180", "240"],
           "answer": 1,
           "explanation": "📝 Number of ways = 5! = 5 × 4 × 3 × 2 × 1 = 120."
-        }
-      ]
-    },
-    {
-      "section": "General Awareness",
-      "questions": [
+        },
         {
           "question": "Which Indian state is known for hosting the Hornbill Festival?",
           "options": ["Assam", "Nagaland", "Manipur", "Meghalaya"],
@@ -277,12 +270,7 @@
           "options": ["Indira Gandhi", "Sonia Gandhi", "Pratibha Patil", "Sushma Swaraj"],
           "answer": 0,
           "explanation": "📝 Indira Gandhi was the first woman Prime Minister of India, serving from 1966 to 1977 and 1980 to 1984."
-        }
-      ]
-    },
-    {
-      "section": "General Science",
-      "questions": [
+        },
         {
           "question": "Which gas, discovered on the sun before Earth, is the second most abundant element in the universe?",
           "options": ["Hydrogen", "Helium", "Oxygen", "Nitrogen"],
@@ -372,12 +360,7 @@
           "options": ["Radio waves", "Microwaves", "X-rays", "Gamma rays"],
           "answer": 3,
           "explanation": "📝 Gamma rays have the highest frequency among electromagnetic waves."
-        }
-      ]
-    },
-    {
-      "section": "Logical Reasoning / General Intelligence",
-      "questions": [
+        },
         {
           "question": "In a code, FLOWER is written as KORHXM. How is GARDEN written in that code?",
           "options": ["JDHLTK", "IEHLTK", "JHLTKF", "JDHLTK"],
@@ -557,12 +540,7 @@
           "options": ["1", "2", "3", "4"],
           "answer": 1,
           "explanation": "📝 123 = hot sunny day, 234 = sunny cold night. 'sunny' is common, so it’s 2."
-        }
-      ]
-    },
-    {
-      "section": "Knowledge about Railways/DFCCIL",
-      "questions": [
+        },
         {
           "question": "Which is the longest railway tunnel in India as of 2025?",
           "options": ["Pir Panjal Tunnel", "Atal Tunnel", "Karbude Tunnel", "Sangaldan Tunnel"],
@@ -625,5 +603,5 @@
         }
       ]
     }
-  ]
-}
+  
+
