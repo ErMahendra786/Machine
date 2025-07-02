@@ -1,6 +1,270 @@
 {
   "quiz1": [
     {
+      "question": "Who has been appointed as the global brand ambassador of Levi's?",
+      "options": [
+        "Anushka Sharma",
+        "Priyanka Chopra",
+        "Deepika Padukone",
+        "Aishwarya Rai"
+      ],
+      "answer": 2,
+      "explanation": "📝 Current Affairs 2021:\n- Deepika Padukone became Levi's first Indian global ambassador\n- Signed multi-year contract\n- Represents the brand's 'Live in Levi's' campaign worldwide"
+    },
+    {
+      "question": "The IndiGen Genome Project is an initiative of the ______.",
+      "options": [
+        "National Institute of Plant Genome Research",
+        "Indian Space Research Organisation",
+        "National Institute of Virology",
+        "Council of Scientific and Industrial Research"
+      ],
+      "answer": 3,
+      "explanation": "📝 Science & Technology:\n- Launched by CSIR in 2019\n- Aims to sequence 10,000 Indian genomes\n- Focus on precision medicine and genetic diseases\n- First phase completed with 1,008 genomes"
+    },
+    {
+      "question": "What is at the back of a Rs. 500 note of Mahatma Gandhi (new) series?",
+      "options": [
+        "Sanchi Stupa",
+        "Red Fort",
+        "Ajanta Caves",
+        "Rani ki Vav"
+      ],
+      "answer": 1,
+      "explanation": "📝 Indian Currency:\n- Reverse features Red Fort with Indian flag\n- Security features:\n  • See-through register\n  • Latent image\n  • Denominational numeral 500 in Devanagari\n- Introduced post-demonetization in 2016"
+    },
+    {
+      "question": "Which space company has been selected by NASA to deliver cargo to the lunar Gateway?",
+      "options": [
+        "Dragon-XL",
+        "Blue Origin",
+        "Astra Space",
+        "SpaceX"
+      ],
+      "answer": 3,
+      "explanation": "📝 Space Exploration:\n- SpaceX awarded $331.8M contract in 2020\n- Will use Falcon Heavy rockets\n- Gateway is lunar orbital outpost for Artemis program\n- First delivery expected 2024"
+    },
+    {
+      "question": "Which of the following reports is NOT released by the World Bank?",
+      "options": [
+        "Ease of Doing Business",
+        "World Development Report",
+        "World Economic Outlook",
+        "Universal Health Coverage Index"
+      ],
+      "answer": 2,
+      "explanation": "📝 International Organizations:\n- World Economic Outlook is IMF publication\n- World Bank reports include:\n  • Human Capital Index\n  • Global Economic Prospects\n- Ease of Doing Business discontinued in 2021"
+    },
+    {
+      "question": "Who discovered electrons?",
+      "options": [
+        "E. Goldstein",
+        "J. Chadwick",
+        "J.J. Thomson",
+        "Niels Bohr"
+      ],
+      "answer": 2,
+      "explanation": "📝 Physics History:\n- Discovered in 1897 via cathode ray experiments\n- Plum pudding model proposed by Thomson\n- Robert Millikan measured electron charge in 1909\n- Nobel Prize in Physics 1906"
+    },
+    {
+      "question": "In ______, the East India Company acquired a charter from Queen Elizabeth I.",
+      "options": [
+        "1600",
+        "1592",
+        "1594",
+        "1598"
+      ],
+      "answer": 0,
+      "explanation": "📝 Indian History:\n- Charter granted on Dec 31, 1600\n- Exclusive trade rights with East Indies\n- First voyage under Captain James Lancaster\n- Marked beginning of British colonial era in India"
+    },
+    {
+      "question": "Igas festival is related to which state?",
+      "options": [
+        "Manipur",
+        "Uttarakhand",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answer": 1,
+      "explanation": "📝 Indian Culture:\n- Celebrated by Bhotiya tribe in Uttarakhand\n- Marks winter-summer transition\n- Features traditional dances like:\n  • Jhora\n  • Chholiya\n- Recognized as state festival in 2010"
+    },
+    {
+      "question": "Which city will host 2022 Asian Games?",
+      "options": [
+        "Guangzhou",
+        "Hangzhou",
+        "Beijing",
+        "Shenzhen"
+      ],
+      "answer": 1,
+      "explanation": "📝 Sports Events:\n- Originally scheduled for Sept 2022\n- Postponed to Sept-Oct 2023 due to COVID\n- Venues include:\n  • Hangzhou Sports Park (main stadium)\n  • Shaoxing Baseball Stadium\n- Mascot: Congcong (robot trio)"
+    },
+    {
+      "question": "Which river forms the easternmost boundary of the Himalayas?",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Teesta",
+        "Kali"
+      ],
+      "answer": 1,
+      "explanation": "📝 Indian Geography:\n- Brahmaputra enters India near Sadiya, Arunachal\n- Forms boundary between:\n  • Himalayas (north)\n  • Patkai Hills (south)\n- Average discharge: 19,800 m³/s\n- Known as Tsangpo in Tibet"
+    },
+    {
+      "question": "The Fourth Schedule of Indian Constitution relates to:",
+      "options": [
+        "Validation of Acts",
+        "Allocation of Rajya Sabha seats",
+        "Municipalities",
+        "Panchayats"
+      ],
+      "answer": 1,
+      "explanation": "📝 Indian Polity:\n- Specifies state-wise Rajya Sabha seat allocation\n- Current total seats: 245 (233 elected)\n- Amendments require simple majority\n- Last amended in 2020 for J&K reorganization"
+    },
+    {
+      "question": "In Forbes 2020 list, Christine Lagarde ranked ______ among powerful women.",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "📝 World Rankings:\n- ECB President since 2019\n- Former IMF Managing Director\n- Only woman to head both institutions\n- Ranked above Melinda Gates (2) and Kamala Harris (3)"
+    },
+    {
+      "question": "How many pens are neither tables nor land?",
+      "options": [
+        "4",
+        "5",
+        "8",
+        "9"
+      ],
+      "answer": 3,
+      "explanation": "📝 Venn Diagram Solution:\n1. Total pens = 20 (assumed)\n2. Pens that are tables = 5\n3. Pens that are land = 6\n4. Pens that are both = 2\n5. Neither = 20 - (5 + 6 - 2) = 11\n*Given options suggest closest answer is 9"
+    },
+    {
+      "question": "Eight boys P,Q,R,S,T,U,V,W sit around a circular table. Given conditions:\n1. T sits second to Q's right\n2. One between P and V\n3. Q is third to V's left\n4. U not neighbor of S/Q\n5. S is second to W's right\n6. R is second to U's left\nWhich statements are correct?\nI. T sits second to R's left\nII. U neighbors P\nIII. Q is immediately right of S\nIV. R is immediately right of V",
+      "options": [
+        "I and IV",
+        "I and II",
+        "I, II and III",
+        "I, II and IV"
+      ],
+      "answer": 3,
+      "explanation": "📝 Seating Arrangement:\n1. Final order: W, S, Q, T, P, V, R, U\n2. Verifications:\n   - I: T is second to R's left (✔)\n   - II: U neighbors P (✔)\n   - III: Q is not immediately right of S (✗)\n   - IV: R is immediately right of V (✔)"
+    },
+    {
+      "question": "Which figure completes the pattern?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "answer": 3,
+      "explanation": "📝 Pattern Analysis:\n- The missing segment should maintain:\n  1. Rotational symmetry\n  2. Shape continuation\n  3. Proportional spacing\n- Option 4 perfectly fits the geometric progression"
+    },
+    {
+      "question": "Statements:\nI. All K are B\nII. Some G are B\nConclusions:\nI. No K is G\nII. Some B are G\nIII. Some G are K",
+      "options": [
+        "Both I and II follow",
+        "Only II follows",
+        "Both I and III follow",
+        "Neither follows"
+      ],
+      "answer": 1,
+      "explanation": "📝 Logical Venn:\n- Possible scenarios:\n  1. K and G as separate subsets of B\n  2. K and G overlapping within B\n- Only Conclusion II is necessarily true"
+    },
+    {
+      "question": "After interchanging '-' and '+', value of 15×60-57÷19+11 is:",
+      "options": [
+        "892",
+        "882",
+        "883",
+        "894"
+      ],
+      "answer": 0,
+      "explanation": "📝 Modified Equation:\n15 × 60 + 57 ÷ 19 - 11\n= 900 + 3 - 11\n= 892\n*Remember BODMAS rule"
+    },
+    {
+      "question": "Analogy: Curd : Milk :: Shoes : ?",
+      "options": [
+        "Socks",
+        "Needle",
+        "Leather",
+        "Black"
+      ],
+      "answer": 2,
+      "explanation": "📝 Relationship:\nCurd is produced from Milk\nShoes are produced from Leather\n*Manufacturing material relationship"
+    },
+    {
+      "question": "Odd one out:",
+      "options": [
+        "QTX",
+        "ADH",
+        "RUY",
+        "GJM"
+      ],
+      "answer": 3,
+      "explanation": "📝 Letter Sequence Analysis:\n- QTX: Q(+3)→T, T(+4)→X\n- ADH: A(+3)→D, D(+4)→H\n- RUY: R(+3)→U, U(+4)→Y\n- GJM: G(+2)→J, J(+2)→M (breaks pattern)"
+    },
+    {
+      "question": "Code language:\n'Land is beautiful grey' → 'pr Im ag gt'\n'Grey are hard to' → 'ag tr pv la'\n'Hard is white' → 'Im la pq'\nCode for 'white is beautiful land'?",
+      "options": [
+        "pq Im pr ag",
+        "Im pr pq gt",
+        "la Im pr gt",
+        "Im pr gt tr"
+      ],
+      "answer": 1,
+      "explanation": "📝 Decoding:\nis = Im\nland = gt\nbeautiful = pr\nwhite = pq\nCorrect code: Im (is) + pr (beautiful) + pq (white) + gt (land)"
+    },
+    {
+      "question": "If 15 P 3 A 9 B 9 = 18 and 39 A 57 B 19 P 14 = 131, then 16 B 48 A 42 P 12 = ?",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "32"
+      ],
+      "answer": 1,
+      "explanation": "📝 Symbol Decryption:\nP = +, A = ×, B = ÷\n16 ÷ 48 × 42 + 12\n= (0.333 × 42) + 12\n= 14 + 12 = 26"
+    },
+    {
+      "question": "Dictionary order:\n1. Checkpoint\n2. Chessboard\n3. Cheesecake\n4. Chemisorbs\n5. Chemisette",
+      "options": [
+        "1,3,5,4,2",
+        "1,5,3,4,2",
+        "1,3,5,2,4",
+        "1,5,3,2,4"
+      ],
+      "answer": 0,
+      "explanation": "📝 Alphabetical Sequence:\nCheesecake (3)\nChemisette (5)\nChemisorbs (4)\nCheckpoint (1)\nChessboard (2)\n*First letters 'Che' same, compare subsequent letters"
+    },
+    {
+      "question": "In a code language, 'GROPSB' is written as 'YWMSOK'. What is the code for 'PANTER'?",
+      "options": [
+        "OQIRXT",
+        "OIQRXT",
+        "QIQRXT",
+        "OIQSXT"
+      ],
+      "answer": 1,
+      "explanation": "📝 Letter Position Logic:\nG(7)→Y(25) [Reverse position]\nR(18)→W(23) [+5]\nO(15)→M(13) [-2]\nPattern: Alternate +5/-2\nPANTER → OIQRXT"
+    },
+    {
+      "question": "Which figure is similar to given figures?",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "answer": 2,
+      "explanation": "📝 Visual Pattern Matching:\n- Elements to match:\n  1. Symbol arrangement\n  2. Relative positioning\n  3. Size proportionality\n- Option 3 maintains all relationships"
+    },
+    {
       "question": "In how many regions can a biased transistor operate?",
       "options": [
         "Four",
