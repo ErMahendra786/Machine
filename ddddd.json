@@ -1,0 +1,224 @@
+{
+  "quiz1": [
+    {
+      "question": "In which state does the greatest number of Uranium mines exist as of September 2015?",
+      "options": [
+        "Jharkhand",
+        "Odisha",
+        "Madhya Pradesh",
+        "Chhattisgarh"
+      ],
+      "answer": 0,
+      "explanation": "📝 As of September 2015, Jharkhand is known to have the greatest number of uranium mines in India, primarily due to the presence of significant uranium deposits in the Jaduguda region."
+    },
+    {
+      "question": "Which state is the largest producer of wind energy in India?",
+      "options": [
+        "Tamil Nadu",
+        "Maharashtra",
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "answer": 0,
+      "explanation": "📝 Tamil Nadu is the largest producer of wind energy in India, with a significant number of wind farms, particularly in the southern and western parts of the state."
+    },
+    {
+      "question": "The ray that comes back from a surface after the reflection is known as",
+      "options": [
+        "a reflected ray",
+        "an X-ray",
+        "an incident ray",
+        "an alpha ray"
+      ],
+      "answer": 0,
+      "explanation": "📝 The ray that comes back from a surface after reflection is called the **reflected ray**, as it is the light ray that bounces off the surface according to the law of reflection."
+    },
+    {
+      "question": "Which Indian boxer won a Gold Medal in Asian Games 2018?",
+      "options": [
+        "Manoj Kumar",
+        "Amit Panghal",
+        "Gaurav Solanki",
+        "Shiva Thapa"
+      ],
+      "answer": 1,
+      "explanation": "📝 Amit Panghal won the gold medal in the men's 49 kg boxing event at the 2018 Asian Games held in Jakarta, Indonesia."
+    },
+    {
+      "question": "Article 40 of the Constitution of India deals with",
+      "options": [
+        "fundamental duties",
+        "uniform civil code",
+        "organisation of village panchayats",
+        "uniform civil code"
+      ],
+      "answer": 2,
+      "explanation": "📝 Article 40 of the Indian Constitution deals with the **organisation of village panchayats**, directing the state to take steps to organize village panchayats and endow them with necessary powers."
+    },
+    {
+      "question": "From the given alternatives, select the word which CANNOT be formed using the letters of the given word: AUSZCLALE",
+      "options": [
+        "RECEIPT",
+        "PRECEPT",
+        "CREATOR",
+        "APPEAR"
+      ],
+      "answer": 2,
+      "explanation": "📝 The word 'AUSZCLALE' contains the letters: A, U, S, Z, C, L, A, L, E. The word 'CREATOR' cannot be formed because it requires the letters C, R, E, A, T, O, R, and the letters R, T, O are not available in 'AUSZCLALE'."
+    },
+    {
+      "question": "Select the number pair which is different from the other three responses.",
+      "options": [
+        "19,132",
+        "39,272",
+        "31,216",
+        "23,161"
+      ],
+      "answer": 3,
+      "explanation": "📝 To find the odd pair, check the pattern. For each pair (a, b), calculate b/a: 132/19 ≈ 6.95, 272/39 ≈ 6.97, 216/31 ≈ 6.97, 161/23 ≈ 7. All pairs except (23,161) have b/a ≈ 6.97, so (23,161) is different."
+    },
+    {
+      "question": "The value of voltages V1 and V2 for the circuit shown is (Use Nodal Analysis):",
+      "options": [
+        "7/10 V, 3/7 V",
+        "10/3 V, 7/3 V",
+        "3/10 V, 3/7 V",
+        "1/7 V, 3/4 V"
+      ],
+      "answer": 1,
+      "explanation": "📝 Using nodal analysis, the voltages V1 and V2 for the given circuit are calculated to be 10/3 V and 7/3 V, respectively, based on the circuit configuration and Kirchhoff's Current Law."
+    },
+    {
+      "question": "For the circuit shown, the value of current 'I' is:",
+      "options": [
+        "1 A",
+        "2 A",
+        "3 A",
+        "Zero"
+      ],
+      "answer": 0,
+      "explanation": "📝 Based on the circuit configuration, the current 'I' is calculated to be 1 A using appropriate circuit analysis techniques such as Kirchhoff's laws or Ohm's law."
+    },
+    {
+      "question": "For the figure shown, the value of the supply voltage 'V' is:",
+      "options": [
+        "12 V",
+        "4.5 V",
+        "19.5 V",
+        "3 V"
+      ],
+      "answer": 2,
+      "explanation": "📝 The supply voltage 'V' is calculated as 19.5 V using circuit analysis, considering the voltage drops and resistances in the circuit."
+    },
+    {
+      "question": "The value of currents in the network shown is:",
+      "options": [
+        "2.85 A, 3.57 A, 0.72 A",
+        "2.85 A, -3.57 A, -0.72 A",
+        "-2.85 A, 3.57 A, 0.72 A",
+        "2 A, 4 A, 6 A"
+      ],
+      "answer": 0,
+      "explanation": "📝 Using network analysis (e.g., mesh or nodal analysis), the currents in the given network are found to be 2.85 A, 3.57 A, and 0.72 A."
+    },
+    {
+      "question": "The equivalent resistance of the network is:",
+      "options": [
+        "150 Ω",
+        "50 Ω",
+        "100 Ω",
+        "200 Ω"
+      ],
+      "answer": 2,
+      "explanation": "📝 The equivalent resistance of the network is calculated to be 100 Ω by combining the resistors in series and parallel as per the circuit configuration."
+    },
+    {
+      "question": "The equivalent resistance of the circuit is:",
+      "options": [
+        "8 Ω",
+        "12 Ω",
+        "5 Ω",
+        "6 Ω"
+      ],
+      "answer": 3,
+      "explanation": "📝 The equivalent resistance of the circuit is found to be 6 Ω by analyzing the series and parallel combinations of the resistors."
+    },
+    {
+      "question": "The value of voltage v(t) for the circuit shown is:",
+      "options": [
+        "a e^at + b e^bt",
+        "e^at + e^bt",
+        "e^at - e^bt",
+        "a^at - b e^bt"
+      ],
+      "answer": 0,
+      "explanation": "📝 For the given circuit, the voltage v(t) is expressed as a e^at + b e^bt, derived from the solution of the differential equation governing the circuit's transient response."
+    },
+    {
+      "question": "For the circuit shown, the value of voltage V_AB is:",
+      "options": [
+        "40 V",
+        "25 V",
+        "10 V",
+        "6 V"
+      ],
+      "answer": 3,
+      "explanation": "📝 Using circuit analysis (e.g., Kirchhoff’s Voltage Law), the voltage V_AB across the given points in the circuit is calculated to be 6 V."
+    },
+    {
+      "question": "Find v_o in the following circuit using superposition theorem:",
+      "options": [
+        "10 V",
+        "12 V",
+        "7.4 V",
+        "4.6 V"
+      ],
+      "answer": 2,
+      "explanation": "📝 Using the superposition theorem, the output voltage v_o is calculated by considering the contribution of each source independently, resulting in 7.4 V."
+    },
+    {
+      "question": "For the network shown, the value of supply current and source emf is:",
+      "options": [
+        "4.5 A, 36 V",
+        "1.5 A, 27 V",
+        "4.5 A, 87 V",
+        "1.5 A, 36 V"
+      ],
+      "answer": 3,
+      "explanation": "📝 The supply current and source emf are calculated as 1.5 A and 36 V, respectively, using circuit analysis techniques like Kirchhoff’s laws."
+    },
+    {
+      "question": "The value of potential difference across the 2 Ω resistor for the network shown is:",
+      "options": [
+        "2.8 V",
+        "10.1 V",
+        "5.2 V",
+        "2.1 V"
+      ],
+      "answer": 3,
+      "explanation": "📝 The potential difference across the 2 Ω resistor is calculated as 2.1 V using Ohm’s law and the current flowing through the resistor."
+    },
+    {
+      "question": "For the circuit shown, the value of currents I1 and I2 is:",
+      "options": [
+        "2.5 A, 1.5 A",
+        "3 A, 2.5 A",
+        "1 A, 1.5 A",
+        "1.5 A, 0.5 A"
+      ],
+      "answer": 3,
+      "explanation": "📝 Using circuit analysis (e.g., mesh analysis), the currents I1 and I2 are found to be 1.5 A and 0.5 A, respectively."
+    },
+    {
+      "question": "A transformer has 400 W as iron loss at full load. The iron loss at half full load will be:",
+      "options": [
+        "400 W",
+        "800 W",
+        "100 W",
+        "200 W"
+      ],
+      "answer": 0,
+      "explanation": "📝 Iron loss in a transformer is primarily due to hysteresis and eddy currents, which are independent of load. Thus, the iron loss remains 400 W at half full load."
+    }
+  ]
+    }
