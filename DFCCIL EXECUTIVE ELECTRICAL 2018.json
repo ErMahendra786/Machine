@@ -8,7 +8,7 @@
                 "Madhya Pradesh",
                 "Chhattisgarh"
             ],
-            "answer": "Jharkhand",
+            "answer": 0,
             "explanation": "Jharkhand has the highest number of Uranium mines in India as of September 2015, primarily due to the presence of significant uranium deposits in the Singhbhum region."
         },
         {
@@ -19,7 +19,7 @@
                 "Gujarat",
                 "Uttar Pradesh"
             ],
-            "answer": "Gujarat",
+            "answer": 2,
             "explanation": "The National Soil and Transport Initiative, India's first release university, was inaugurated in Gujarat, aimed at promoting research and education in soil science and transportation."
         
         
