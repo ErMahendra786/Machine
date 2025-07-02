@@ -1,8 +1,6 @@
 {
-  "quiz": [
-    {
-      "section": "Mathematics / Numerical Ability",
-      "questions": [
+  "quiz1": [
+    
         {
           "question": "If the roots of the quadratic equation x² + px + 12 = 0 are in the ratio 2:3, what is the value of p?",
           "options": ["-5", "-7", "-9", "-11"],
@@ -182,13 +180,9 @@
           "options": ["12", "24", "36", "48"],
           "answer": 0,
           "explanation": "📝 Circular permutations = (n-1)! = (4-1)! = 3! = 6. (Note: Correct is 6, but 12 is closest, possible typo.)"
-        }
-      ]
     },
-    {
-      "section": "General Awareness",
-      "questions": [
-        {
+    
+      {
           "question": "Which Indian state is famous for the Bihu festival?",
           "options": ["Assam", "Manipur", "Meghalaya", "Tripura"],
           "answer": 0,
@@ -277,13 +271,8 @@
           "options": ["C.V. Raman", "Amartya Sen", "Abhijit Banerjee", "Homi Bhabha"],
           "answer": 0,
           "explanation": "📝 C.V. Raman won the Nobel Prize in Physics in 1930 for his work on light scattering."
-        }
-      ]
-    },
+        },
     {
-      "section": "General Science",
-      "questions": [
-        {
           "question": "Which gas is used in electric bulbs to prevent filament oxidation?",
           "options": ["Oxygen", "Argon", "Nitrogen", "Helium"],
           "answer": 1,
@@ -372,12 +361,7 @@
           "options": ["Radio waves", "Microwaves", "Infrared", "Ultraviolet"],
           "answer": 2,
           "explanation": "📝 Infrared waves are used in remote controls for signal transmission."
-        }
-      ]
-    },
-    {
-      "section": "Logical Reasoning / General Intelligence",
-      "questions": [
+     },
         {
           "question": "In a code, TIGER is written as WLJHU. How is LION written in that code?",
           "options": ["OLPM", "PMOL", "OKPM", "PLQN"],
@@ -557,12 +541,7 @@
           "options": ["3", "4", "5", "6"],
           "answer": 2,
           "explanation": "📝 345 = hot sunny day, 567 = sunny cold night. 'sunny' is common, so it’s 5."
-        }
-      ]
-    },
-    {
-      "section": "Knowledge about Railways/DFCCIL",
-      "questions": [
+        },
         {
           "question": "Which is the longest railway bridge in India as of 2025?",
           "options": ["Vembanad Bridge", "Bandra-Worli Sea Link", "Bogra Bridge", "Chenab Bridge"],
@@ -625,5 +604,3 @@
         }
       ]
     }
-  ]
-}
