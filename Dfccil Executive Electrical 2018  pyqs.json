@@ -395,6 +395,942 @@
             ],
             "correct_answer": "1.5 A, 0.5 A",
             "explanation": "Applying KVL and solving the system of equations, I₁ = 1.5 A and I₂ = 0.5 A."
+        },
+        
+        {
+            "question": "A transformer has 400 W as iron loss at full load. The iron loss at half full load will be ______.",
+            "options": [
+                "400 W",
+                "800 W",
+                "100 W",
+                "200 W"
+            ],
+            "correct_answer": "400 W",
+            "explanation": "Iron loss (core loss) is constant regardless of load, as it depends on the magnetic flux and supply voltage. Thus, it remains 400 W."
+        },
+        {
+            "question": "A two-pole alternator is running at 1,500 rpm. Its angular velocity will be ______.",
+            "options": [
+                "192 rad/s",
+                "157 rad/s",
+                "212 rad/s",
+                "118 rad/s"
+            ],
+            "correct_answer": "157 rad/s",
+            "explanation": "Angular velocity ω = 2π × (rpm/60) = 2π × (1500/60) ≈ 157 rad/s."
+        },
+        {
+            "question": "In a split-phase induction motor, the two stator windings ______.",
+            "options": [
+                "have equal R/X_L ratio",
+                "draw only the in-phase currents",
+                "are mutually displaced by 90° electrically",
+                "draw equal currents"
+            ],
+            "correct_answer": "are mutually displaced by 90° electrically",
+            "explanation": "Split-phase motors use two windings displaced by 90° to create a rotating magnetic field for starting torque."
+        },
+        {
+            "question": "Core lamination in a transformer decreases ______.",
+            "options": [
+                "eddy current loss",
+                "hysteresis loss",
+                "copper loss",
+                "leakage reactance"
+            ],
+            "correct_answer": "eddy current loss",
+            "explanation": "Laminations reduce eddy currents by increasing resistance to circulating currents, thus minimizing eddy current loss."
+        },
+        {
+            "question": "A three-phase induction motor is running at 4% slip. If the input to the rotor is 1,000 W, then the mechanical power developed by the motor will be ______.",
+            "options": [
+                "960 W",
+                "9,600 W",
+                "96 W",
+                "0.96 W"
+            ],
+            "correct_answer": "960 W",
+            "explanation": "Mechanical power = Rotor input × (1 - slip) = 1000 W × (1 - 0.04) = 960 W."
+        },
+        {
+            "question": "The armature of a DC machine is placed on the rotor to ______.",
+            "options": [
+                "reduce losses",
+                "save iron",
+                "support commutation",
+                "decrease armature reaction"
+            ],
+            "correct_answer": "support commutation",
+            "explanation": "Placing the armature on the rotor allows for direct connection to the commutator, which is essential for current reversal in DC machines and smooth operation."
+        },
+        {
+            "question": "A washing machine generally employs a ______ motor.",
+            "options": [
+                "shaded pole",
+                "resistance split phase",
+                "single-phase series",
+                "hysteresis"
+            ],
+            "correct_answer": "single-phase series",
+            "explanation": "Washing machines typically use single-phase series (universal) motors because they provide high starting torque and variable speed control, suitable for agitation and spin cycles."
+        },
+        {
+            "question": "An open circuit test on a transformer gives ______.",
+            "options": [
+                "friction losses",
+                "iron losses",
+                "total losses",
+                "copper losses"
+            ],
+            "correct_answer": "iron losses",
+            "explanation": "The open-circuit test measures iron (core) losses, as the secondary is open, and only magnetizing current flows, causing hysteresis and eddy current losses in the core."
+        },
+        {
+            "question": "In a 6-pole DC machine, 90 mechanical degrees corresponds to how many electrical degrees?",
+            "options": [
+                "270",
+                "180",
+                "30",
+                "45"
+            ],
+            "correct_answer": "270",
+            "explanation": "Electrical degrees = Mechanical degrees × (P/2), where P is the number of poles. For 6 poles: 90 × (6/2) = 270 electrical degrees."
+        },
+        {
+            "question": "A ______ motor runs at the highest speed when the load is removed.",
+            "options": [
+                "cumulatively compound",
+                "series",
+                "shunt",
+                "differentially compound"
+            ],
+            "correct_answer": "series",
+            "explanation": "Series motors have speed inversely proportional to load. Under no-load conditions, their speed can dangerously increase (called 'runaway speed'), unlike shunt motors that maintain stable speed."
+        },
+        {
+            "question": "The magnetic flux path in a transformer must have ______.",
+            "options": [
+                "high resistance",
+                "low resistance",
+                "high reluctance",
+                "low reluctance"
+            ],
+            "correct_answer": "low reluctance",
+            "explanation": "Low reluctance in the core ensures efficient magnetic flux linkage between primary and secondary windings, minimizing energy losses and improving transformer performance."
+        },
+        {
+            "question": "Leakage flux in a transformer ______.",
+            "options": [
+                "helps in the transfer of energy",
+                "produces mutually-induced emf",
+                "is minimised by interleaving the primary and secondary windings",
+                "is negligible at full load"
+            ],
+            "correct_answer": "is minimised by interleaving the primary and secondary windings",
+            "explanation": "Leakage flux (flux not linking both windings) is reduced by interleaving windings, which improves coupling efficiency and reduces inductive losses."
+        },
+        {
+            "question": "The primary of a ______ should never be energised when its secondary is open circuited.",
+            "options": [
+                "potential transformer",
+                "current transformer",
+                "autotransformer",
+                "power transformer"
+            ],
+            "correct_answer": "current transformer",
+            "explanation": "An open-circuited secondary in a current transformer can cause excessive primary voltage, damaging insulation and posing safety hazards due to high induced voltages."
+        },
+        {
+            "question": "For a simplex wave-wound generator, emf generated path is given by ______. (Symbols: Φ = Flux/pole, Z = Total conductors, P = Poles, N = rpm)",
+            "options": [
+                "(ΦPN)/120",
+                "(ΦZPN)/120",
+                "(ΦZPN)/180",
+                "(ΦZN)/60"
+            ],
+            "correct_answer": "(ΦZPN)/120",
+            "explanation": "The emf equation for a wave-wound DC generator is E = (ΦZPN)/120, accounting for parallel paths and rotational speed."
+        },
+        {
+            "question": "Three-phase wound rotor motors are commonly called as ______ motors.",
+            "options": [
+                "Synchronous",
+                "Commutator",
+                "Slip ring",
+                "Series"
+            ],
+            "correct_answer": "Slip ring",
+            "explanation": "Wound rotor induction motors use slip rings to connect external resistors to the rotor circuit, enabling control of starting torque and speed."
+        },
+        {
+            "question": "Running the machine at no load is NOT recommended for a/an ______.",
+            "options": [
+                "induction motor",
+                "DC shunt motor",
+                "synchronous motor",
+                "DC series motor"
+            ],
+            "correct_answer": "DC series motor",
+            "explanation": "DC series motors can achieve dangerously high speeds (runaway) under no-load conditions due to negligible back emf, risking mechanical failure."
+        },
+        {
+            "question": "Which type of single-phase motor has the lowest speed?",
+            "options": [
+                "Hysteresis",
+                "Universal",
+                "Shaded pole",
+                "Repulsion"
+            ],
+            "correct_answer": "Shaded pole",
+            "explanation": "Shaded pole motors have the lowest speed due to their simple construction and weak rotating magnetic field, making them suitable for low-power applications like fans."
+        },
+        {
+            "question": "A capacitor-start motor has a ______.",
+            "options": [
+                "high starting torque",
+                "low efficiency",
+                "low power factor",
+                "high power factor"
+            ],
+            "correct_answer": "high starting torque",
+            "explanation": "The capacitor in the auxiliary winding creates a phase shift, producing a strong rotating magnetic field and high starting torque, ideal for applications like compressors."
+        },
+        {
+            "question": "The open-circuit characteristic of a DC generator is also called as ______ characteristics.",
+            "options": [
+                "internal",
+                "performance",
+                "external",
+                "no load saturation"
+            ],
+            "correct_answer": "no load saturation",
+            "explanation": "The OCC curve plots generated emf vs. field current under no-load conditions, revealing core saturation effects at high field currents."
+        },
+        {
+            "question": "The direction of rotation of field in a three-phase induction motor depends on the ______.",
+            "options": [
+                "supply voltage",
+                "number of poles",
+                "supply frequency",
+                "phase sequence of supply voltage"
+            ],
+            "correct_answer": "phase sequence of supply voltage",
+            "explanation": "Reversing the phase sequence (e.g., swapping any two supply leads) changes the direction of the rotating magnetic field and thus the motor's rotation."
+        },
+        {
+            "question": "The function of dummy coils in DC machines is to ______.",
+            "options": [
+                "improve commutation",
+                "reduce machine cost",
+                "mechanically balance the armature",
+                "increase efficiency"
+            ],
+            "correct_answer": "mechanically balance the armature",
+            "explanation": "Dummy coils (unconnected conductors) provide symmetrical weight distribution in the armature, preventing vibration and ensuring smooth operation."
+        },
+        {
+            "question": "To obtain greater efficiency, the slip of an induction motor should be ______.",
+            "options": [
+                "low",
+                "very high",
+                "high",
+                "1"
+            ],
+            "correct_answer": "low",
+            "explanation": "Lower slip (closer to synchronous speed) reduces rotor copper losses (I²R), improving efficiency. Typical full-load slip is 2–5%."
+        },
+        {
+            "question": "The current drawn by a 220 V DC motor of armature resistance 0.5 Ω and back emf 180 V is ______.",
+            "options": [
+                "0.8 A",
+                "80 A",
+                "8 A",
+                "18 A"
+            ],
+            "correct_answer": "80 A",
+            "explanation": "Armature current = (Supply voltage - Back emf) / Armature resistance = (220 V - 180 V) / 0.5 Ω = 80 A."
+        },
+        {
+            "question": "How many diodes are used to construct half-wave, full-wave, and bridge rectifier circuits, respectively?",
+            "options": [
+                "2, 1, 4",
+                "2, 4, 1",
+                "4, 1, 2",
+                "1, 2, 4"
+            ],
+            "correct_answer": "1, 2, 4",
+            "explanation": "Half-wave uses 1 diode, full-wave center-tapped uses 2 diodes, and bridge rectifiers use 4 diodes for bidirectional conduction."
+        },
+        {
+            "question": "If the resolution of a digital-to-analog converter is approximately 0.4% of its full-scale range, then it is a ______.",
+            "options": [
+                "16-bit converter",
+                "10-bit converter",
+                "8-bit converter",
+                "12-bit converter"
+            ],
+            "correct_answer": "8-bit converter",
+            "explanation": "An 8-bit DAC has 256 steps (2⁸), giving a resolution of 1/256 ≈ 0.39%, closest to the 0.4% specified."
+        },
+        {
+            "question": "The product of the two binary numbers 011 and 110 is:",
+            "options": [
+                "01110",
+                "11001",
+                "10010",
+                "11100"
+            ],
+            "correct_answer": "10010",
+            "explanation": "Binary multiplication: 011 (3) × 110 (6) = 10010 (18). The calculation follows standard binary multiplication rules."
+        },
+        {
+            "question": "Among the following, which is a fixed frequency oscillator?",
+            "options": [
+                "Crystal oscillator",
+                "Phase-shift oscillator",
+                "Hartley oscillator",
+                "Colpitt's oscillator"
+            ],
+            "correct_answer": "Crystal oscillator",
+            "explanation": "Crystal oscillators use the mechanical resonance of a vibrating crystal to generate a precise fixed frequency, making them highly stable."
+        },
+        {
+            "question": "The circuit which produces the best stabilization of an operating point is ______.",
+            "options": [
+                "base bias",
+                "collector feedback",
+                "emitter bias",
+                "voltage divider"
+            ],
+            "correct_answer": "voltage divider",
+            "explanation": "Voltage divider bias provides excellent operating point stability due to its independence from β (current gain) variations in transistors."
+        },
+        {
+            "question": "The output and input voltages of an emitter-follower have a phase difference of ______.",
+            "options": [
+                "0°",
+                "270°",
+                "90°",
+                "180°"
+            ],
+            "correct_answer": "0°",
+            "explanation": "Emitter-follower (common collector) configuration has no phase shift (0°) between input and output as the output follows the input."
+        },
+        {
+            "question": "A+AB gets simplified to:",
+            "options": [
+                "AB",
+                "B",
+                "A+B",
+                "A"
+            ],
+            "correct_answer": "A",
+            "explanation": "Using Boolean algebra: A + AB = A(1 + B) = A, since 1 + B = 1 in Boolean logic."
+        },
+        {
+            "question": "In a certain transistor, the emitter current is 1.04 times the collector current. If the emitter current is 12 mA, calculate the base current.",
+            "options": [
+                "462 μA",
+                "11.538 mA",
+                "462 mA",
+                "11.538 μA"
+            ],
+            "correct_answer": "462 μA",
+            "explanation": "Given IE = 1.04×IC and IE = 12 mA, IC = 12/1.04 ≈ 11.538 mA. Base current IB = IE - IC = 12 mA - 11.538 mA = 462 μA."
+        },
+        {
+            "question": "State the respective ripple factor and efficiency of a full wave rectifier.",
+            "options": [
+                "0.40, 80%",
+                "1.21, 40.1%",
+                "0.81, 48%",
+                "0.48, 81.2%"
+            ],
+            "correct_answer": "0.48, 81.2%",
+            "explanation": "Full-wave rectifiers have a ripple factor of 0.48 and theoretical efficiency of 81.2%, superior to half-wave rectifiers."
+        },
+        {
+            "question": "State the octal equivalent of hexadecimal number (B34)₁₆.",
+            "options": [
+                "(6454)₈",
+                "(4564)₈",
+                "(5464)₈",
+                "(5645)₈"
+            ],
+            "correct_answer": "(5464)₈",
+            "explanation": "Convert hex to binary: B34 → 1011 0011 0100. Group into octal: 101 100 110 100 → 5 4 6 4 → (5464)₈."
+        },
+        {
+            "question": "Zener diodes are used as ______.",
+            "options": [
+                "voltage regulators",
+                "amplifiers",
+                "oscillators",
+                "rectifiers"
+            ],
+            "correct_answer": "voltage regulators",
+            "explanation": "Zener diodes operate in reverse breakdown to maintain a constant output voltage, making them ideal for voltage regulation."
+        },
+        {
+            "question": "State the correct condition for transistor to operate in cut-off region.",
+            "options": [
+                "Emitter-base junction: forward bias; Collector-base junction: forward bias",
+                "Emitter-base junction: reverse bias; Collector-base junction: forward bias",
+                "Emitter-base junction: forward bias; Collector-base junction: reverse bias",
+                "Emitter-base junction: reverse bias; Collector-base junction: reverse bias"
+            ],
+            "correct_answer": "Emitter-base junction: reverse bias; Collector-base junction: reverse bias",
+            "explanation": "Cut-off occurs when both junctions are reverse-biased, turning the transistor fully OFF (no collector current)."
+        },
+        {
+            "question": "Voltage regulation is given by: (V_NL = No-load voltage, V_FL = Full-load voltage)",
+            "options": [
+                "((V_NL + V_FL)/V_NL) × 100%",
+                "((V_NL - V_FL)/V_NL) × 100%",
+                "((V_NL - V_FL)/V_FL) × 100%",
+                "((V_NL + V_FL)/V_FL) × 100%"
+            ],
+            "correct_answer": "((V_NL - V_FL)/V_NL) × 100%",
+            "explanation": "Voltage regulation measures the percentage drop from no-load to full-load conditions: (V_NL - V_FL)/V_NL × 100%."
+        },
+        {
+            "question": "The charge carriers which have the greatest mobility are the ______.",
+            "options": [
+                "electrons",
+                "positive ions",
+                "holes",
+                "negative ions"
+            ],
+            "correct_answer": "electrons",
+            "explanation": "Electrons have higher mobility than holes or ions due to their smaller effective mass and direct movement in conduction bands."
+        },
+        {
+            "question": "The ideal value of CMRR is ______.",
+            "options": [
+                "−∞",
+                "1",
+                "0",
+                "∞"
+            ],
+            "correct_answer": "∞",
+            "explanation": "Common-Mode Rejection Ratio (CMRR) should ideally be infinite, indicating perfect rejection of common-mode signals in differential amplifiers."
+        },
+        {
+            "question": "State the respective decimal equivalent and hexadecimal equivalent of (65)₈.",
+            "options": [
+                "53, 35",
+                "46, 65",
+                "65, 46",
+                "35, 53"
+            ],
+            "correct_answer": "53, 35",
+            "explanation": "(65)₈ = 6×8¹ + 5×8⁰ = 53 in decimal. 53 in decimal is 35 in hexadecimal (3×16¹ + 5×16⁰)."
+        },
+        {
+            "question": "The lower and upper cut-off frequencies are also called as ______ frequencies.",
+            "options": [
+                "half resonant",
+                "half power",
+                "resonant",
+                "side band"
+            ],
+            "correct_answer": "half power",
+            "explanation": "Cut-off frequencies mark the points where power drops to half (-3 dB) of the maximum value, hence called half-power frequencies."
+        },
+        {
+            "question": "The binary equivalent of decimal 22 is:",
+            "options": [
+                "10110",
+                "10001",
+                "11010",
+                "11111"
+            ],
+            "correct_answer": "10110",
+            "explanation": "Decimal 22 converts to binary as: 16 (1) + 4 (1) + 2 (1) → 10110."
+        },
+        {
+            "question": "Electrostatic-type instruments are primarily used as:",
+            "options": [
+                "wattmeters",
+                "ohmmeters",
+                "voltmeters",
+                "ammeters"
+            ],
+            "correct_answer": "voltmeters",
+            "explanation": "Electrostatic instruments measure voltage based on Coulomb's law between charged plates, suitable for high-voltage AC/DC measurements."
+        },
+        {
+            "question": "Integrating meters are used for the measurement of:",
+            "options": [
+                "current",
+                "phase",
+                "energy",
+                "voltage"
+            ],
+            "correct_answer": "energy",
+            "explanation": "Integrating meters (e.g., energy meters) accumulate readings over time, measuring total energy consumed (kWh)."
+        },
+        {
+            "question": "To ensure safety, what should be the resistance of the earthing electrode?",
+            "options": [
+                "high",
+                "low",
+                "safety does not depend on resistance",
+                "medium"
+            ],
+            "correct_answer": "low",
+            "explanation": "Low earthing resistance ensures fault currents dissipate safely into the ground, preventing dangerous voltage buildup on equipment."
+        },
+        {
+            "question": "An electrodynamometer type of instruments find its major use as:",
+            "options": [
+                "both, a standard instrument and a transfer instrument",
+                "a transfer instrument only",
+                "a standard instrument only",
+                "a type of indicator instrument"
+            ],
+            "correct_answer": "both, a standard instrument and a transfer instrument",
+            "explanation": "Electrodynamometers are versatile, serving as standards for calibration (AC/DC) and transferring measurements between labs due to high accuracy."
+        },
+        {
+            "question": "A 741 Op-Amp has:",
+            "options": [
+                "8 pins",
+                "9 pins",
+                "7 pins",
+                "6 pins"
+            ],
+            "correct_answer": "8 pins",
+            "explanation": "The standard 741 operational amplifier is packaged in an 8-pin dual in-line package (DIP), including pins for power supply, inputs, output, and offset null."
+        },
+        {
+            "question": "The number of basic SI units is:",
+            "options": [
+                "6",
+                "5",
+                "4",
+                "7"
+            ],
+            "correct_answer": "7",
+            "explanation": "There are 7 base SI units: meter (length), kilogram (mass), second (time), ampere (current), kelvin (temperature), mole (amount of substance), and candela (luminous intensity)."
+        },
+        {
+            "question": "The material of wires used for making standard resistances is usually:",
+            "options": [
+                "manganin",
+                "phosphor bronze",
+                "nichrome",
+                "copper"
+            ],
+            "correct_answer": "manganin",
+            "explanation": "Manganin (84% Cu, 12% Mn, 4% Ni) is used for standard resistors due to its low temperature coefficient of resistance and high resistivity."
+        },
+        {
+            "question": "Megger is essentially a:",
+            "options": [
+                "dynamometer",
+                "mega-ohmmeter",
+                "series-type ohmmeter",
+                "shunt-type ohmmeter"
+            ],
+            "correct_answer": "mega-ohmmeter",
+            "explanation": "A Megger is a specialized instrument designed to measure high insulation resistances, typically in the megaohm range, using a hand-cranked DC generator."
+        },
+        {
+            "question": "Air friction damping is used in a/an ______ instrument.",
+            "options": [
+                "hot wire",
+                "induction",
+                "moving iron",
+                "moving coil"
+            ],
+            "correct_answer": "moving iron",
+            "explanation": "Moving iron instruments commonly use air friction damping, where a lightweight aluminum vane moves in a closed chamber to provide smooth pointer movement."
+        },
+        {
+            "question": "The two-part tariff is used for ______ consumers.",
+            "options": [
+                "domestic",
+                "commercial",
+                "industrial",
+                "agricultural"
+            ],
+            "correct_answer": "industrial",
+            "explanation": "Two-part tariff (fixed charge + energy charge) is typically applied to industrial consumers to account for both demand and energy consumption."
+        },
+        {
+            "question": "The ______ bridge is frequency sensitive.",
+            "options": [
+                "Wien",
+                "Anderson",
+                "Wheatstone",
+                "Maxwell"
+            ],
+            "correct_answer": "Wien",
+            "explanation": "The Wien bridge's balance condition depends on frequency, making it useful for frequency measurement and oscillator circuits."
+        },
+        {
+            "question": "Which bridge is used to measure the inductance of a high Q inductor?",
+            "options": [
+                "Anderson",
+                "Hay",
+                "Maxwell",
+                "Wien"
+            ],
+            "correct_answer": "Hay",
+            "explanation": "The Hay bridge is specifically designed for measuring high-Q inductors (Q > 10) by using a series resistance-capacitance combination in one arm."
+        },
+        {
+            "question": "Which of the following is correct for over-damped and under-damped system, respectively?",
+            "options": [
+                "ξ = 0, ξ = -1",
+                "ξ > 1, 0 < ξ < 1",
+                "ξ > 1, ξ = 0",
+                "0 < ξ < 1, ξ = -1"
+            ],
+            "correct_answer": "ξ > 1, 0 < ξ < 1",
+            "explanation": "In control systems: over-damped (ξ > 1, slow non-oscillatory response), under-damped (0 < ξ < 1, oscillatory response with decay)."
+        },
+        {
+            "question": "Any physical system that does NOT automatically correct for variation in its output is a/an:",
+            "options": [
+                "open-loop system",
+                "closed-loop system",
+                "stable system",
+                "unstable system"
+            ],
+            "correct_answer": "open-loop system",
+            "explanation": "Open-loop systems lack feedback, so they cannot compensate for disturbances or errors in the output."
+        },
+        {
+            "question": "Determine the stability of system: s³ + s² + s + 4",
+            "options": [
+                "Absolutely stable",
+                "Critically stable",
+                "Unstable",
+                "Marginally stable"
+            ],
+            "correct_answer": "Unstable",
+            "explanation": "Using Routh-Hurwitz criterion: the system has sign changes in the first column of the Routh array, indicating instability."
+        },
+        {
+            "question": "The phase shift of a second-order system with a transfer function 1/s² is:",
+            "options": [
+                "180°",
+                "90°",
+                "-90°",
+                "-180°"
+            ],
+            "correct_answer": "-180°",
+            "explanation": "For 1/s², the phase angle is -90° × 2 = -180° at all frequencies, as each integrator contributes -90° phase shift."
+        },
+        {
+            "question": "The frequency at which the phase angle is 180° is called the ______ frequency:",
+            "options": [
+                "break",
+                "critical",
+                "phase cross-over",
+                "cut-off"
+            ],
+            "correct_answer": "phase cross-over",
+            "explanation": "Phase cross-over frequency is where the system's phase angle reaches -180°, critical for stability analysis in Bode plots."
+        },
+        {
+            "question": "Determine transfer function if the impulse response is e⁻²ᵗ:",
+            "options": [
+                "1/(s+2)",
+                "1/(s-2)",
+                "1/(s+2)²",
+                "1/(s-2)²"
+            ],
+            "correct_answer": "1/(s+2)",
+            "explanation": "The Laplace transform of e⁻ᵃᵗ is 1/(s+a). Here, a=2, so the transfer function is 1/(s+2)."
+        },
+        {
+            "question": "______ is a material that is used to make cable sheaths.",
+            "options": [
+                "Aluminium",
+                "Copper",
+                "Lead",
+                "Cast iron"
+            ],
+            "correct_answer": "Lead",
+            "explanation": "Lead is commonly used for cable sheathing due to its corrosion resistance, malleability, and moisture-proof properties."
+        },
+        {
+            "question": "What is the coordination number of a body-centred cubic structure?",
+            "options": [
+                "6",
+                "8",
+                "12",
+                "4"
+            ],
+            "correct_answer": "8",
+            "explanation": "In BCC, each atom is in contact with 8 nearest neighbors (coordination number 8), arranged at the corners of a cube."
+        },
+        {
+            "question": "Which of the following is NOT an example of a semiconductor material?",
+            "options": [
+                "Silicon",
+                "Copper",
+                "Germanium",
+                "Arsenic"
+            ],
+            "correct_answer": "Copper",
+            "explanation": "Copper is a conductor, not a semiconductor. Silicon, germanium, and arsenic (in compound semiconductors) are semiconductor materials."
+        },
+        {
+            "question": "Which of the following is an example of a monoclinic system?",
+            "options": [
+                "SiO₂",
+                "CaF₂",
+                "FeSO₄",
+                "NaCl"
+            ],
+            "correct_answer": "FeSO₄",
+            "explanation": "Ferrous sulfate (FeSO₄) crystallizes in the monoclinic system, characterized by three unequal axes with one oblique angle."
+        },
+        {
+            "question": "What is the atomic packing factor for BCC and FCC, respectively?",
+            "options": [
+                "0.52, 0.78",
+                "0.74, 0.68",
+                "0.52, 0.74",
+                "0.68, 0.74"
+            ],
+            "correct_answer": "0.68, 0.74",
+            "explanation": "BCC has APF = 0.68 (68% space filled), FCC has APF = 0.74 (74% space filled), making FCC more densely packed."
+        },
+        {
+            "question": "State the electronic configuration of Argon.",
+            "options": [
+                "1s²2p²2p⁶3s²3p⁶",
+                "1s²2s²2s⁶3p²3p⁶",
+                "1s²2s²2p⁶3s²3p⁶",
+                "1s²2p²2p⁶3s²3p⁶"
+            ],
+            "correct_answer": "1s²2s²2p⁶3s²3p⁶",
+            "explanation": "Argon (atomic number 18) has the configuration: 1s² 2s² 2p⁶ 3s² 3p⁶, with all orbitals completely filled."
+        },
+        {
+            "question": "The maximum firing angle that can be obtained by a pure resistive trigger circuit used in phase control circuit is:",
+            "options": [
+                "180°",
+                "90°",
+                "45°",
+                "135°"
+            ],
+            "correct_answer": "90°",
+            "explanation": "In a purely resistive trigger circuit, the maximum firing angle is limited to 90° because beyond this point, the thyristor cannot be triggered reliably due to decreasing voltage."
+        },
+        {
+            "question": "Buchholz relay is a/an:",
+            "options": [
+                "oil temperature-actuated relay",
+                "gas-actuated relay",
+                "current-actuated relay",
+                "oil-actuated relay"
+            ],
+            "correct_answer": "gas-actuated relay",
+            "explanation": "Buchholz relay detects gas accumulation caused by internal faults in oil-immersed transformers, making it a gas-actuated protective device."
+        },
+        {
+            "question": "HRC fuses provide the best protection against:",
+            "options": [
+                "sparking",
+                "short circuit",
+                "fire",
+                "lightning"
+            ],
+            "correct_answer": "short circuit",
+            "explanation": "High Rupturing Capacity (HRC) fuses are designed to safely interrupt high short-circuit currents without exploding."
+        },
+        {
+            "question": "______ combined together are called stray losses.",
+            "options": [
+                "Frictional loss and copper loss",
+                "Field copper loss and iron loss",
+                "Iron and mechanical losses",
+                "Copper and iron losses"
+            ],
+            "correct_answer": "Iron and mechanical losses",
+            "explanation": "Stray losses include iron losses (hysteresis + eddy current) and mechanical losses (bearing friction + windage), not directly related to load current."
+        },
+        {
+            "question": "Two coils in differential connection have self-inductance of 2 mH and 4 mH and a mutual inductance of 0.15 mH. The equivalent inductance of the combination will be:",
+            "options": [
+                "5.9 mH",
+                "6.5 mH",
+                "5.7 mH",
+                "7 mH"
+            ],
+            "correct_answer": "5.7 mH",
+            "explanation": "For differentially connected coils: L_eq = L₁ + L₂ - 2M = 2 + 4 - 2×0.15 = 5.7 mH."
+        },
+        {
+            "question": "When the gain margin is positive and phase margin is negative, the system is:",
+            "options": [
+                "unstable",
+                "highly stable",
+                "oscillatory",
+                "stable"
+            ],
+            "correct_answer": "unstable",
+            "explanation": "A negative phase margin indicates instability regardless of gain margin, as the system phase lag exceeds 180° at the gain crossover frequency."
+        },
+        {
+            "question": "The magnetic flux density on the surface of an iron face is 1.5 T, which is the typical saturation level value of ferromagnetic material. Find the force density on the iron face.",
+            "options": [
+                "0.89 N/m²",
+                "8.9×10⁵ N/m²",
+                "1.12 N/m²",
+                "1.12×10⁶ N/m²"
+            ],
+            "correct_answer": "8.9×10⁵ N/m²",
+            "explanation": "Force density = B²/(2μ₀) = (1.5)²/(2×4π×10⁻⁷) ≈ 8.9×10⁵ N/m², where μ₀ is permeability of free space."
+        },
+        {
+            "question": "A transformer has 400 W as iron loss at full load. The iron loss at half full load will be ______.",
+            "options": [
+                "400 W",
+                "800 W",
+                "100 W",
+                "200 W"
+            ],
+            "correct_answer": "400 W",
+            "explanation": "Iron (core) losses are constant and independent of load, as they depend only on the applied voltage and frequency."
+        },
+        {
+            "question": "A two-pole alternator is running at 1,500 rpm. Its angular velocity will be ______.",
+            "options": [
+                "192 rad/s",
+                "157 rad/s",
+                "212 rad/s",
+                "118 rad/s"
+            ],
+            "correct_answer": "157 rad/s",
+            "explanation": "ω = 2πN/60 = 2π×1500/60 ≈ 157 rad/s, where N is speed in rpm."
+        },
+        {
+            "question": "In a split-phase induction motor, the two stator windings ______.",
+            "options": [
+                "have equal R/X_L ratio",
+                "draw only the in-phase currents",
+                "are mutually displaced by 90° electrically",
+                "draw equal currents"
+            ],
+            "correct_answer": "are mutually displaced by 90° electrically",
+            "explanation": "The main and auxiliary windings are spatially separated by 90° to create a rotating magnetic field for starting torque."
+        },
+        {
+            "question": "Core lamination in a transformer decreases ______.",
+            "options": [
+                "eddy current loss",
+                "hysteresis loss",
+                "copper loss",
+                "leakage reactance"
+            ],
+            "correct_answer": "eddy current loss",
+            "explanation": "Laminations insulated from each other reduce eddy currents by increasing the resistance to circulating current paths in the core."
+        },
+        {
+            "question": "A three-phase induction motor is running at 4% slip. If the input to the rotor is 1,000 W, then the mechanical power developed by the motor will be ______.",
+            "options": [
+                "960 W",
+                "9,600 W",
+                "96 W",
+                "0.96 W"
+            ],
+            "correct_answer": "960 W",
+            "explanation": "Mechanical power = Rotor input × (1 - s) = 1000 × (1 - 0.04) = 960 W, where s is slip."
+        },
+        {
+            "question": "The armature of a DC machine is placed on the rotor to ______.",
+            "options": [
+                "reduce losses",
+                "save iron",
+                "support commutation",
+                "decrease armature reaction"
+            ],
+            "correct_answer": "support commutation",
+            "explanation": "Rotor placement allows direct connection to the commutator, which reverses current in armature coils to maintain unidirectional torque."
+        },
+        {
+            "question": "A washing machine generally employs a ______ motor.",
+            "options": [
+                "shaded pole",
+                "resistance split phase",
+                "single-phase series",
+                "hysteresis"
+            ],
+            "correct_answer": "single-phase series",
+            "explanation": "Universal (series-wound) motors are used for high starting torque and variable speed control via voltage regulation."
+        },
+        {
+            "question": "An open circuit test on a transformer gives ______.",
+            "options": [
+                "friction losses",
+                "iron losses",
+                "total losses",
+                "copper losses"
+            ],
+            "correct_answer": "iron losses",
+            "explanation": "The open-circuit test measures core losses (hysteresis + eddy current) with the secondary open and rated voltage applied to primary."
+        },
+        {
+            "question": "In a 6-pole DC machine, 90 mechanical degrees corresponds to how many electrical degrees?",
+            "options": [
+                "270",
+                "180",
+                "30",
+                "45"
+            ],
+            "correct_answer": "270",
+            "explanation": "Electrical degrees = Mechanical degrees × (P/2) = 90 × (6/2) = 270°, where P is number of poles."
+        },
+        {
+            "question": "A ______ motor runs at the highest speed when the load is removed.",
+            "options": [
+                "cumulatively compound",
+                "series",
+                "shunt",
+                "differentially compound"
+            ],
+            "correct_answer": "series",
+            "explanation": "Series motors exhibit 'runaway' speed at no-load because back EMF cannot balance the supply voltage, causing dangerous overspeeding."
+        },
+        {
+            "question": "The magnetic flux path in a transformer must have ______.",
+            "options": [
+                "high resistance",
+                "low resistance",
+                "high reluctance",
+                "low reluctance"
+            ],
+            "correct_answer": "low reluctance",
+            "explanation": "Low-reluctance cores (high permeability) maximize flux linkage between windings, improving energy transfer efficiency."
+        },
+        {
+            "question": "Leakage flux in a transformer ______.",
+            "options": [
+                "helps in the transfer of energy",
+                "produces mutually-induced emf",
+                "is minimised by interleaving the primary and secondary windings",
+                "is negligible at full load"
+            ],
+            "correct_answer": "is minimised by interleaving the primary and secondary windings",
+            "explanation": "Interleaving windings increases coupling coefficient, reducing leakage flux that does not link both windings."
+        },
+        {
+            "question": "The primary of a ______ should never be energised when its secondary is open circuited.",
+            "options": [
+                "potential transformer",
+                "current transformer",
+                "autotransformer",
+                "power transformer"
+            ],
+            "correct_answer": "current transformer",
+            "explanation": "An open-circuited CT secondary can induce dangerously high voltages in the primary due to unopposed magnetizing current."
         
         }
     ]
